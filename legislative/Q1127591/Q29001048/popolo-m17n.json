@@ -1,0 +1,2170 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Colm Burke",
+        "lang:ga": "Colm Burke"
+      },
+      "id": "Q1110075",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1110075"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Norris",
+        "lang:ga": "David Norris"
+      },
+      "id": "Q1175932",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1175932"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Denis O'Donovan",
+        "lang:ga": "Denis O'Donovan"
+      },
+      "id": "Q1187575",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1187575"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Diarmuid Wilson",
+        "lang:ga": "Diarmuid Wilson"
+      },
+      "id": "Q1209149",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1209149"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ned O'Sullivan",
+        "lang:ga": "Ned O'Sullivan"
+      },
+      "id": "Q142592",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q142592"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frank Feighan",
+        "lang:ga": "Frank Feighan"
+      },
+      "id": "Q1443237",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443237"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paddy Burke",
+        "lang:ga": "Paddy Burke"
+      },
+      "id": "Q1556791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1556791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Reilly",
+        "lang:ga": "James Reilly"
+      },
+      "id": "Q1681029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1681029"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Grace O'Sullivan",
+        "lang:ga": "Grace O'Sullivan"
+      },
+      "id": "Q16866329",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16866329"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/GraceOSullivanIE"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gabrielle McFadden",
+        "lang:ga": "Gabrielle McFadden"
+      },
+      "id": "Q16980068",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16980068"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gerard Craughwell",
+        "lang:ga": "Gerard Craughwell"
+      },
+      "id": "Q18217265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18217265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mark Daly",
+        "lang:ga": "Mark Daly"
+      },
+      "id": "Q1900009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1900009"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael McDowell",
+        "lang:ga": "Mícheál Mac Dubhghaill"
+      },
+      "id": "Q1928579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1928579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lynn Ruane",
+        "lang:ga": "Lynn Ruane"
+      },
+      "id": "Q24006725",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24006725"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alice Mary Higgins",
+        "lang:ga": "Alice Mary Higgins"
+      },
+      "id": "Q24049120",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24049120"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fintan Warfield",
+        "lang:ga": "Fintan Warfield"
+      },
+      "id": "Q24053488",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053488"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tim Lombard",
+        "lang:ga": "Tim Lombard"
+      },
+      "id": "Q24053506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053506"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jennifer Murnane-O'Connor",
+        "lang:ga": "Jennifer Murnane-O'Connor"
+      },
+      "id": "Q24053519",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053519"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jennifer.murnane.31"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robbie Gallagher",
+        "lang:ga": "Robbie Gallagher"
+      },
+      "id": "Q24053520",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053520"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aidan Davitt",
+        "lang:ga": "Aidan Davitt"
+      },
+      "id": "Q24053534",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053534"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/aidan.davitt"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gerry Horkan",
+        "lang:ga": "Gerry Horkan"
+      },
+      "id": "Q24053535",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053535"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gerry.horkan"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maura Hopkins",
+        "lang:ga": "Maura Hopkins"
+      },
+      "id": "Q24053543",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24053543"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maurahopkinsfg"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Terry Leyden",
+        "lang:ga": "Terry Leyden"
+      },
+      "id": "Q2405660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2405660"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Victor Boyhan",
+        "lang:ga": "Victor Boyhan"
+      },
+      "id": "Q24196921",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196921"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rose Conway-Walsh",
+        "lang:ga": "Rose Conway-Walsh"
+      },
+      "id": "Q24196922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196922"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maria Byrne",
+        "lang:ga": "Maria Byrne"
+      },
+      "id": "Q24196924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196924"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lorraine Clifford-Lee",
+        "lang:ga": "Lorraine Clifford-Lee"
+      },
+      "id": "Q24196925",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196925"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Máire Devine",
+        "lang:ga": "Máire Devine"
+      },
+      "id": "Q24196926",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196926"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Gavan",
+        "lang:ga": "Paul Gavan"
+      },
+      "id": "Q24196927",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196927"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Keith Swanick",
+        "lang:ga": "Keith Swanick"
+      },
+      "id": "Q24196928",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196928"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Neale Richmond",
+        "lang:ga": "Neale Richmond"
+      },
+      "id": "Q24196929",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196929"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Ardagh",
+        "lang:ga": "Catherine Ardagh"
+      },
+      "id": "Q24196930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24196930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colette Kelleher",
+        "lang:ga": "Colette Kelleher"
+      },
+      "id": "Q24266621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24266621"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Billy Lawless",
+        "lang:ga": "Billy Lawless"
+      },
+      "id": "Q24266623",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24266623"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pádraig Ó Céidigh",
+        "lang:ga": "Pádraig Ó Céidigh"
+      },
+      "id": "Q24266625",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24266625"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Daly",
+        "lang:ga": "Paul Daly"
+      },
+      "id": "Q25184047",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25184047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Dolan",
+        "lang:ga": "John Dolan"
+      },
+      "id": "Q25184096",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25184096"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/senatorjdolan"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joan Freeman",
+        "lang:ga": "Joan Freeman"
+      },
+      "id": "Q25184305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25184305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frances Black",
+        "lang:ga": "Frances Black"
+      },
+      "id": "Q3080811",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3080811"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Niall Ó Donnghaile",
+        "lang:ga": "Niall Ó Donnghaile"
+      },
+      "id": "Q3778315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3778315"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aodhán Ó Ríordáin",
+        "lang:ga": "Aodhán Ó Ríordáin"
+      },
+      "id": "Q4778602",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4778602"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Noone",
+        "lang:ga": "Catherine Noone"
+      },
+      "id": "Q5052845",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052845"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Denis Landy",
+        "lang:ga": "Denis Landy"
+      },
+      "id": "Q5257341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5257341"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gerald Nash",
+        "lang:ga": "Gerald Nash"
+      },
+      "id": "Q5549440",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5549440"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ivana Bacik",
+        "lang:ga": "Ivana Bacik"
+      },
+      "id": "Q6097927",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6097927"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jerry Buttimer",
+        "lang:ga": "Jerry Buttimer"
+      },
+      "id": "Q6183343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6183343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe O'Reilly",
+        "lang:ga": "Joe O'Reilly"
+      },
+      "id": "Q6211607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6211607"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John O'Mahony",
+        "lang:ga": "John O'Mahony"
+      },
+      "id": "Q6250954",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6250954"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kevin Humphreys",
+        "lang:ga": "Kevin Humphreys"
+      },
+      "id": "Q6396541",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6396541"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kieran O'Donnell",
+        "lang:ga": "Kieran O'Donnell"
+      },
+      "id": "Q6405442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6405442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Marie-Louise O'Donnell",
+        "lang:ga": "Marie-Louise O'Donnell"
+      },
+      "id": "Q6762696",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6762696"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Conway",
+        "lang:ga": "Martin Conway"
+      },
+      "id": "Q6775185",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6775185"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michelle Mulherin",
+        "lang:ga": "Michelle Mulherin"
+      },
+      "id": "Q6837190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6837190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paudie Coffey",
+        "lang:ga": "Paudie Coffey"
+      },
+      "id": "Q7148855",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7148855"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Coghlan",
+        "lang:ga": "Paul Coghlan"
+      },
+      "id": "Q7149890",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7149890"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pádraig Mac Lochlainn",
+        "lang:ga": "Pádraig Mac Lochlainn"
+      },
+      "id": "Q7264002",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7264002"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ray Butler",
+        "lang:ga": "Ray Butler (polaiteoir)"
+      },
+      "id": "Q7297275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7297275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rónán Mullen",
+        "lang:ga": "Rónán Mullen"
+      },
+      "id": "Q7386552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7386552"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Trevor Ó Clochartaigh",
+        "lang:ga": "Trevor Ó Clochartaigh"
+      },
+      "id": "Q7839512",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7839512"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brian Ó Domhnaill",
+        "lang:ga": "Brian Ó Domhnaill"
+      },
+      "id": "Q913290",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q913290"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Seanad Éireann",
+        "lang:ga": "Seanad Éireann"
+      },
+      "id": "Q1127591",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1127591"
+        }
+      ],
+      "area_id": "Q27",
+      "seat_counts": {
+        "Q18043391": "60"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Fianna Fáil",
+        "lang:ga": "Fianna Fáil"
+      },
+      "id": "Q216517",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216517"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fine Gael",
+        "lang:ga": "Fine Gael"
+      },
+      "id": "Q247135",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247135"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:ga": "Páirtí an Lucht Oibre"
+      },
+      "id": "Q503614",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503614"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinn Féin",
+        "lang:ga": "Sinn Féin"
+      },
+      "id": "Q76382",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76382"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Green Party",
+        "lang:ga": "Comhaontas Glas"
+      },
+      "id": "Q831015",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q831015"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1110075-7C5D4311-58C3-4A2E-9321-686CC9E3E3D2",
+      "person_id": "Q1110075",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1175932-AD01AB79-85C2-419B-8DD2-9ECC025A1B66",
+      "person_id": "Q1175932",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7895348",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1187575-01CEF0D8-71E8-4BDF-AC28-AF6E05CF016C",
+      "person_id": "Q1187575",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1209149-0EF45253-24CE-4E11-B421-5A573EBDA963",
+      "person_id": "Q1209149",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q142592-02510256-DE2C-491F-87BE-ED3E8B399991",
+      "person_id": "Q142592",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1443237-15F3B670-8BB1-4894-B87B-3DDD2EF8E9BE",
+      "person_id": "Q1443237",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1556791-174DD1AD-9CCE-4DFD-A6EA-5E54AF641BFF",
+      "person_id": "Q1556791",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1681029-1e63a969-4121-3348-c944-8029d32bc7ae",
+      "person_id": "Q1681029",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16866329-7bbc99f1-4a6c-343a-c659-01134a4e691f",
+      "person_id": "Q16866329",
+      "on_behalf_of_id": "Q831015",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16980068-0bcfa8ce-4ef0-593a-55fd-ecbc9f53c63b",
+      "person_id": "Q16980068",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q5193254",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18217265-ECF43C76-8059-4218-ABFF-3906AE97B46A",
+      "person_id": "Q18217265",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1900009-9F050CAD-3D39-4F4F-AF62-D493AA509D18",
+      "person_id": "Q1900009",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1928579-7fe06dad-4860-2611-0cc3-38093aca0b29",
+      "person_id": "Q1928579",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q6979248",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24006725-6d7a02e4-41a9-7dba-6f66-83760956de70",
+      "person_id": "Q24006725",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7895348",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24049120-97e5c258-42ee-5f23-9528-e879ef828a37",
+      "person_id": "Q24049120",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q6979248",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053488-0e0323e7-45a8-c1f1-2ea0-d48cb64d0450",
+      "person_id": "Q24053488",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q5193254",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053506-b805222b-4fb0-31be-6edd-a24efbeac75c",
+      "person_id": "Q24053506",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053519-57a9ddbe-4dd2-15d9-8e68-4756ef1029f8",
+      "person_id": "Q24053519",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053520-03531dc6-4676-cbaa-a19c-868e93be4224",
+      "person_id": "Q24053520",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053534-0963e02e-42dc-df72-ada1-8558820cf64e",
+      "person_id": "Q24053534",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053535-db7515c5-4122-c57d-32f6-68a9ccc95657",
+      "person_id": "Q24053535",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24053543-8777a5de-48c5-5195-856b-dd1a9c8ad7b7",
+      "person_id": "Q24053543",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2405660-654AD20B-B59B-430E-A30A-0B4019CD7764",
+      "person_id": "Q2405660",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196921-1c6f621c-47c9-e3cc-d8b1-aa4c1d177bd7",
+      "person_id": "Q24196921",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196922-35b72042-44ab-983b-0480-daa497054f5d",
+      "person_id": "Q24196922",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196924-72335c4d-45b4-796d-7cf6-8f7e8bd7ca48",
+      "person_id": "Q24196924",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196925-5ddc376a-460b-5774-e323-fad4d8b21dcc",
+      "person_id": "Q24196925",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q5193254",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196926-4a515baa-4413-b365-f57b-00d4e331cb9b",
+      "person_id": "Q24196926",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196927-d9796009-4964-6f9f-1484-0684b0289e69",
+      "person_id": "Q24196927",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196928-20fef61a-4c45-69df-68fc-f5904dfd602f",
+      "person_id": "Q24196928",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q5193254",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196929-153c5be6-4e37-d9ee-ab1e-a18f7c25b567",
+      "person_id": "Q24196929",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24196930-b67d1b72-4005-eefc-e7ed-4dd761660e7c",
+      "person_id": "Q24196930",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24266621-d598c5b7-4e49-e570-82b1-e2c6f871bdcd",
+      "person_id": "Q24266621",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24266623-ace0958d-4ad1-173e-4561-cf37fe2cc2ec",
+      "person_id": "Q24266623",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24266625-b0ae9c91-48c0-f271-9a1c-d0914eed8194",
+      "person_id": "Q24266625",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25184047-483aebab-4885-dcb3-cd90-a4b8a2016bdd",
+      "person_id": "Q25184047",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25184096-5c5823e3-4f17-4978-842b-986ed2e40bb9",
+      "person_id": "Q25184096",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25184305-09ddd1c4-46e0-cb09-8ee1-22341ecb0fdb",
+      "person_id": "Q25184305",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3080811-8923d95b-4e71-bcd7-ce88-9110e4e363b1",
+      "person_id": "Q3080811",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3778315-1f464ca7-4617-5d0b-8a9e-41a6a568e022",
+      "person_id": "Q3778315",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4778602-f55b6346-4fd5-0c19-f2b5-e6de359614e6",
+      "person_id": "Q4778602",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5052845-B5CE6919-348D-4F18-967D-21B85C89C6FC",
+      "person_id": "Q5052845",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5257341-FB131D0E-F649-4DC4-9E56-139540D4C639",
+      "person_id": "Q5257341",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5549440-3a870c80-4fdb-fc2a-73c7-f88d02512069",
+      "person_id": "Q5549440",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6097927-AE5AF69A-DCF3-42D5-A9A6-C2CC1B5105D6",
+      "person_id": "Q6097927",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q1127591",
+      "area_id": "Q7895348",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6183343-7FE49B30-BC3A-4DAA-86D5-FDCCAA004502",
+      "person_id": "Q6183343",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6211607-572426EB-9BC4-4F11-BEF0-0D2519535CD3",
+      "person_id": "Q6211607",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q6467443",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6250954-d8d4c703-44cb-15cd-5b9c-c7485d5509fb",
+      "person_id": "Q6250954",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6396541-7e6709be-4331-fc68-2a87-8d302cd6a187",
+      "person_id": "Q6396541",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6405442-f6a89192-4cbd-2f76-49f8-566078648551",
+      "person_id": "Q6405442",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q5193254",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6762696-07284B13-ABDB-4087-8A4F-1DC4C0C6C711",
+      "person_id": "Q6762696",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6775185-1C8E4BCF-A346-4F92-8F96-F90A44B318B2",
+      "person_id": "Q6775185",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q4683477",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6837190-2d01e485-4a03-ba4b-fb1a-f6bcfcd760b6",
+      "person_id": "Q6837190",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7148855-E6D1D955-152D-43B0-9E86-55C96D788326",
+      "person_id": "Q7148855",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7149890-C7A781A7-338B-4B75-9915-59F3CA1E021A",
+      "person_id": "Q7149890",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7264002-a48f3479-42ef-cda1-6a56-d76515665939",
+      "person_id": "Q7264002",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q17087286",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7297275-4ccd6c8e-463f-5aef-4e9f-ff3d621ad05c",
+      "person_id": "Q7297275",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1127591",
+      "area_id": "Q7048605",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7386552-0E7FC30E-DBE8-4A2D-9CF3-4C49549D4354",
+      "person_id": "Q7386552",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q1127591",
+      "area_id": "Q6979248",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7839512-F965EBBF-0946-4486-BD62-2DF02E1E49C8",
+      "person_id": "Q7839512",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q913290-3C83792A-4D9E-4C7B-AF5C-BCA2420D579F",
+      "person_id": "Q913290",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q1127591",
+      "area_id": "Q4693912",
+      "start_date": "2016-06-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:en": "senator",
+        "lang:ga": "seanadóir"
+      },
+      "role_code": "Q18043391",
+      "role": {
+        "lang:en": "senator of Ireland",
+        "lang:ga": "seanadóir na hÉireann"
+      }
+    }
+  ]
+}
