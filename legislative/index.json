@@ -1,2 +1,24 @@
-[]
-
+[
+  {
+    "comment": "Seanad Éireann",
+    "house_item_id": "Q1127591",
+    "position_item_id": "Q18043391",
+    "terms": [
+      {
+        "comment": "25th Seanad",
+        "term_item_id": "Q29001048"
+      }
+    ]
+  },
+  {
+    "comment": "Dáil Éireann",
+    "house_item_id": "Q651981",
+    "position_item_id": "Q654291",
+    "terms": [
+      {
+        "comment": "32nd Dáil",
+        "term_item_id": "Q28976095"
+      }
+    ]
+  }
+]

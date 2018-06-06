@@ -1,0 +1,5465 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Charles Flanagan",
+        "lang:ga": "Charles Flanagan"
+      },
+      "id": "Q1064368",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1064368"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dara Calleary",
+        "lang:ga": "Dara Calleary"
+      },
+      "id": "Q1165622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1165622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Darragh O'Brien",
+        "lang:ga": "Darragh O'Brien"
+      },
+      "id": "Q1166562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1166562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paschal Donohoe",
+        "lang:ga": "Paschal Donohoe"
+      },
+      "id": "Q1271675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1271675"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brendan Griffin",
+        "lang:ga": "Brendan Griffin"
+      },
+      "id": "Q13156969",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13156969"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maureen O'Sullivan",
+        "lang:ga": "Maureen O'Sullivan"
+      },
+      "id": "Q13157552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13157552"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stephen Donnelly",
+        "lang:ga": "Stephen Donnelly"
+      },
+      "id": "Q13157830",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13157830"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tony McLoughlin",
+        "lang:ga": "Tony McLoughlin"
+      },
+      "id": "Q13157894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13157894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Marc MacSharry",
+        "lang:ga": "Marc MacSharry"
+      },
+      "id": "Q1345787",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1345787"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Willie O'Dea",
+        "lang:ga": "Willie O'Dea"
+      },
+      "id": "Q1390670",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1390670"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Noonan",
+        "lang:ga": "Micheál Ó Nuanáin"
+      },
+      "id": "Q1390688",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1390688"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Noel Grealish",
+        "lang:ga": "Noel Grealish"
+      },
+      "id": "Q1635157",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1635157"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Simon Coveney",
+        "lang:ga": "Síomón Ó Cómhanaigh"
+      },
+      "id": "Q1670096",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1670096"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Canney",
+        "lang:ga": "Seán Canney"
+      },
+      "id": "Q16727814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16727814"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Lowry",
+        "lang:ga": "Michael Lowry"
+      },
+      "id": "Q1680465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1680465"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ruth Coppinger",
+        "lang:ga": "Ruth Coppinger"
+      },
+      "id": "Q16979875",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16979875"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Leo Varadkar",
+        "lang:ga": "Leo Varadkar"
+      },
+      "id": "Q1728820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1728820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Fitzmaurice",
+        "lang:ga": "Michael Fitzmaurice"
+      },
+      "id": "Q18267375",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18267375"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bríd Smith",
+        "lang:ga": "Bríd Smith"
+      },
+      "id": "Q19667349",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19667349"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Noel Rock",
+        "lang:ga": "Noel Rock"
+      },
+      "id": "Q20744658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20744658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Boyd Barrett",
+        "lang:ga": "Richard Boyd Barrett"
+      },
+      "id": "Q2149121",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2149121"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/richard.b.barrett.7"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Robert Troy",
+        "lang:ga": "Robert Troy"
+      },
+      "id": "Q2159037",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2159037"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Barrett",
+        "lang:ga": "Seán Barrett"
+      },
+      "id": "Q221888",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q221888"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shane Ross",
+        "lang:ga": "Shane Ross"
+      },
+      "id": "Q2276876",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2276876"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Martin",
+        "lang:ga": "Catherine Martin"
+      },
+      "id": "Q22966979",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22966979"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gino Kenny",
+        "lang:ga": "Gino Kenny"
+      },
+      "id": "Q22978595",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22978595"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Imelda Munster",
+        "lang:ga": "Imelda Munster"
+      },
+      "id": "Q23006293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shane Cassells",
+        "lang:ga": "Shane Cassells"
+      },
+      "id": "Q23006296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kathleen Funchion",
+        "lang:ga": "Kathleen Funchion"
+      },
+      "id": "Q23006297",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006297"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Harty",
+        "lang:ga": "Michael Harty"
+      },
+      "id": "Q23006298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frank O'Rourke",
+        "lang:ga": "Frank O'Rourke"
+      },
+      "id": "Q23006301",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006301"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maria Bailey",
+        "lang:ga": "Maria Bailey"
+      },
+      "id": "Q23006305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Brady",
+        "lang:ga": "John Brady"
+      },
+      "id": "Q23006306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Brassil",
+        "lang:ga": "John Brassil"
+      },
+      "id": "Q23006307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006307"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CouncillorJohnBrassil"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Declan Breathnach",
+        "lang:ga": "Declan Breathnach"
+      },
+      "id": "Q23006308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006308"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Colm Brophy",
+        "lang:ga": "Colm Brophy"
+      },
+      "id": "Q23006310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Browne",
+        "lang:ga": "James Browne"
+      },
+      "id": "Q23006311",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006311"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Buckley",
+        "lang:ga": "Pat Buckley"
+      },
+      "id": "Q23006312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Burke",
+        "lang:ga": "Peter Burke"
+      },
+      "id": "Q23006313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Butler",
+        "lang:ga": "Mary Butler"
+      },
+      "id": "Q23006314",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006314"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jackie Cahill",
+        "lang:ga": "Jackie Cahill"
+      },
+      "id": "Q23006315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006315"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Casey",
+        "lang:ga": "Pat Casey"
+      },
+      "id": "Q23006316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006316"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lisa Chambers",
+        "lang:ga": "Lisa Chambers"
+      },
+      "id": "Q23006317",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006317"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jack Chambers",
+        "lang:ga": "Jack Chambers"
+      },
+      "id": "Q23006318",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006318"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Collins",
+        "lang:ga": "Michael Collins"
+      },
+      "id": "Q23006319",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006319"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Danny Healy-Rae",
+        "lang:ga": "Danny Healy-Rae"
+      },
+      "id": "Q23006320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Kenny",
+        "lang:ga": "Martin Kenny"
+      },
+      "id": "Q23006321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006321"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Lahart",
+        "lang:ga": "John Lahart"
+      },
+      "id": "Q23006322",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006322"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "James Lawless",
+        "lang:ga": "James Lawless"
+      },
+      "id": "Q23006323",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006323"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Josepha Madigan",
+        "lang:ga": "Josepha Madigan"
+      },
+      "id": "Q23006324",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006324"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Denise Mitchell",
+        "lang:ga": "Denise Mitchell"
+      },
+      "id": "Q23006325",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006325"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kevin Moran",
+        "lang:ga": "Kevin Moran"
+      },
+      "id": "Q23006326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aindrias Moynihan",
+        "lang:ga": "Aindrias Moynihan"
+      },
+      "id": "Q23006327",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006327"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Margaret Murphy O'Mahony",
+        "lang:ga": "Margaret Murphy O'Mahony"
+      },
+      "id": "Q23006328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006328"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eugene Murphy",
+        "lang:ga": "Eugene Murphy"
+      },
+      "id": "Q23006329",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006329"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tom Neville",
+        "lang:ga": "Tom Neville"
+      },
+      "id": "Q23006330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Carol Nolan",
+        "lang:ga": "Carol Nolan"
+      },
+      "id": "Q23006332",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006332"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim O'Callaghan",
+        "lang:ga": "Jim O'Callaghan"
+      },
+      "id": "Q23006333",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006333"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kate O'Connell",
+        "lang:ga": "Kate O'Connell"
+      },
+      "id": "Q23006334",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kevin O'Keeffe",
+        "lang:ga": "Kevin O'Keeffe"
+      },
+      "id": "Q23006335",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006335"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Donnchadh Ó Laoghaire",
+        "lang:ga": "Donnchadh Ó Laoghaire"
+      },
+      "id": "Q23006336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006336"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/dolaoghaire"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fiona O'Loughlin",
+        "lang:ga": "Fiona O'Loughlin"
+      },
+      "id": "Q23006337",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006337"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/fiona.oloughlin.712"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Louise O'Reilly",
+        "lang:ga": "Louise O'Reilly"
+      },
+      "id": "Q23006338",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006338"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/louiseoreillysf"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Anne Rabbitte",
+        "lang:ga": "Anne Rabbitte"
+      },
+      "id": "Q23006339",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006339"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/annerabbitteportumna"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Niamh Smyth",
+        "lang:ga": "Niamh Smyth"
+      },
+      "id": "Q23006341",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23006341"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Niamh-Smyth-TD-93989541824"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Timmy Dooley",
+        "lang:ga": "Timmy Dooley"
+      },
+      "id": "Q2434824",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2434824"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pearse Doherty",
+        "lang:ga": "Piaras Ó Dochartaigh"
+      },
+      "id": "Q248784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q248784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Éamon Ó Cuív",
+        "lang:ga": "Éamon Ó Cuív"
+      },
+      "id": "Q273274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q273274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Haughey",
+        "lang:ga": "Seán Ó hEochaidh"
+      },
+      "id": "Q278178",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q278178"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Clare Daly",
+        "lang:ga": "Clare Daly"
+      },
+      "id": "Q2975532",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2975532"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ciarán Cannon",
+        "lang:ga": "Ciarán Ó Canáin"
+      },
+      "id": "Q371007",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q371007"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Moynihan",
+        "lang:ga": "Michael Moynihan"
+      },
+      "id": "Q3777426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777426"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Fleming",
+        "lang:ga": "Seán Fleming"
+      },
+      "id": "Q3777436",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777436"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tommy Broughan",
+        "lang:ga": "Tommy Broughan"
+      },
+      "id": "Q3777456",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777456"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Kehoe",
+        "lang:ga": "Paul Kehoe"
+      },
+      "id": "Q3777469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777469"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Ring",
+        "lang:ga": "Michael Ring"
+      },
+      "id": "Q3777472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777472"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Róisín Shortall",
+        "lang:ga": "Róisín Ní Shoirtéil"
+      },
+      "id": "Q3777482",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777482"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fergus O'Dowd",
+        "lang:ga": "Fergus O'Dowd"
+      },
+      "id": "Q3777548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777548"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Deasy",
+        "lang:ga": "John Deasy"
+      },
+      "id": "Q3777562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Stanton",
+        "lang:ga": "David Stanton"
+      },
+      "id": "Q3777612",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777612"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Damien English",
+        "lang:ga": "Damien English"
+      },
+      "id": "Q3777896",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3777896"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bernard Durkan",
+        "lang:ga": "Bernard Durkan"
+      },
+      "id": "Q380320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q380320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Denis Naughten",
+        "lang:ga": "Denis Naughten"
+      },
+      "id": "Q381658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q381658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joan Burton",
+        "lang:ga": "Joan Burton"
+      },
+      "id": "Q444685",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q444685"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jan O'Sullivan",
+        "lang:ga": "Jan Uí Shúilleabháin"
+      },
+      "id": "Q444725",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q444725"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alan Kelly",
+        "lang:ga": "Alan Kelly"
+      },
+      "id": "Q454245",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q454245"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brendan Howlin",
+        "lang:ga": "Brendan Howlin"
+      },
+      "id": "Q466028",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q466028"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brendan Smith",
+        "lang:ga": "Brendan Smith"
+      },
+      "id": "Q466044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q466044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Lou McDonald",
+        "lang:ga": "Mary Lou McDonald"
+      },
+      "id": "Q467414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q467414"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Aengus Ó Snodaigh",
+        "lang:ga": "Aengus Ó Snodaigh"
+      },
+      "id": "Q4687826",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4687826"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Alan Farrell",
+        "lang:ga": "Alan Farrell"
+      },
+      "id": "Q4706603",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4706603"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Andrew Doyle",
+        "lang:ga": "Andrew Doyle"
+      },
+      "id": "Q4756838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4756838"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Barry Cowen",
+        "lang:ga": "Barry Cowen"
+      },
+      "id": "Q4864133",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4864133"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brendan Ryan",
+        "lang:ga": "Brendan Ryan"
+      },
+      "id": "Q4961087",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4961087"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Brian Stanley",
+        "lang:ga": "Brian Stanley"
+      },
+      "id": "Q4965374",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4965374"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Caoimhghín Ó Caoláin",
+        "lang:ga": "Caoimhghín Ó Caoláin"
+      },
+      "id": "Q5034361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5034361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Connolly",
+        "lang:ga": "Catherine Connolly"
+      },
+      "id": "Q5052598",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052598"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Murphy",
+        "lang:ga": "Catherine Murphy"
+      },
+      "id": "Q5052836",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5052836"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Charlie McConalogue",
+        "lang:ga": "Charlie McConalogue"
+      },
+      "id": "Q5085220",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5085220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dara Murphy",
+        "lang:ga": "Dara Murphy"
+      },
+      "id": "Q5221987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5221987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "David Cullinane",
+        "lang:ga": "David Cullinane"
+      },
+      "id": "Q5232711",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5232711"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Dessie Ellis",
+        "lang:ga": "Dessie Ellis"
+      },
+      "id": "Q5265060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5265060"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Willie Penrose",
+        "lang:ga": "Liam Penrose"
+      },
+      "id": "Q5277023",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5277023"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eamon Scanlon",
+        "lang:ga": "Eamon Scanlon"
+      },
+      "id": "Q5325539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5325539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eoghan Murphy",
+        "lang:ga": "Eoghan Murphy"
+      },
+      "id": "Q5381683",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5381683"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eoin Ó Broin",
+        "lang:ga": "Eoin Ó Broin"
+      },
+      "id": "Q5381749",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5381749"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/eoin.broin"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Frances Fitzgerald",
+        "lang:ga": "Frances Fitzgerald"
+      },
+      "id": "Q540812",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q540812"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Catherine Byrne",
+        "lang:ga": "Catherine Byrne"
+      },
+      "id": "Q540826",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q540826"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Finian McGrath",
+        "lang:ga": "Finian McGrath"
+      },
+      "id": "Q5450326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5450326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Billy Kelleher",
+        "lang:ga": "Billy Kelleher"
+      },
+      "id": "Q559402",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q559402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Breen",
+        "lang:ga": "Pat Breen"
+      },
+      "id": "Q559638",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q559638"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/PatBreenTD"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Heather Humphreys",
+        "lang:ga": "Heather Humphreys"
+      },
+      "id": "Q5693903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5693903"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hildegarde Naughton",
+        "lang:ga": "Hildegarde Naughton"
+      },
+      "id": "Q5761616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5761616"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Enda Kenny",
+        "lang:ga": "Éanna Ó Coinnigh"
+      },
+      "id": "Q57815",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57815"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paul Murphy",
+        "lang:ga": "Paul Murphy"
+      },
+      "id": "Q616919",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q616919"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jim Daly",
+        "lang:ga": "Jim Daly"
+      },
+      "id": "Q6194524",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6194524"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joan Collins",
+        "lang:ga": "Joan Collins (polaiteoir)"
+      },
+      "id": "Q6204959",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6204959"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe Carey",
+        "lang:ga": "Joe Carey"
+      },
+      "id": "Q6209000",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6209000"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Joe McHugh",
+        "lang:ga": "Joe McHugh"
+      },
+      "id": "Q6211254",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6211254"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Curran",
+        "lang:ga": "John Curran"
+      },
+      "id": "Q6227930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6227930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Halligan",
+        "lang:ga": "John Halligan"
+      },
+      "id": "Q6237376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6237376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John J. McGuinness",
+        "lang:ga": "John J. McGuinness"
+      },
+      "id": "Q6241177",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6241177"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "John Paul Phelan",
+        "lang:ga": "John Paul Phelan"
+      },
+      "id": "Q6252268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6252268"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jonathan O'Brien",
+        "lang:ga": "Jonathan O'Brien"
+      },
+      "id": "Q6274034",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6274034"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Katherine Zappone",
+        "lang:ga": "Katherine Zappone"
+      },
+      "id": "Q6376580",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6376580"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Marcella Corcoran Kennedy",
+        "lang:ga": "Marcella Corcoran Kennedy"
+      },
+      "id": "Q6756353",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6756353"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Ferris",
+        "lang:ga": "Martin Ferris"
+      },
+      "id": "Q6775424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6775424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Martin Heydon",
+        "lang:ga": "Martin Heydon"
+      },
+      "id": "Q6775671",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6775671"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mary Mitchell O'Connor",
+        "lang:ga": "Mary Mitchell O'Connor"
+      },
+      "id": "Q6780355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6780355"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mattie McGrath",
+        "lang:ga": "Mattie McGrath"
+      },
+      "id": "Q6791813",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6791813"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maurice Quinlivan",
+        "lang:ga": "Maurice Quinlivan"
+      },
+      "id": "Q6793427",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6793427"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Creed",
+        "lang:ga": "Michael Creed"
+      },
+      "id": "Q6829535",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6829535"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Healy-Rae",
+        "lang:ga": "Michael Healy-Rae"
+      },
+      "id": "Q6831036",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6831036"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael McGrath",
+        "lang:ga": "Michael McGrath (polaiteoir)"
+      },
+      "id": "Q6832712",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6832712"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael W. D'Arcy",
+        "lang:ga": "Michael W. D'Arcy"
+      },
+      "id": "Q6835128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6835128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mick Barry",
+        "lang:ga": "Mick Barry"
+      },
+      "id": "Q6838053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6838053"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mick Wallace",
+        "lang:ga": "Mick Wallace"
+      },
+      "id": "Q6838473",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6838473"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Niall Collins",
+        "lang:ga": "Niall Collins"
+      },
+      "id": "Q7023861",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7023861"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Deering",
+        "lang:ga": "Pat Deering"
+      },
+      "id": "Q7143361",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7143361"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Patrick O'Donovan",
+        "lang:ga": "Patrick O'Donovan"
+      },
+      "id": "Q7147378",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7147378"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peadar Tóibín",
+        "lang:ga": "Peadar Tóibín"
+      },
+      "id": "Q7157787",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7157787"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Fitzpatrick",
+        "lang:ga": "Peter Fitzpatrick"
+      },
+      "id": "Q7174004",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7174004"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Regina Doherty",
+        "lang:ga": "Regina Doherty"
+      },
+      "id": "Q7308461",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7308461"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Crowe",
+        "lang:ga": "Seán Crowe"
+      },
+      "id": "Q7459496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7459496"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/seancrowesinnfein"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Kyne",
+        "lang:ga": "Seán Ó Cadhain (polaiteoir)"
+      },
+      "id": "Q7459544",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7459544"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Sherlock",
+        "lang:ga": "Seán Sherlock"
+      },
+      "id": "Q7459604",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7459604"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Seán Ó Fearghaíl",
+        "lang:ga": "Seán Ó Fearghaíl"
+      },
+      "id": "Q7459627",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7459627"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Simon Harris",
+        "lang:ga": "Simon Harris"
+      },
+      "id": "Q7518922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7518922"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gerry Adams",
+        "lang:ga": "Gearóid Mac Ádhaimh"
+      },
+      "id": "Q76139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76139"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gerry.adams.503"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Séamus Healy",
+        "lang:ga": "Séamus Healy"
+      },
+      "id": "Q7665856",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7665856"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Byrne",
+        "lang:ga": "Thomas Byrne"
+      },
+      "id": "Q7788105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7788105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Thomas Pringle",
+        "lang:ga": "Thomas Pringle"
+      },
+      "id": "Q7793298",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7793298"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bobby Aylward",
+        "lang:ga": "Bobby Aylward"
+      },
+      "id": "Q888438",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q888438"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Helen McEntee",
+        "lang:ga": "Helen McEntee"
+      },
+      "id": "Q8939886",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8939886"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eamon Ryan",
+        "lang:ga": "Éamon Ryan"
+      },
+      "id": "Q920195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q920195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Micheál Martin",
+        "lang:ga": "Mícheál Ó Máirtín"
+      },
+      "id": "Q920403",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q920403"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Richard Bruton",
+        "lang:ga": "Richard Bruton"
+      },
+      "id": "Q981847",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q981847"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat the Cope Gallagher",
+        "lang:ga": "Pat the Cope Gallagher"
+      },
+      "id": "Q981866",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q981866"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Dáil Éireann",
+        "lang:ga": "Dáil Éireann"
+      },
+      "id": "Q651981",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q651981"
+        }
+      ],
+      "area_id": "Q27",
+      "seat_counts": {
+        "Q654291": "158"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Ceann Comhairle",
+        "lang:ga": "Ceann Comhairle"
+      },
+      "id": "Q1052201",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1052201"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Independents 4 Change",
+        "lang:ga": "Independents 4 Change"
+      },
+      "id": "Q17100320",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17100320"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democrats",
+        "lang:ga": "Na Daonlathaigh Shóisialta"
+      },
+      "id": "Q20682633",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20682633"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Solidarity–People Before Profit",
+        "lang:ga": "Comhghuaillíocht Frith-Dhéine-Comhghuaillíocht an Phobail roimh Bhrabús"
+      },
+      "id": "Q21218940",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21218940"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fianna Fáil",
+        "lang:ga": "Fianna Fáil"
+      },
+      "id": "Q216517",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216517"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fine Gael",
+        "lang:ga": "Fine Gael"
+      },
+      "id": "Q247135",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247135"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Workers and Unemployed Action Group",
+        "lang:ga": "Grúpa Gníomhaíochta na n-Oibrithe is iad atá Dífhostaithe"
+      },
+      "id": "Q4118799",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4118799"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:ga": "Páirtí an Lucht Oibre"
+      },
+      "id": "Q503614",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503614"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinn Féin",
+        "lang:ga": "Sinn Féin"
+      },
+      "id": "Q76382",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76382"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Green Party",
+        "lang:ga": "Comhaontas Glas"
+      },
+      "id": "Q831015",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q831015"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1064368-BDC8DC8B-72ED-4C4B-9767-5B11E184BEB8",
+      "person_id": "Q1064368",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6487881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1165622-42A71ACB-2F91-4410-946B-FB2BB84D8EB5",
+      "person_id": "Q1165622",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q1869725",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1166562-60DFC609-C7A5-4658-874B-F94C9AF28A10",
+      "person_id": "Q1166562",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q20620587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1271675-46ceeaf6-4f2b-ffd3-b55b-ccd907b4e65f",
+      "person_id": "Q1271675",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2622823",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13156969-72A313B4-5DCC-4521-A78C-4EB15AA473F7",
+      "person_id": "Q13156969",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6394444",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13157552-EC4786A7-D548-49D9-84EF-699CEC4D75E0",
+      "person_id": "Q13157552",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2622823",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13157830-17dd7710-4d63-6d19-9922-1064d65d1feb",
+      "person_id": "Q13157830",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2016-09-05",
+      "end_date": "2017-02-02",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13157830-20D32A19-A75C-4514-987C-5BEABE025208",
+      "person_id": "Q13157830",
+      "on_behalf_of_id": "Q20682633",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2016-03-10",
+      "end_date": "2016-09-05",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13157830-87025e85-49ab-8135-49b6-ed3de893e364",
+      "person_id": "Q13157830",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2017-02-02",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q13157894-BA0D63FE-4F61-48D1-8B37-6D061436343C",
+      "person_id": "Q13157894",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q7540532",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1345787-C5D7E1DE-E424-4F71-8FC9-8B9B8E0F5620",
+      "person_id": "Q1345787",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q7540532",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1390670-8681AC80-6A6B-4C2A-B294-E71F2AC545C8",
+      "person_id": "Q1390670",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6549243",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1390688-1c5abb35-48dd-5c01-6cf3-43fb0b1b4eaa",
+      "person_id": "Q1390688",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6549243",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1635157-D58E307D-1F17-46C7-AF30-C53E7E69A3CD",
+      "person_id": "Q1635157",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2251639",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1670096-2FF01B74-A0C9-42C3-9924-3ACA3A22FD0F",
+      "person_id": "Q1670096",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2635304",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16727814-e764ab7e-430f-9032-f5b3-334dede762a6",
+      "person_id": "Q16727814",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q4568022",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1680465-235DE7D1-F82C-47C6-BEB7-775AE8186EAC",
+      "person_id": "Q1680465",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q7808886",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16979875-96F47BA0-107C-4E85-B1BB-67BE9232F2C1",
+      "person_id": "Q16979875",
+      "on_behalf_of_id": "Q21218940",
+      "organization_id": "Q651981",
+      "area_id": "Q5310999",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1728820-b1236252-4784-0258-bf83-545bac6f3b2f",
+      "person_id": "Q1728820",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310999",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18267375-1f063c74-4894-4c9f-39c4-87b81bf356c2",
+      "person_id": "Q18267375",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q7367587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19667349-ddf6abd8-425d-a527-cbdc-dcfe38de6e25",
+      "person_id": "Q19667349",
+      "on_behalf_of_id": "Q21218940",
+      "organization_id": "Q651981",
+      "area_id": "Q5310969",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20744658-4f63bedc-4943-37c2-1b49-ad19d907d92e",
+      "person_id": "Q20744658",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2531985",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2149121-03A2EA41-3489-40DC-877C-AB372F043039",
+      "person_id": "Q2149121",
+      "on_behalf_of_id": "Q21218940",
+      "organization_id": "Q651981",
+      "area_id": "Q5320426",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2159037-6418057D-5D34-447C-8073-BE530B0CB44B",
+      "person_id": "Q2159037",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6673850",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q221888-CCB71A46-FAD5-4839-BA26-5E8BC6BA4B82",
+      "person_id": "Q221888",
+      "on_behalf_of_id": "Q1052201",
+      "organization_id": "Q651981",
+      "area_id": "Q5320426",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2276876-356D8F93-C43B-4CCF-B89A-D89F67633769",
+      "person_id": "Q2276876",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q5310953",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22966979-56bfbb6e-4493-93cd-eaee-edb7a0e22e2a",
+      "person_id": "Q22966979",
+      "on_behalf_of_id": "Q831015",
+      "organization_id": "Q651981",
+      "area_id": "Q5310953",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22978595-8555bbb1-4dad-3314-dc38-3aeaac8df5be",
+      "person_id": "Q22978595",
+      "on_behalf_of_id": "Q21218940",
+      "organization_id": "Q651981",
+      "area_id": "Q2641881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006293-e86e60d0-4931-c6bd-3e08-214be62ea2a6",
+      "person_id": "Q23006293",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q6689841",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006296-61b32908-48df-7c19-ef6b-1bdf3be117c4",
+      "person_id": "Q23006296",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2040462",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006297-066d1741-436d-5624-a7bf-96dd705f547a",
+      "person_id": "Q23006297",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q3913273",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006298-b62c69bc-47a7-6894-ae84-ddb1dc9a6bfa",
+      "person_id": "Q23006298",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2570782",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006301-27bfebc7-43e5-915d-c041-e67a5e360872",
+      "person_id": "Q23006301",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6406731",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006305-9C564A04-00BF-4655-934F-A03032C5C22A",
+      "person_id": "Q23006305",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5320426",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006306-A6711D32-CD4A-488D-8117-771E5D1ED4BA",
+      "person_id": "Q23006306",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006307-870CEA05-0768-487D-906D-43C32E133515",
+      "person_id": "Q23006307",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6394444",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006308-3A228558-C614-4458-85EC-C27C52C22DA4",
+      "person_id": "Q23006308",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6689841",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006310-B92DDB6D-B323-43B6-992A-77F2B533FB9C",
+      "person_id": "Q23006310",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310971",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006311-C29E4D18-AC9B-44B6-B07C-3883DA0A8CEC",
+      "person_id": "Q23006311",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q3458611",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006312-6616AF62-F5A3-49F3-89C5-2FF7AEAC27D2",
+      "person_id": "Q23006312",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q16951667",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006313-86EBB471-B5AC-4792-B299-A59FD6FCB940",
+      "person_id": "Q23006313",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6673850",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006314-68E69418-67C6-4B08-97D0-3491E9110BFD",
+      "person_id": "Q23006314",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2109423",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006315-A4FE8E7F-2E64-49B9-89FA-921014D221EF",
+      "person_id": "Q23006315",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q7808886",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006316-E0B6F1B7-D124-4F21-BEB0-0426DC3E0B3E",
+      "person_id": "Q23006316",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006317-C2115DA1-140D-46B3-BED7-51C2878827FC",
+      "person_id": "Q23006317",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q1869725",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006318-F680FAC8-3B76-4DE8-A12C-6585231B932B",
+      "person_id": "Q23006318",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q5310999",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006319-29B39785-9A5A-4DEE-BDF3-F8BF150F8428",
+      "person_id": "Q23006319",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2746787",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006320-F6C01769-B9D9-4EDE-A36B-119E5152FAF2",
+      "person_id": "Q23006320",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q6394444",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006321-C6F1588E-A007-48DA-B97D-147CC0479BF1",
+      "person_id": "Q23006321",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q7540532",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006322-25F763B1-1112-475E-9834-32FC1AD3F3BE",
+      "person_id": "Q23006322",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q5310971",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006323-DE0722B9-2D3A-4F6C-9FE4-815333921D4D",
+      "person_id": "Q23006323",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6406731",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006324-AE0F30DA-A370-472A-8C72-D839166260B8",
+      "person_id": "Q23006324",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310953",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006325-19EDD70C-0AB0-4A3F-B88B-69077798D0DE",
+      "person_id": "Q23006325",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q5310820",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006326-C5841E20-E52C-4B49-A1AF-760E10593B4E",
+      "person_id": "Q23006326",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q6673850",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006327-8954FC9C-EADE-41B4-8BD5-83A36FE1BED7",
+      "person_id": "Q23006327",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q3147235",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006328-6A5FBBF1-7376-40B1-8B4A-B2B29E9C3279",
+      "person_id": "Q23006328",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2746787",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006329-9E7B9FC9-F1B0-4983-AF3B-B179F045B1DA",
+      "person_id": "Q23006329",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q7367587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006330-666E413B-96C5-4043-BB91-210254160EB7",
+      "person_id": "Q23006330",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6549251",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006332-370691E1-A7E5-489A-8294-B902713E422C",
+      "person_id": "Q23006332",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q7079018",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006333-83D63329-8F90-452E-8691-26814F7D3F5E",
+      "person_id": "Q23006333",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q5310822",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006334-D5F13E37-7E3A-4120-8C50-A79DFB67D58D",
+      "person_id": "Q23006334",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310822",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006335-4EEC0D1C-0A42-423B-A7C8-7B8C0DF01419",
+      "person_id": "Q23006335",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q16951667",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006336-BDE8A004-BB44-461F-94E3-53E361C2D109",
+      "person_id": "Q23006336",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2635304",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006337-CF59BF90-8D8A-4E21-86C7-C194A42EF520",
+      "person_id": "Q23006337",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q17088606",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006338-1E81CE92-17EF-4536-BE8E-DD8E2FD4A2CB",
+      "person_id": "Q23006338",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q20620587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006339-F2480F8B-B8E4-4136-8361-00EBE044C2D7",
+      "person_id": "Q23006339",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q4568022",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006341-A1945189-5F25-45DC-BAAC-89BBBC7D4018",
+      "person_id": "Q23006341",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2701743",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2434824-A9B0046E-AAE1-400C-B12F-D42B4CBBBB9E",
+      "person_id": "Q2434824",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2570782",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q248784-CC6D7FC8-2065-4C62-A492-EF3E466449DB",
+      "person_id": "Q248784",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q5295599",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q273274-FD0961C8-E83F-4303-8C42-DE77254AA902",
+      "person_id": "Q273274",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2251639",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q278178-DABD1016-CD76-4364-99DF-846F7AE3EE0C",
+      "person_id": "Q278178",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q5310820",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2975532-08671241-3C75-4B57-86D6-803B2CCE0C30",
+      "person_id": "Q2975532",
+      "on_behalf_of_id": "Q17100320",
+      "organization_id": "Q651981",
+      "area_id": "Q20620587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q371007-90196F8F-2A60-45AA-8D06-98AD23C134F8",
+      "person_id": "Q371007",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q4568022",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777426-64F1DE3A-CB4C-4C6F-9CFB-469D5CAEAB6C",
+      "person_id": "Q3777426",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q3147235",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777436-CADB7C79-7111-4DE7-967F-7E7EB99D36AD",
+      "person_id": "Q3777436",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6487881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777456-A12960C0-4FC8-4CCA-A55F-71B209BDC130",
+      "person_id": "Q3777456",
+      "on_behalf_of_id": "Q17100320",
+      "organization_id": "Q651981",
+      "area_id": "Q5310820",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777469-7F93EF8F-EB6E-4CF3-9EAE-1080A6820FA6",
+      "person_id": "Q3777469",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q3458611",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777472-09EA038D-198F-4594-9093-EE7B7B7948CF",
+      "person_id": "Q3777472",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q1869725",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777482-E7B4DBAA-E3BB-41DF-BDEA-D955432346BD",
+      "person_id": "Q3777482",
+      "on_behalf_of_id": "Q20682633",
+      "organization_id": "Q651981",
+      "area_id": "Q2531985",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777548-A6EE2701-3F0E-442D-B649-1B69C842EBBC",
+      "person_id": "Q3777548",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6689841",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777562-6A57041B-657F-4EE9-B5EC-4929F9E69912",
+      "person_id": "Q3777562",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2109423",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777612-3593FE61-5D11-4A0E-BCD7-20945C32050A",
+      "person_id": "Q3777612",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q16951667",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3777896-BFC3732B-D8F9-4859-BD13-CC4C9FECD66C",
+      "person_id": "Q3777896",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2040462",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q380320-CAC89EB0-7D5D-4CFC-A15F-19B8E270EE7E",
+      "person_id": "Q380320",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6406731",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q381658-6E5DC3F6-D9FC-4AEA-B987-FD2A5C88CC98",
+      "person_id": "Q381658",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q7367587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q444685-0F50030E-043C-4E17-8FBE-FB4CE26F83F2",
+      "person_id": "Q444685",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q5310999",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q444725-0ADBE6CC-5E86-469C-9012-42970B57FE39",
+      "person_id": "Q444725",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q6549243",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q454245-be853bd0-4bd4-f3a9-d125-9cabee204ed1",
+      "person_id": "Q454245",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q7808886",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q466028-D4E0C264-2C4B-4192-A1C2-4A69784C05B7",
+      "person_id": "Q466028",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q3458611",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q466044-12350DF7-F14A-4008-A86C-5184DB274500",
+      "person_id": "Q466044",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2701743",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q467414-E43C219A-840F-4D88-8E74-BCE472E6F139",
+      "person_id": "Q467414",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2622823",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4687826-B0BE216F-EEDB-4C3D-8E23-0ACF6EE12E17",
+      "person_id": "Q4687826",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q5310969",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4706603-D5E7EEC1-43C8-455C-AD28-BA551DF7F40B",
+      "person_id": "Q4706603",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q20620587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4756838-67EFEC47-EA0B-471E-8077-A0A7E50B7822",
+      "person_id": "Q4756838",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4864133-03B7A1BF-BB0C-48C5-8603-B3BC22683334",
+      "person_id": "Q4864133",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q7079018",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4961087-CF43997B-3740-4010-B02F-C00A0BCD351B",
+      "person_id": "Q4961087",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q20620587",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4965374-96A790E2-2EAF-4661-BB4D-156B90D1D41E",
+      "person_id": "Q4965374",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q6487881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5034361-B7561307-19B1-4AA5-9ECA-8A5AF85D53F6",
+      "person_id": "Q5034361",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2701743",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5052598-83D3B670-AA59-496D-BB87-2CD49D278C0B",
+      "person_id": "Q5052598",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2251639",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5052836-DCD39463-57D8-4BC5-85E9-DC6B204FB091",
+      "person_id": "Q5052836",
+      "on_behalf_of_id": "Q20682633",
+      "organization_id": "Q651981",
+      "area_id": "Q6406731",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5085220-E28D3EB0-9CF2-4B6F-8A95-877E432415AC",
+      "person_id": "Q5085220",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q5295599",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5221987-AD018BB8-67F6-4120-9EA4-F056F4A3EED6",
+      "person_id": "Q5221987",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2357143",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5232711-746BEE3C-3710-4823-AF52-7DD1741EC944",
+      "person_id": "Q5232711",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2109423",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5265060-5AD29F9C-E844-4609-B57C-CD3B32EB9674",
+      "person_id": "Q5265060",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2531985",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5277023-F7BE1DCF-F90A-4E67-83D1-401B1D3392CE",
+      "person_id": "Q5277023",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q6673850",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5325539-B98A88FD-6C6C-43D3-9E39-6948FD50B38C",
+      "person_id": "Q5325539",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q7540532",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5381683-B7DDF985-81E6-4BDA-B587-3F7884210D44",
+      "person_id": "Q5381683",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310822",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5381749-5234BD14-4369-48ED-AE92-0E9E39076215",
+      "person_id": "Q5381749",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2641881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q540812-09BAA2C8-BEB9-4029-97AD-6FDBBDC9FCB8",
+      "person_id": "Q540812",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2641881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q540826-D99F1F61-B21C-4A65-B4DB-031ED12E1E1F",
+      "person_id": "Q540826",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310969",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5450326-91C4E38B-DDD1-4597-B6A0-65F876AE76D3",
+      "person_id": "Q5450326",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q5310820",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q559402-30B5A56D-6190-47A8-9909-74223EF2FD60",
+      "person_id": "Q559402",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2357143",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q559638-6B4A49EC-D6DD-41EA-AE90-708780B054C9",
+      "person_id": "Q559638",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2570782",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5693903-7573FC15-02B9-4E9E-9E1F-76554AE9BCD4",
+      "person_id": "Q5693903",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2701743",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5761616-395b4ee7-4131-0a27-dcbd-3d473197988f",
+      "person_id": "Q5761616",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2251639",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57815-08951DE3-FB42-468E-9D5C-F1FCF49EE282",
+      "person_id": "Q57815",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q1869725",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q616919-14FEA66F-0244-49D4-8A92-30CDCBD9AB6F",
+      "person_id": "Q616919",
+      "on_behalf_of_id": "Q21218940",
+      "organization_id": "Q651981",
+      "area_id": "Q5310971",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6194524-8D2249A0-DAEA-4E69-B4B6-C3CEA7249F6E",
+      "person_id": "Q6194524",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2746787",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6204959-C25FC56B-9AC4-4675-AA30-AB0A4F5CB5D3",
+      "person_id": "Q6204959",
+      "on_behalf_of_id": "Q17100320",
+      "organization_id": "Q651981",
+      "area_id": "Q5310969",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6209000-0B19D3D6-358C-4390-887E-D0F66AE7D7E5",
+      "person_id": "Q6209000",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2570782",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6211254-1D39D902-AD7E-41BB-9032-CC112D653A89",
+      "person_id": "Q6211254",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5295599",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6227930-3AAD2E20-47CD-4F84-BCEB-56A3A59ECF83",
+      "person_id": "Q6227930",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2641881",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6237376-2F7CCF1D-A6E0-442C-BCF1-BFC46D9DD9B8",
+      "person_id": "Q6237376",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q2109423",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6241177-0308002B-8CA4-4DEC-A78A-CFEF4B352AFD",
+      "person_id": "Q6241177",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q3913273",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6252268-8B365810-959C-4E92-A711-52CE7B11BE58",
+      "person_id": "Q6252268",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q3913273",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6274034-CDB6C332-04B7-46C5-97E2-CC062645ACFF",
+      "person_id": "Q6274034",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2357143",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6376580-ef6d0e24-4c4f-d863-bfae-8dde6b69aa8f",
+      "person_id": "Q6376580",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q5310971",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6756353-D7505F30-83DF-479E-96CA-33562495FF7C",
+      "person_id": "Q6756353",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q7079018",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6775424-C603C301-6CE1-4073-864E-3E46AD77F682",
+      "person_id": "Q6775424",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q6394444",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6775671-B08C6741-8AA8-4298-97E9-D6E5B6C2438D",
+      "person_id": "Q6775671",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q17088606",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6780355-6b0a2095-44d2-7521-1c96-2476d7b29f9d",
+      "person_id": "Q6780355",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5320426",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6791813-6E433805-4BD8-41FD-B469-AA36FC5737D1",
+      "person_id": "Q6791813",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q7808886",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6793427-74BB0C30-D2F8-4865-B7A3-54C4BF5466F4",
+      "person_id": "Q6793427",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q6549243",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6829535-BC49C706-3A5A-41DD-ACC0-A8C2C4246FDC",
+      "person_id": "Q6829535",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q3147235",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6831036-4b845a12-41be-bcef-1069-f615e23ff5c9",
+      "person_id": "Q6831036",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q6394444",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6832712-E5E05183-BEDB-42A6-8FF8-7509A7027BB1",
+      "person_id": "Q6832712",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2635304",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6835128-6AEAD031-738C-4029-8754-24E0C524EEA6",
+      "person_id": "Q6835128",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q3458611",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6838053-EA17D378-9143-4835-9BCF-A70E82750FDE",
+      "person_id": "Q6838053",
+      "on_behalf_of_id": "Q21218940",
+      "organization_id": "Q651981",
+      "area_id": "Q2357143",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6838473-077AE03A-CF1C-42CA-BAFE-B5F26CBA74EF",
+      "person_id": "Q6838473",
+      "on_behalf_of_id": "Q17100320",
+      "organization_id": "Q651981",
+      "area_id": "Q3458611",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7023861-7DD68FC9-8C7C-4EC3-A6BC-96A5C10DB2E9",
+      "person_id": "Q7023861",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q6549251",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7143361-2D4D5718-9501-4394-9DD7-9CB9E81827F6",
+      "person_id": "Q7143361",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q3913273",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7147378-C0DC2C64-AC31-4781-B297-30D6272F7A29",
+      "person_id": "Q7147378",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6549251",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7157787-0418A630-E655-4E8E-904A-4FEE7A6169F0",
+      "person_id": "Q7157787",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q2040462",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7174004-7AE440D2-6DB4-4ED1-9334-FDCF04F6484F",
+      "person_id": "Q7174004",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q6689841",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7308461-7DF98606-1D08-4AB1-94D5-70F9E95EDC89",
+      "person_id": "Q7308461",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q1929591",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7459496-34054fe6-4a39-0272-2d7c-e2708cd78709",
+      "person_id": "Q7459496",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q5310971",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7459544-4BC9F450-8C8A-4610-A155-9055DEB5953D",
+      "person_id": "Q7459544",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2251639",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7459604-48AE6E38-8CF9-4ADD-B6FB-83210DC12289",
+      "person_id": "Q7459604",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q651981",
+      "area_id": "Q16951667",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7459627-C1C5E47E-74DA-47B5-8934-D0116D9873B0",
+      "person_id": "Q7459627",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q17088606",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7518922-e6882347-480d-b2b2-5699-c8684bf468e4",
+      "person_id": "Q7518922",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q2380581",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q76139-6D34FE78-9885-4C9D-9304-7522BBAC769A",
+      "person_id": "Q76139",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q651981",
+      "area_id": "Q6689841",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7665856-398C905E-0332-451E-8C58-8B74F3909635",
+      "person_id": "Q7665856",
+      "on_behalf_of_id": "Q4118799",
+      "organization_id": "Q651981",
+      "area_id": "Q7808886",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7788105-AE948493-E69F-419C-965B-E827596924F1",
+      "person_id": "Q7788105",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q1929591",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7793298-D0FDC4F4-AE00-44A6-B029-38B3262FB850",
+      "person_id": "Q7793298",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q5295599",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q888438-4BFEEEDA-D1DD-484E-9955-DE747A0CA7AB",
+      "person_id": "Q888438",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q3913273",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8939886-D959C7C2-5036-4454-9202-F278C59FFFEF",
+      "person_id": "Q8939886",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q1929591",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q920195-BC315929-6A67-4034-B30B-C5718212FF19",
+      "person_id": "Q920195",
+      "on_behalf_of_id": "Q831015",
+      "organization_id": "Q651981",
+      "area_id": "Q5310822",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q920403-36196E42-D473-44DD-9BE1-55178186EDA5",
+      "person_id": "Q920403",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q2635304",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q981847-0c918e45-4736-1d13-cd42-bb7d76f6f79a",
+      "person_id": "Q981847",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q651981",
+      "area_id": "Q5310820",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q981866-2570805F-8E08-4808-AD94-E107ADD57B4B",
+      "person_id": "Q981866",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q651981",
+      "area_id": "Q5295599",
+      "start_date": "2016-03-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    }
+  ]
+}

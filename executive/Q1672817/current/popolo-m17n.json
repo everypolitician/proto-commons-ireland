@@ -1,0 +1,74 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Leo Varadkar",
+        "lang:ga": "Leo Varadkar"
+      },
+      "id": "Q1728820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1728820"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Government of Ireland",
+        "lang:ga": "Rialtais na hÉireann"
+      },
+      "id": "Q1672817",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1672817"
+        }
+      ],
+      "area_id": "Q27"
+    },
+    {
+      "name": {
+        "lang:en": "Fine Gael",
+        "lang:ga": "Fine Gael"
+      },
+      "id": "Q247135",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247135"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1728820-9e2ef31a-4f5e-90f1-1016-1031d2f680a3",
+      "person_id": "Q1728820",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q1672817",
+      "area_id": "Q27",
+      "start_date": "2017-06-14",
+      "role_superclass_code": "Q191827",
+      "role_superclass": {
+        "lang:en": "Taoiseach",
+        "lang:ga": "Taoiseach"
+      },
+      "role_code": "Q191827",
+      "role": {
+        "lang:en": "Taoiseach",
+        "lang:ga": "Taoiseach"
+      }
+    }
+  ]
+}
