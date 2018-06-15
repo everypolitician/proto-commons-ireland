@@ -20,5 +20,324 @@
         "term_item_id": "Q28976095"
       }
     ]
+  },
+  {
+    "comment": "Tipperary County Council",
+    "house_item_id": "Q54931427",
+    "position_item_id": "Q54932506",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Galway County Council",
+    "house_item_id": "Q54931428",
+    "position_item_id": "Q54932511",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Leitrim County Council",
+    "house_item_id": "Q54931429",
+    "position_item_id": "Q54932512",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mayo County Council",
+    "house_item_id": "Q54931430",
+    "position_item_id": "Q54932514",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Roscommon County Council",
+    "house_item_id": "Q54931431",
+    "position_item_id": "Q54932515",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Sligo County Council",
+    "house_item_id": "Q54931432",
+    "position_item_id": "Q54932516",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Cavan County Council",
+    "house_item_id": "Q54931433",
+    "position_item_id": "Q54932517",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Donegal County Council",
+    "house_item_id": "Q54931434",
+    "position_item_id": "Q54932518",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Monaghan County Council",
+    "house_item_id": "Q54931435",
+    "position_item_id": "Q54932519",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Carlow County Council",
+    "house_item_id": "Q54931475",
+    "position_item_id": "Q54932478",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Dún Laoghaire-Rathdown County Council",
+    "house_item_id": "Q54931481",
+    "position_item_id": "Q54932481",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Fingal County Council",
+    "house_item_id": "Q54931483",
+    "position_item_id": "Q54932482",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "South Dublin County Council",
+    "house_item_id": "Q54931485",
+    "position_item_id": "Q54932483",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kildare County Council",
+    "house_item_id": "Q54931487",
+    "position_item_id": "Q54932484",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kilkenny County Council",
+    "house_item_id": "Q54931488",
+    "position_item_id": "Q54932485",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Laois County Council",
+    "house_item_id": "Q54931490",
+    "position_item_id": "Q54932486",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Longford County Council",
+    "house_item_id": "Q54931492",
+    "position_item_id": "Q54932487",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Louth County Council",
+    "house_item_id": "Q54931494",
+    "position_item_id": "Q54932491",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Meath County Council",
+    "house_item_id": "Q54931502",
+    "position_item_id": "Q54932492",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Offaly County Council",
+    "house_item_id": "Q54931506",
+    "position_item_id": "Q54932493",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Westmeath County Council",
+    "house_item_id": "Q54931510",
+    "position_item_id": "Q54932494",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Wexford County Council",
+    "house_item_id": "Q54931514",
+    "position_item_id": "Q54932495",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Wicklow County Council",
+    "house_item_id": "Q54931531",
+    "position_item_id": "Q54932496",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Clare County Council",
+    "house_item_id": "Q54931536",
+    "position_item_id": "Q54932497",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Cork County Council",
+    "house_item_id": "Q54931541",
+    "position_item_id": "Q54932499",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Kerry County Council",
+    "house_item_id": "Q54931545",
+    "position_item_id": "Q54932503",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Limerick City and County Council",
+    "house_item_id": "Q54931547",
+    "position_item_id": "Q54932504",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Waterford City and County Council",
+    "house_item_id": "Q54931556",
+    "position_item_id": "Q54932507",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Dublin City Council",
+    "house_item_id": "Q54931477",
+    "position_item_id": "Q54932479",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
   }
 ]
