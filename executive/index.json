@@ -8,5 +8,295 @@
         "position_item_id": "Q191827"
       }
     ]
+  },
+  {
+    "comment": "Limerick City and County Council",
+    "executive_item_id": "Q16886590",
+    "positions": [
+      {
+        "comment": "Mayor of the City and County of Limerick",
+        "position_item_id": "Q30587682"
+      }
+    ]
+  },
+  {
+    "comment": "Waterford City and County Council",
+    "executive_item_id": "Q16886769",
+    "positions": [
+      {
+        "comment": "Mayor of Waterford",
+        "position_item_id": "Q54931555"
+      }
+    ]
+  },
+  {
+    "comment": "Cavan County Council",
+    "executive_item_id": "Q2974524",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Cavan County Council",
+        "position_item_id": "Q54932340"
+      }
+    ]
+  },
+  {
+    "comment": "Donegal County Council",
+    "executive_item_id": "Q3782781",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Donegal County Council",
+        "position_item_id": "Q54932341"
+      }
+    ]
+  },
+  {
+    "comment": "Monaghan County Council",
+    "executive_item_id": "Q4319098",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Monaghan County Council",
+        "position_item_id": "Q54932342"
+      }
+    ]
+  },
+  {
+    "comment": "Carlow County Council",
+    "executive_item_id": "Q5042852",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of County Carlow",
+        "position_item_id": "Q54931473"
+      }
+    ]
+  },
+  {
+    "comment": "Clare County Council",
+    "executive_item_id": "Q5126146",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Clare County Council",
+        "position_item_id": "Q54931534"
+      }
+    ]
+  },
+  {
+    "comment": "Cork County Council",
+    "executive_item_id": "Q5170774",
+    "positions": [
+      {
+        "comment": "Mayor of County Cork",
+        "position_item_id": "Q54931539"
+      }
+    ]
+  },
+  {
+    "comment": "Dún Laoghaire-Rathdown County Council",
+    "executive_item_id": "Q5320425",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Dún Laoghaire–Rathdown County Council",
+        "position_item_id": "Q54931479"
+      }
+    ]
+  },
+  {
+    "comment": "Fingal County Council",
+    "executive_item_id": "Q5450180",
+    "positions": [
+      {
+        "comment": "Mayor of Fingal",
+        "position_item_id": "Q54931482"
+      }
+    ]
+  },
+  {
+    "comment": "Galway County Council",
+    "executive_item_id": "Q5519483",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of County Galway",
+        "position_item_id": "Q54932335"
+      }
+    ]
+  },
+  {
+    "comment": "Kerry County Council",
+    "executive_item_id": "Q6394503",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Kerry County Council",
+        "position_item_id": "Q54931543"
+      }
+    ]
+  },
+  {
+    "comment": "Kildare County Council",
+    "executive_item_id": "Q6406724",
+    "positions": [
+      {
+        "comment": "Mayor of Kildare",
+        "position_item_id": "Q54931486"
+      }
+    ]
+  },
+  {
+    "comment": "Kilkenny County Council",
+    "executive_item_id": "Q6407034",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Kilkenny",
+        "position_item_id": "Q16152907"
+      }
+    ]
+  },
+  {
+    "comment": "Laois County Council",
+    "executive_item_id": "Q6487885",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Laois County Council",
+        "position_item_id": "Q54931489"
+      }
+    ]
+  },
+  {
+    "comment": "Leitrim County Council",
+    "executive_item_id": "Q6520435",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Leitrim County Council",
+        "position_item_id": "Q54932336"
+      }
+    ]
+  },
+  {
+    "comment": "Longford County Council",
+    "executive_item_id": "Q6673830",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Longford County Council",
+        "position_item_id": "Q54931491"
+      }
+    ]
+  },
+  {
+    "comment": "Louth County Council",
+    "executive_item_id": "Q6689844",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Louth County Council",
+        "position_item_id": "Q54931493"
+      }
+    ]
+  },
+  {
+    "comment": "Mayo County Council",
+    "executive_item_id": "Q6797511",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of County Mayo",
+        "position_item_id": "Q54932337"
+      }
+    ]
+  },
+  {
+    "comment": "Meath County Council",
+    "executive_item_id": "Q6804297",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Meath County Council",
+        "position_item_id": "Q54931499"
+      }
+    ]
+  },
+  {
+    "comment": "Offaly County Council",
+    "executive_item_id": "Q7079017",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Offaly County Council",
+        "position_item_id": "Q54931504"
+      }
+    ]
+  },
+  {
+    "comment": "Roscommon County Council",
+    "executive_item_id": "Q7367572",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Roscommon County Council",
+        "position_item_id": "Q54932338"
+      }
+    ]
+  },
+  {
+    "comment": "Sligo County Council",
+    "executive_item_id": "Q7540498",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Sligo County Council",
+        "position_item_id": "Q54932339"
+      }
+    ]
+  },
+  {
+    "comment": "South Dublin County Council",
+    "executive_item_id": "Q7567084",
+    "positions": [
+      {
+        "comment": "Mayor of South Dublin County",
+        "position_item_id": "Q54931484"
+      }
+    ]
+  },
+  {
+    "comment": "Tipperary County Council",
+    "executive_item_id": "Q7808890",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Tipperary County Council",
+        "position_item_id": "Q54932334"
+      }
+    ]
+  },
+  {
+    "comment": "Westmeath County Council",
+    "executive_item_id": "Q7989085",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Westmeath County Council",
+        "position_item_id": "Q54931508"
+      }
+    ]
+  },
+  {
+    "comment": "Wexford County Council",
+    "executive_item_id": "Q7990249",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Wexford County Council",
+        "position_item_id": "Q54931512"
+      }
+    ]
+  },
+  {
+    "comment": "Wicklow County Council",
+    "executive_item_id": "Q7998430",
+    "positions": [
+      {
+        "comment": "Cathaoirleach of Wicklow County Council",
+        "position_item_id": "Q54931516"
+      }
+    ]
+  },
+  {
+    "comment": "Dublin City Council",
+    "executive_item_id": "Q4810766",
+    "positions": [
+      {
+        "comment": "Lord Mayor of Dublin",
+        "position_item_id": "Q13645132"
+      }
+    ]
   }
 ]
