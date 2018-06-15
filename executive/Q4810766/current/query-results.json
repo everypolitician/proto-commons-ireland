@@ -1,0 +1,155 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_en", "name_ga", "party", "party_name_en", "party_name_ga", "district", "district_name_en", "district_name_ga", "role", "role_en", "role_ga", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_ga", "org", "org_en", "org_ga", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25993038"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Brendan Carr"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4810766"
+      },
+      "org_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Comhairle Cathrach Bhaile Átha Cliath"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin City Council"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q25993038-25563265-4b9d-08ee-8575-c77dc74ffc7a"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3991506"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Timothy Daniel Sullivan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4810766"
+      },
+      "org_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Comhairle Cathrach Bhaile Átha Cliath"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin City Council"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3991506-A908FB4B-595F-4799-9A7F-E65290F957ED"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1311653"
+      },
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Páirtí Parlaiminteach na hÉireann"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Irish Parliamentary Party"
+      }
+    } ]
+  }
+}
