@@ -1,0 +1,100 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Brendan Carr"
+      },
+      "id": "Q25993038",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25993038"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Timothy Daniel Sullivan"
+      },
+      "id": "Q3991506",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3991506"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Dublin City Council",
+        "lang:ga": "Comhairle Cathrach Bhaile Átha Cliath"
+      },
+      "id": "Q4810766",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4810766"
+        }
+      ],
+      "area_id": "Q1761"
+    },
+    {
+      "name": {
+        "lang:en": "Irish Parliamentary Party",
+        "lang:ga": "Páirtí Parlaiminteach na hÉireann"
+      },
+      "id": "Q1311653",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1311653"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25993038-25563265-4b9d-08ee-8575-c77dc74ffc7a",
+      "person_id": "Q25993038",
+      "organization_id": "Q4810766",
+      "area_id": "Q1761",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q13645132",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Dublin"
+      },
+      "role_code": "Q13645132",
+      "role": {
+        "lang:en": "Lord Mayor of Dublin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3991506-A908FB4B-595F-4799-9A7F-E65290F957ED",
+      "person_id": "Q3991506",
+      "on_behalf_of_id": "Q1311653",
+      "organization_id": "Q4810766",
+      "area_id": "Q1761",
+      "role_superclass_code": "Q13645132",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Dublin"
+      },
+      "role_code": "Q13645132",
+      "role": {
+        "lang:en": "Lord Mayor of Dublin"
+      }
+    }
+  ]
+}

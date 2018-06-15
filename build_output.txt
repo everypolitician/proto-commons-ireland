@@ -220,5 +220,65 @@ WARNING: the district Cork South–Central (Q2635304) wasn't found in the bounda
 WARNING: the district Dublin Bay North (Q5310820) wasn't found in the boundary data for position Deputy to the Dáil (Q654291)
 WARNING: the district Donegal (Q5295599) wasn't found in the boundary data for position Deputy to the Dáil (Q654291)
 WARNING: the district Mayo (Q1869725) wasn't found in the boundary data for position Deputy to the Dáil (Q654291)
+WARNING: Position councillor in Tipperary County Council (Q54932506) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Galway County Council (Q54932511) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Leitrim County Council (Q54932512) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Mayo County Council (Q54932514) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Roscommon County Council (Q54932515) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Sligo County Council (Q54932516) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Cavan County Council (Q54932517) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Donegal County Council (Q54932518) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Monaghan County Council (Q54932519) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Carlow County Council (Q54932478) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Dún Laoghaire-Rathdown County Council (Q54932481) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Fingal County Council (Q54932482) not in boundary associated_wikidata_positions
+WARNING: Position councillor in South Dublin County Council (Q54932483) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Kildare County Council (Q54932484) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Kilkenny County Council (Q54932485) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Laois County Council (Q54932486) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Longford County Council (Q54932487) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Louth County Council (Q54932491) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Meath County Council (Q54932492) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Offaly County Council (Q54932493) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Westmeath County Council (Q54932494) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Wexford County Council (Q54932495) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Wicklow County Council (Q54932496) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Clare County Council (Q54932497) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Cork County Council (Q54932499) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Kerry County Council (Q54932503) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Limerick City and County Council (Q54932504) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Waterford City and County Council (Q54932507) not in boundary associated_wikidata_positions
+WARNING: Position councillor in Dublin City Council (Q54932479) not in boundary associated_wikidata_positions
 WARNING: Position Taoiseach (Q191827) not in boundary associated_wikidata_positions
-WARNING: the district  (Q27) wasn't found in the boundary data for position Taoiseach (Q191827)
+WARNING: the district Ireland (Q27) wasn't found in the boundary data for position Taoiseach (Q191827)
+WARNING: Position Mayor of the City and County of Limerick (Q30587682) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Waterford (Q54931555) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Cavan County Council (Q54932340) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Donegal County Council (Q54932341) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Monaghan County Council (Q54932342) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of County Carlow (Q54931473) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Clare County Council (Q54931534) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of County Cork (Q54931539) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Dún Laoghaire–Rathdown County Council (Q54931479) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Fingal (Q54931482) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of County Galway (Q54932335) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Kerry County Council (Q54931543) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of Kildare (Q54931486) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Kilkenny (Q16152907) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Laois County Council (Q54931489) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Leitrim County Council (Q54932336) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Longford County Council (Q54931491) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Louth County Council (Q54931493) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of County Mayo (Q54932337) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Meath County Council (Q54931499) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Offaly County Council (Q54931504) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Roscommon County Council (Q54932338) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Sligo County Council (Q54932339) not in boundary associated_wikidata_positions
+WARNING: Position Mayor of South Dublin County (Q54931484) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Tipperary County Council (Q54932334) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Westmeath County Council (Q54931508) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Wexford County Council (Q54931512) not in boundary associated_wikidata_positions
+WARNING: Position Cathaoirleach of Wicklow County Council (Q54931516) not in boundary associated_wikidata_positions
+WARNING: Position Lord Mayor of Dublin (Q13645132) not in boundary associated_wikidata_positions
+WARNING: the district Dublin (Q1761) wasn't found in the boundary data for position Lord Mayor of Dublin (Q13645132)
+WARNING: the district Dublin (Q1761) wasn't found in the boundary data for position Lord Mayor of Dublin (Q13645132)
