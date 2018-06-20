@@ -1,0 +1,100 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Niall Ó Brolcháin",
+        "lang:ga": "Niall Ó Brolcháin"
+      },
+      "id": "Q1984551",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1984551"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hildegarde Naughton",
+        "lang:ga": "Hildegarde Naughton"
+      },
+      "id": "Q5761616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5761616"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "office of the Mayor of Galway"
+      },
+      "id": "Q55082868",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082868"
+        }
+      ],
+      "area_id": "Q129610"
+    },
+    {
+      "name": {
+        "lang:en": "Green Party",
+        "lang:ga": "Comhaontas Glas"
+      },
+      "id": "Q831015",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q831015"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1984551-456A5368-1FA3-4AA9-83A9-6D7AC5A644EA",
+      "person_id": "Q1984551",
+      "on_behalf_of_id": "Q831015",
+      "organization_id": "Q55082868",
+      "area_id": "Q129610",
+      "role_superclass_code": "Q6797712",
+      "role_superclass": {
+        "lang:en": "Mayor of Galway"
+      },
+      "role_code": "Q6797712",
+      "role": {
+        "lang:en": "Mayor of Galway"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5761616-839d634e-48aa-a7cf-034f-207dd2311f2c",
+      "person_id": "Q5761616",
+      "organization_id": "Q55082868",
+      "area_id": "Q129610",
+      "role_superclass_code": "Q6797712",
+      "role_superclass": {
+        "lang:en": "Mayor of Galway"
+      },
+      "role_code": "Q6797712",
+      "role": {
+        "lang:en": "Mayor of Galway"
+      }
+    }
+  ]
+}

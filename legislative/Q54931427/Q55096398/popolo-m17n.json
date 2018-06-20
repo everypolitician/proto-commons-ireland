@@ -1,0 +1,74 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Micheál Lowry"
+      },
+      "id": "Q55083471",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083471"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/micheal.lowry.9"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "legislative body of Tipperary County Council"
+      },
+      "id": "Q54931427",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931427"
+        }
+      ],
+      "area_id": "Q184618",
+      "seat_counts": {
+        "Q54932506": "40"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083471-6ECA5EE6-502C-4341-B550-93DEA3DD4C23",
+      "person_id": "Q55083471",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q54931427",
+      "area_id": "Q54945452",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932506",
+      "role": {
+        "lang:en": "councillor in Tipperary County Council"
+      }
+    }
+  ]
+}

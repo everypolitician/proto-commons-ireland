@@ -1,0 +1,85 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_en", "name_ga", "party", "party_name_en", "party_name_ga", "district", "district_name_en", "district_name_ga", "role", "role_en", "role_ga", "role_superclass", "role_superclass_en", "role_superclass_ga", "start", "end", "facebook", "org", "org_en", "org_ga", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q216517"
+      },
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fianna Fáil"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fianna Fáil"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55083468-9DD2F16D-34B6-424A-8E3F-EA572C7A2884"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54945335"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Portlaoise"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54932486"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in Laois County Council"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55083468"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catherine Fitzgerald"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54931490"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislative body of Laois County Council"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55299"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "19"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "catherine.fitzgerald.334"
+      }
+    } ]
+  }
+}

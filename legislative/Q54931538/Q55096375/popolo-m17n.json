@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Henry Cremin"
+      },
+      "id": "Q55083470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083470"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CouncillorHenryCremin"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "legislative body of Cork City Council"
+      },
+      "id": "Q54931538",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931538"
+        }
+      ],
+      "area_id": "Q36647",
+      "seat_counts": {
+        "Q54932498": "31"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Sinn Féin",
+        "lang:ga": "Sinn Féin"
+      },
+      "id": "Q76382",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76382"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083470-D24785BA-BE14-4A15-B854-95A547CAC1CF",
+      "person_id": "Q55083470",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q54931538",
+      "area_id": "Q54945225",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932498",
+      "role": {
+        "lang:en": "councillor in Cork City Council"
+      }
+    }
+  ]
+}

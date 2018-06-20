@@ -1,0 +1,263 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Gary Gannon"
+      },
+      "id": "Q52004188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52004188"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gary.gannon.77"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Janice Boylan"
+      },
+      "id": "Q55083473",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083473"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Councillor-Janice-Boylan-470575643109535"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Tom Brabazon"
+      },
+      "id": "Q55083474",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083474"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/brabazont"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Claire Byrne"
+      },
+      "id": "Q55083475",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083475"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Claire-Byrne-Green-Party-507864742652844"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pat Dunne"
+      },
+      "id": "Q55083476",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083476"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/pat.dunne.39"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "legislative body of Dublin City Council"
+      },
+      "id": "Q54931477",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931477"
+        }
+      ],
+      "area_id": "Q1761",
+      "seat_counts": {
+        "Q54932479": "63"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Independents 4 Change",
+        "lang:ga": "Independents 4 Change"
+      },
+      "id": "Q17100320",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17100320"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Social Democrats",
+        "lang:ga": "Na Daonlathaigh Shóisialta"
+      },
+      "id": "Q20682633",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20682633"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Fianna Fáil",
+        "lang:ga": "Fianna Fáil"
+      },
+      "id": "Q216517",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216517"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinn Féin",
+        "lang:ga": "Sinn Féin"
+      },
+      "id": "Q76382",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76382"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Green Party",
+        "lang:ga": "Comhaontas Glas"
+      },
+      "id": "Q831015",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q831015"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52004188-8D59276D-AA86-40D5-AAE8-4A03CDCB64EE",
+      "person_id": "Q52004188",
+      "on_behalf_of_id": "Q20682633",
+      "organization_id": "Q54931477",
+      "area_id": "Q54945249",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932479",
+      "role": {
+        "lang:en": "councillor in Dublin City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083473-24F4A750-F1DE-4453-9BE8-9E08FC6A763F",
+      "person_id": "Q55083473",
+      "on_behalf_of_id": "Q76382",
+      "organization_id": "Q54931477",
+      "area_id": "Q54945249",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932479",
+      "role": {
+        "lang:en": "councillor in Dublin City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083474-F3D4A3A9-F22E-443E-B6AE-8F2B0475DB0C",
+      "person_id": "Q55083474",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q54931477",
+      "area_id": "Q54945248",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932479",
+      "role": {
+        "lang:en": "councillor in Dublin City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083475-DE5BA850-A235-4598-A237-F14689DC85C5",
+      "person_id": "Q55083475",
+      "on_behalf_of_id": "Q831015",
+      "organization_id": "Q54931477",
+      "area_id": "Q54945262",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932479",
+      "role": {
+        "lang:en": "councillor in Dublin City Council"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083476-C1F6C2D5-0CDA-402D-82D3-6BAC00CB62B4",
+      "person_id": "Q55083476",
+      "on_behalf_of_id": "Q17100320",
+      "organization_id": "Q54931477",
+      "area_id": "Q54945252",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932479",
+      "role": {
+        "lang:en": "councillor in Dublin City Council"
+      }
+    }
+  ]
+}
