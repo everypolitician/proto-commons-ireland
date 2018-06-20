@@ -20,5 +20,346 @@
         "term_item_id": "Q28976095"
       }
     ]
+  },
+  {
+    "comment": "legislative body of Tipperary County Council",
+    "house_item_id": "Q54931427",
+    "position_item_id": "Q54932506",
+    "terms": [
+      {
+        "comment": "Tipperary County Council 2014-2019",
+        "term_item_id": "Q55096398"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Galway County Council",
+    "house_item_id": "Q54931428",
+    "position_item_id": "Q54932511",
+    "terms": [
+      {
+        "comment": "Galway County Council 2014-2019",
+        "term_item_id": "Q55096382"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Leitrim County Council",
+    "house_item_id": "Q54931429",
+    "position_item_id": "Q54932512",
+    "terms": [
+      {
+        "comment": "Leitrim County Council 2014-2019",
+        "term_item_id": "Q55096387"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Mayo County Council",
+    "house_item_id": "Q54931430",
+    "position_item_id": "Q54932514",
+    "terms": [
+      {
+        "comment": "Mayo County Council 2014-2019",
+        "term_item_id": "Q55096391"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Roscommon County Council",
+    "house_item_id": "Q54931431",
+    "position_item_id": "Q54932515",
+    "terms": [
+      {
+        "comment": "Roscommon County Council 2014-2019",
+        "term_item_id": "Q55096395"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Sligo County Council",
+    "house_item_id": "Q54931432",
+    "position_item_id": "Q54932516",
+    "terms": [
+      {
+        "comment": "Sligo County Council 2014-2019",
+        "term_item_id": "Q55096396"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Cavan County Council",
+    "house_item_id": "Q54931433",
+    "position_item_id": "Q54932517",
+    "terms": [
+      {
+        "comment": "Cavan County Council 2014-2019",
+        "term_item_id": "Q55096373"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Donegal County Council",
+    "house_item_id": "Q54931434",
+    "position_item_id": "Q54932518",
+    "terms": [
+      {
+        "comment": "Donegal County Council 2014-2019",
+        "term_item_id": "Q55096377"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Monaghan County Council",
+    "house_item_id": "Q54931435",
+    "position_item_id": "Q54932519",
+    "terms": [
+      {
+        "comment": "Monaghan County Council 2014-2019",
+        "term_item_id": "Q55096393"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Carlow County Council",
+    "house_item_id": "Q54931475",
+    "position_item_id": "Q54932478",
+    "terms": [
+      {
+        "comment": "Carlow County Council 2014-2019",
+        "term_item_id": "Q55096372"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Dublin City Council",
+    "house_item_id": "Q54931477",
+    "position_item_id": "Q54932479",
+    "terms": [
+      {
+        "comment": "Dublin City Council 2014-2019",
+        "term_item_id": "Q55096378"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Dún Laoghaire-Rathdown County Council",
+    "house_item_id": "Q54931481",
+    "position_item_id": "Q54932481",
+    "terms": [
+      {
+        "comment": "Dún Laoghaire-Rathdown County Council 2014-2019",
+        "term_item_id": "Q55096379"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Fingal County Council",
+    "house_item_id": "Q54931483",
+    "position_item_id": "Q54932482",
+    "terms": [
+      {
+        "comment": "Fingal County Council 2014-2019",
+        "term_item_id": "Q55096380"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of South Dublin County Council",
+    "house_item_id": "Q54931485",
+    "position_item_id": "Q54932483",
+    "terms": [
+      {
+        "comment": "South Dublin County Council 2014-2019",
+        "term_item_id": "Q55096397"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Kildare County Council",
+    "house_item_id": "Q54931487",
+    "position_item_id": "Q54932484",
+    "terms": [
+      {
+        "comment": "Kildare County Council 2014-2019",
+        "term_item_id": "Q55096384"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Kilkenny County Council",
+    "house_item_id": "Q54931488",
+    "position_item_id": "Q54932485",
+    "terms": [
+      {
+        "comment": "Kilkenny County Council 2014-2019",
+        "term_item_id": "Q55096385"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Laois County Council",
+    "house_item_id": "Q54931490",
+    "position_item_id": "Q54932486",
+    "terms": [
+      {
+        "comment": "Laois County Council 2014-2019",
+        "term_item_id": "Q55096386"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Longford County Council",
+    "house_item_id": "Q54931492",
+    "position_item_id": "Q54932487",
+    "terms": [
+      {
+        "comment": "Longford County Council 2014-2019",
+        "term_item_id": "Q55096389"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Louth County Council",
+    "house_item_id": "Q54931494",
+    "position_item_id": "Q54932491",
+    "terms": [
+      {
+        "comment": "Louth County Council 2014-2019",
+        "term_item_id": "Q55096390"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Meath County Council",
+    "house_item_id": "Q54931502",
+    "position_item_id": "Q54932492",
+    "terms": [
+      {
+        "comment": "Meath County Council 2014-2019",
+        "term_item_id": "Q55096392"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Offaly County Council",
+    "house_item_id": "Q54931506",
+    "position_item_id": "Q54932493",
+    "terms": [
+      {
+        "comment": "Offaly County Council 2014-2019",
+        "term_item_id": "Q55096394"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Westmeath County Council",
+    "house_item_id": "Q54931510",
+    "position_item_id": "Q54932494",
+    "terms": [
+      {
+        "comment": "Westmeath County Council 2014-2019",
+        "term_item_id": "Q55096400"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Wexford County Council",
+    "house_item_id": "Q54931514",
+    "position_item_id": "Q54932495",
+    "terms": [
+      {
+        "comment": "Wexford County Council 2014-2019",
+        "term_item_id": "Q55096401"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Wicklow County Council",
+    "house_item_id": "Q54931531",
+    "position_item_id": "Q54932496",
+    "terms": [
+      {
+        "comment": "Wicklow County Council 2014-2019",
+        "term_item_id": "Q55096402"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Clare County Council",
+    "house_item_id": "Q54931536",
+    "position_item_id": "Q54932497",
+    "terms": [
+      {
+        "comment": "Clare County Council 2014-2019",
+        "term_item_id": "Q55096374"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Cork City Council",
+    "house_item_id": "Q54931538",
+    "position_item_id": "Q54932498",
+    "terms": [
+      {
+        "comment": "Cork City Council 2014-2019",
+        "term_item_id": "Q55096375"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Cork County Council",
+    "house_item_id": "Q54931541",
+    "position_item_id": "Q54932499",
+    "terms": [
+      {
+        "comment": "Cork County Council 2014-2019",
+        "term_item_id": "Q55096376"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Kerry County Council",
+    "house_item_id": "Q54931545",
+    "position_item_id": "Q54932503",
+    "terms": [
+      {
+        "comment": "Kerry County Council 2014-2019",
+        "term_item_id": "Q55096383"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Limerick City and County Council",
+    "house_item_id": "Q54931547",
+    "position_item_id": "Q54932504",
+    "terms": [
+      {
+        "comment": "Limerick City and County Council 2014-2019",
+        "term_item_id": "Q55096388"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Waterford City and County Council",
+    "house_item_id": "Q54931556",
+    "position_item_id": "Q54932507",
+    "terms": [
+      {
+        "comment": "Waterford City and County Council 2014-2019",
+        "term_item_id": "Q55096399"
+      }
+    ]
+  },
+  {
+    "comment": "legislative body of Galway City Council",
+    "house_item_id": "Q54931557",
+    "position_item_id": "Q54932509",
+    "terms": [
+      {
+        "comment": "Galway City Council 2014-2019",
+        "term_item_id": "Q55096381"
+      }
+    ]
   }
 ]
