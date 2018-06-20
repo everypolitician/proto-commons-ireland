@@ -1,0 +1,72 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Brian McDonagh"
+      },
+      "id": "Q55083469",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083469"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "legislative body of Fingal County Council"
+      },
+      "id": "Q54931483",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931483"
+        }
+      ],
+      "area_id": "Q520000",
+      "seat_counts": {
+        "Q54932482": "40"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:ga": "Páirtí an Lucht Oibre"
+      },
+      "id": "Q503614",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503614"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083469-F716A11B-6D08-4311-8B6D-5E11A76529F0",
+      "person_id": "Q55083469",
+      "on_behalf_of_id": "Q503614",
+      "organization_id": "Q54931483",
+      "area_id": "Q54945284",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932482",
+      "role": {
+        "lang:en": "councillor in Fingal County Council"
+      }
+    }
+  ]
+}

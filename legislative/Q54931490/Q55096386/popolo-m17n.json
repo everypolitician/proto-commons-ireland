@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Catherine Fitzgerald"
+      },
+      "id": "Q55083468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083468"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/catherine.fitzgerald.334"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "legislative body of Laois County Council"
+      },
+      "id": "Q54931490",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931490"
+        }
+      ],
+      "area_id": "Q55299",
+      "seat_counts": {
+        "Q54932486": "19"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Fianna Fáil",
+        "lang:ga": "Fianna Fáil"
+      },
+      "id": "Q216517",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216517"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083468-9DD2F16D-34B6-424A-8E3F-EA572C7A2884",
+      "person_id": "Q55083468",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q54931490",
+      "area_id": "Q54945335",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932486",
+      "role": {
+        "lang:en": "councillor in Laois County Council"
+      }
+    }
+  ]
+}

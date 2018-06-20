@@ -1,0 +1,70 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Deirdre Clune",
+        "lang:ga": "Deirdre Clune"
+      },
+      "id": "Q1183377",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1183377"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "office of the Lord Mayor of Cork"
+      },
+      "id": "Q55082860",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082860"
+        }
+      ],
+      "area_id": "Q36647"
+    },
+    {
+      "name": {
+        "lang:en": "Fine Gael",
+        "lang:ga": "Fine Gael"
+      },
+      "id": "Q247135",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247135"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1183377-1E25D6CF-AE71-46C8-BCB3-9804E97AB6FE",
+      "person_id": "Q1183377",
+      "on_behalf_of_id": "Q247135",
+      "organization_id": "Q55082860",
+      "area_id": "Q36647",
+      "role_superclass_code": "Q6679767",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Cork"
+      },
+      "role_code": "Q6679767",
+      "role": {
+        "lang:en": "Lord Mayor of Cork"
+      }
+    }
+  ]
+}

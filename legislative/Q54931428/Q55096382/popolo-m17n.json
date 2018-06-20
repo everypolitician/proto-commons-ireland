@@ -1,0 +1,72 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Martina Kinane"
+      },
+      "id": "Q55083472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55083472"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "legislative body of Galway County Council"
+      },
+      "id": "Q54931428",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931428"
+        }
+      ],
+      "area_id": "Q169923",
+      "seat_counts": {
+        "Q54932511": "39"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Fianna Fáil",
+        "lang:ga": "Fianna Fáil"
+      },
+      "id": "Q216517",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q216517"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55083472-C8894E96-F6CA-48ED-BAE1-78D50EE8E450",
+      "person_id": "Q55083472",
+      "on_behalf_of_id": "Q216517",
+      "organization_id": "Q54931428",
+      "area_id": "Q54945305",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q54932511",
+      "role": {
+        "lang:en": "councillor in Galway County Council"
+      }
+    }
+  ]
+}
