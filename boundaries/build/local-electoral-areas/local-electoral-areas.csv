@@ -1,12 +1,12 @@
 OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_Y,LEA_NAME,MS_FB_PARE,MS_FB,WIKIDATA
-1,13100400,BORRIS-IN-OSSORY — MOUNTMELLICK (6),,Laois,Laois,Leinster,634575,693788,Borris-in-ossory — Mountmellick,country:ie/county:laois,country:ie/county:laois/lea:borris-in-ossory---mountmellick,Q54945334
+1,13100400,BORRIS-IN-OSSORY — MOUNTMELLICK (6),,Laois,Laois,Leinster,634575,693788,Borris-in-Ossory — Mountmellick,country:ie/county:laois,country:ie/county:laois/lea:borris-in-ossory---mountmellick,Q54945334
 2,13100401,PORTLAOISE (7),,Laois,Laois,Leinster,646081,691624,Portlaoise,country:ie/county:laois,country:ie/county:laois/lea:portlaoise,Q54945335
 3,13100402,GRAIGUECULLEN — PORTARLINGTON (6),,Laois,Laois,Leinster,660847,692423,Graiguecullen — Portarlington,country:ie/county:laois,country:ie/county:laois/lea:graiguecullen---portarlington,Q54945333
 4,1310400,CARLOW (10),,Carlow,Ceatharlach,Leinster,685522,677296,Carlow,country:ie/county:carlow,country:ie/county:carlow/lea:carlow,Q54945197
 5,1310401,MUINEBEAG (8),,Carlow,Ceatharlach,Leinster,676796,653168,Muinebeag,country:ie/county:carlow,country:ie/county:carlow/lea:muinebeag,Q54945198
 6,13110400,MANORHAMILTON (6),,Leitrim,Liatroim,Connacht,587866,838473,Manorhamilton,country:ie/county:leitrim,country:ie/county:leitrim/lea:manorhamilton,Q54945346
 7,13110401,BALLINAMORE (6),,Leitrim,Liatroim,Connacht,611457,808759,Ballinamore,country:ie/county:leitrim,country:ie/county:leitrim/lea:ballinamore,Q54945347
-8,13110402,CARRICK-ON-SHANNON (6),,Leitrim,Liatroim,Connacht,603739,798031,Carrick-on-shannon,country:ie/county:leitrim,country:ie/county:leitrim/lea:carrick-on-shannon,Q54945345
+8,13110402,CARRICK-ON-SHANNON (6),,Leitrim,Liatroim,Connacht,603739,798031,Carrick-on-Shannon,country:ie/county:leitrim,country:ie/county:leitrim/lea:carrick-on-shannon,Q54945345
 9,13120400,NEWCASTLE WEST (6),,Limerick,Luimneach,Munster,528732,632879,Newcastle West,country:ie/county:limerick,country:ie/county:limerick/lea:newcastle-west,Q54945355
 10,13120401,ADARE — RATHKEALE (6),,Limerick,Luimneach,Munster,540928,645452,Adare — Rathkeale,country:ie/county:limerick,country:ie/county:limerick/lea:adare---rathkeale,Q54945353
 11,13120402,CAPPAMORE — KILMALLOCK (7),,Limerick,Luimneach,Munster,568291,633793,Cappamore — Kilmallock,country:ie/county:limerick,country:ie/county:limerick/lea:cappamore---kilmallock,Q54945354
@@ -46,7 +46,7 @@ OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_
 45,1320402,BALLYJAMESDUFF (6),,Cavan,An Cabhán,Ulster,640668,794487,Ballyjamesduff,country:ie/county:cavan,country:ie/county:cavan/lea:ballyjamesduff,Q54945202
 46,13210400,NENAGH (9),,Tipperary,Tiobraid Árann,Munster,586481,680569,Nenagh,country:ie/county:tipperary,country:ie/county:tipperary/lea:nenagh,Q54945450
 47,13210401,TEMPLEMORE — THURLES (9),,Tipperary,Tiobraid Árann,Munster,613700,670255,Templemore — Thurles,country:ie/county:tipperary,country:ie/county:tipperary/lea:templemore---thurles,Q54945452
-48,13210402,CARRICK-ON-SUIR (6),,Tipperary,Tiobraid Árann,Munster,624233,638323,Carrick-on-suir,country:ie/county:tipperary,country:ie/county:tipperary/lea:carrick-on-suir,Q54945438
+48,13210402,CARRICK-ON-SUIR (6),,Tipperary,Tiobraid Árann,Munster,624233,638323,Carrick-on-Suir,country:ie/county:tipperary,country:ie/county:tipperary/lea:carrick-on-suir,Q54945438
 49,13210403,CLONMEL (9),,Tipperary,Tiobraid Árann,Munster,601052,620125,Clonmel,country:ie/county:tipperary,country:ie/county:tipperary/lea:clonmel,Q54945439
 50,13210404,CASHEL — TIPPERARY (7),,Tipperary,Tiobraid Árann,Munster,591841,641336,Cashel — Tipperary,country:ie/county:tipperary,country:ie/county:tipperary/lea:cashel---tipperary,Q54945453
 51,13220400,DUNGARVAN — LISMORE (8),,Waterford,Port Láirge,Munster,626970,581071,Dungarvan — Lismore,country:ie/county:waterford,country:ie/county:waterford/lea:dungarvan---lismore,Q54945460
@@ -70,11 +70,11 @@ OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_
 69,13260401,SWORDS (9),,Dublin,Baile Átha Cliath,Leinster,731385,750783,Swords,country:ie/county:fingal,country:ie/county:fingal/lea:swords,Q54945286
 70,13260402,MULHUDDART (8),,Dublin,Baile Átha Cliath,Leinster,708124,742456,Mulhuddart,country:ie/county:fingal,country:ie/county:fingal/lea:mulhuddart,Q54945285
 71,13260403,CASTLEKNOCK (7),,Dublin,Baile Átha Cliath,Leinster,708566,737771,Castleknock,country:ie/county:fingal,country:ie/county:fingal/lea:castleknock,Q54945273
-72,13260404,HOWTH-MALAHIDE (8),,Dublin,Baile Átha Cliath,Leinster,728704,741195,Howth-malahide,country:ie/county:fingal,country:ie/county:fingal/lea:howth-malahide,Q54945284
+72,13260404,HOWTH-MALAHIDE (8),,Dublin,Baile Átha Cliath,Leinster,728704,741195,Howth-Malahide,country:ie/county:fingal,country:ie/county:fingal/lea:howth-malahide,Q54945284
 73,13260405,STILLORGAN (6),,Dublin,Baile Átha Cliath,Leinster,719327,727546,Stillorgan,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:stillorgan,Q54945271
 74,13260406,DUNDRUM (7),,Dublin,Baile Átha Cliath,Leinster,716792,728465,Dundrum,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:dundrum,Q54945267
 75,13260407,GLENCULLEN-SANDYFORD (7),,Dublin,Baile Átha Cliath,Leinster,718698,722698,Glencullen-sandyford,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:glencullen-sandyford,Q54945269
-76,13260408,KILLINEY-SHANKILL (6),,Dublin,Baile Átha Cliath,Leinster,723775,720705,Killiney-shankill,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:killiney-shankill,Q54945264
+76,13260408,KILLINEY-SHANKILL (6),,Dublin,Baile Átha Cliath,Leinster,723775,720705,Killiney-Shankill,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:killiney-shankill,Q54945264
 77,13260409,DUN LAOGHAIRE (8),,Dublin,Baile Átha Cliath,Leinster,727023,726876,Dun Laoghaire,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:dun-laoghaire,Q54945268
 78,13260410,BLACKROCK (6),,Dublin,Baile Átha Cliath,Leinster,720854,728486,Blackrock,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:blackrock,Q54945265
 79,13260411,LUCAN (8),,Dublin,Baile Átha Cliath,Leinster,703132,734129,Lucan,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:lucan,Q54945429
@@ -119,7 +119,7 @@ OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_
 118,1360401,TUAM (9),,Galway,Gaillimh,Connacht,548988,753657,Tuam,country:ie/county:galway,country:ie/county:galway/lea:tuam,Q54945306
 119,1360402,BALLINASLOE (6),,Galway,Gaillimh,Connacht,578889,738716,Ballinasloe,country:ie/county:galway,country:ie/county:galway/lea:ballinasloe,Q54945292
 120,1360403,LOUGHREA (8),,Galway,Gaillimh,Connacht,534391,712858,Loughrea,country:ie/county:galway,country:ie/county:galway/lea:loughrea,Q54945295
-121,1360404,ATHENRY-ORANMORE (7),,Galway,Gaillimh,Connacht,535480,715938,Athenry-oranmore,country:ie/county:galway,country:ie/county:galway/lea:athenry-oranmore,Q54945305
+121,1360404,ATHENRY-ORANMORE (7),,Galway,Gaillimh,Connacht,535480,715938,Athenry-Oranmore,country:ie/county:galway,country:ie/county:galway/lea:athenry-oranmore,Q54945305
 122,1360420,GALWAY CITY WEST (6),,Galway,Gaillimh,Connacht,529688,723182,Galway City West,country:ie/administrative-city:galway,country:ie/administrative-city:galway/lea:galway-city-west,Q54945288
 123,1360421,GALWAY CITY CENTRAL (6),,Galway,Gaillimh,Connacht,528586,727500,Galway City Central,country:ie/administrative-city:galway,country:ie/administrative-city:galway/lea:galway-city-central,Q54945289
 124,1360422,GALWAY CITY EAST (6),,Galway,Gaillimh,Connacht,531514,723643,Galway City East,country:ie/administrative-city:galway,country:ie/administrative-city:galway/lea:galway-city-east,Q54945290
@@ -133,6 +133,6 @@ OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_
 132,1380403,ATHY (6),,Kildare,Cill Dara,Leinster,673390,693617,Athy,country:ie/county:kildare,country:ie/county:kildare/lea:athy,Q54945313
 133,1380404,KILDARE — NEWBRIDGE (9),,Kildare,Cill Dara,Leinster,673970,717708,Kildare — Newbridge,country:ie/county:kildare,country:ie/county:kildare/lea:kildare---newbridge,Q54945314
 134,1390400,CASTLECOMER (6),,Kilkenny,Cill Chainnigh,Leinster,642292,665665,Castlecomer,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:castlecomer,Q54945327
-135,1390401,KILKENNY CITY-EAST (6),,Kilkenny,Cill Chainnigh,Leinster,660308,642243,Kilkenny City-east,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:kilkenny-city-east,Q54945330
+135,1390401,KILKENNY CITY-EAST (6),,Kilkenny,Cill Chainnigh,Leinster,660308,642243,Kilkenny City East,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:kilkenny-city-east,Q54945330
 136,1390402,PILTOWN (6),,Kilkenny,Cill Chainnigh,Leinster,655958,624953,Piltown,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:piltown,Q54945329
-137,1390403,KILKENNY CITY-WEST (6),,Kilkenny,Cill Chainnigh,Leinster,646190,649610,Kilkenny City-west,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:kilkenny-city-west,Q54945331
+137,1390403,KILKENNY CITY-WEST (6),,Kilkenny,Cill Chainnigh,Leinster,646190,649610,Kilkenny City West,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:kilkenny-city-west,Q54945331
