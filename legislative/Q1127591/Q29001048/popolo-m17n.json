@@ -1083,7 +1083,214 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q17087286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:industrial-and-commercial-panel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17087286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Industrial and Commercial Panel"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q4683477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:administrative-panel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4683477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Administrative Panel"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q4693912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:agricultural-panel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4693912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Agricultural Panel"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5193254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:cultural-and-educational-panel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5193254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cultural and Educational Panel"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6467443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:labour-panel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6467443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Labour Panel"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6979248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:national-university-of-ireland"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6979248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "National University of Ireland"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q7048605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:nominated-members-of-seanad-éireann"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7048605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Nominated members of Seanad Éireann"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q7895348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/seanad:university-of-dublin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7895348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18043391"
+      ],
+      "type": {
+        "lang:en": "Seanad Éireann constituency"
+      },
+      "name": {
+        "lang:en": "University of Dublin"
+      },
+      "parent_id": "Q27"
+    }
   ],
   "memberships": [
     {
