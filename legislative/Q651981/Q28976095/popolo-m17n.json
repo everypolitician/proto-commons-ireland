@@ -2736,7 +2736,950 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q16951667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:cork-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16951667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cork East"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q17088606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:kildare-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17088606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Kildare South"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q1869725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:mayo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1869725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Mayo"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q1929591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:meath-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1929591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Meath East"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2040462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:meath-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2040462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Meath West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q20620587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-fingal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20620587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin Fingal"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2109423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:waterford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2109423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Waterford"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2251639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:galway-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2251639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Galway West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2357143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:cork-north-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2357143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cork North–Central"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2380581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:wicklow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2380581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Wicklow"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2531985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-north-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2531985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin North–West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2570782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:clare"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2570782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Clare"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2622823",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2622823"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin Central"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2635304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:cork-south-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2635304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cork South–Central"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2641881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-mid-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2641881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin Mid–West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q2701743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:cavan-monaghan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2701743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cavan–Monaghan"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q2746787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:cork-south-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2746787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cork South–West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q3147235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:cork-north-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3147235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Cork North–West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q3458611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:wexford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3458611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Wexford"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q3913273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:carlow-kilkenny"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3913273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Carlow–Kilkenny"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q4568022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:galway-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4568022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Galway East"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5295599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:donegal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5295599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Donegal"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5310820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-bay-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5310820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin Bay North"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5310822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-bay-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5310822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin Bay South"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5310953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-rathdown"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5310953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin Rathdown"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5310969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-south-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5310969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin South–Central"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5310971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-south-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5310971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin South–West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5310999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dublin-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5310999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dublin West"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q5320426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:dun-laoghaire"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5320426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Dún Laoghaire"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q54932109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:sligo-leitrim"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54932109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Sligo–Leitrim"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6394444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:kerry"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6394444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Kerry"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6406731",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:kildare-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6406731"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Kildare North"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6487881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:laois"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6487881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Laois"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6549243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:limerick-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6549243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Limerick City"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6549251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:limerick-county"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6549251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Limerick County"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6673850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:longford-westmeath"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6673850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Longford–Westmeath"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q6689841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:louth"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6689841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Louth"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q7079018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:offaly"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7079018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Offaly"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q7367587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:roscommon-galway"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7367587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Roscommon–Galway"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q7808886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/dail-constituency:tipperary"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7808886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q654291"
+      ],
+      "type": {
+        "lang:en": "Dáil Éireann constituency"
+      },
+      "name": {
+        "lang:en": "Tipperary"
+      },
+      "parent_id": "Q27"
+    }
   ],
   "memberships": [
     {
