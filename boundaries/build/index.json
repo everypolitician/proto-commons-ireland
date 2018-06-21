@@ -676,5 +676,532 @@
       "match": "country:ie/county:carlow",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932982",
+    "associations": [
+      {
+        "comment": "councillor in laois county council",
+        "position_item_id": "Q54932486"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:laois",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932975",
+    "associations": [
+      {
+        "comment": "councillor in carlow county council",
+        "position_item_id": "Q54932478"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:carlow",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932967",
+    "associations": [
+      {
+        "comment": "councillor in leitrim county council",
+        "position_item_id": "Q54932512"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:leitrim",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932995",
+    "associations": [
+      {
+        "comment": "councillor in limerick city and county council",
+        "position_item_id": "Q54932504"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:limerick",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932983",
+    "associations": [
+      {
+        "comment": "councillor in longford county council",
+        "position_item_id": "Q54932487"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:longford",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932984",
+    "associations": [
+      {
+        "comment": "councillor in louth county council",
+        "position_item_id": "Q54932491"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:louth",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932968",
+    "associations": [
+      {
+        "comment": "councillor in mayo county council",
+        "position_item_id": "Q54932514"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:mayo",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932985",
+    "associations": [
+      {
+        "comment": "councillor in meath county council",
+        "position_item_id": "Q54932492"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:meath",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932974",
+    "associations": [
+      {
+        "comment": "councillor in monaghan county council",
+        "position_item_id": "Q54932519"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:monaghan",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932986",
+    "associations": [
+      {
+        "comment": "councillor in offaly county council",
+        "position_item_id": "Q54932493"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:offaly",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932970",
+    "associations": [
+      {
+        "comment": "councillor in roscommon county council",
+        "position_item_id": "Q54932515"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:roscommon",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932971",
+    "associations": [
+      {
+        "comment": "councillor in sligo county council",
+        "position_item_id": "Q54932516"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:sligo",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932972",
+    "associations": [
+      {
+        "comment": "councillor in cavan county council",
+        "position_item_id": "Q54932517"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:cavan",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932965",
+    "associations": [
+      {
+        "comment": "councillor in tipperary county council",
+        "position_item_id": "Q54932506"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:tipperary",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932996",
+    "associations": [
+      {
+        "comment": "councillor in waterford city and county council",
+        "position_item_id": "Q54932507"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:waterford",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932987",
+    "associations": [
+      {
+        "comment": "councillor in westmeath county council",
+        "position_item_id": "Q54932494"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:westmeath",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932988",
+    "associations": [
+      {
+        "comment": "councillor in wexford county council",
+        "position_item_id": "Q54932495"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:wexford",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932989",
+    "associations": [
+      {
+        "comment": "councillor in wicklow county council",
+        "position_item_id": "Q54932496"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:wicklow",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932978",
+    "associations": [
+      {
+        "comment": "councillor in fingal county council",
+        "position_item_id": "Q54932482"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:fingal",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932977",
+    "associations": [
+      {
+        "comment": "councillor in dún laoghaire-rathdown county council",
+        "position_item_id": "Q54932481"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:dun-laoghaire-rathdown",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932979",
+    "associations": [
+      {
+        "comment": "councillor in south dublin county council",
+        "position_item_id": "Q54932483"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:south-dublin",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932976",
+    "associations": [
+      {
+        "comment": "councillor in dublin city council",
+        "position_item_id": "Q54932479"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/administrative-city:dublin",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932990",
+    "associations": [
+      {
+        "comment": "councillor in clare county council",
+        "position_item_id": "Q54932497"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:clare",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932992",
+    "associations": [
+      {
+        "comment": "councillor in cork county council",
+        "position_item_id": "Q54932499"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:cork",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932991",
+    "associations": [
+      {
+        "comment": "councillor in cork city council",
+        "position_item_id": "Q54932498"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/administrative-city:cork",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932973",
+    "associations": [
+      {
+        "comment": "councillor in donegal county council",
+        "position_item_id": "Q54932518"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:donegal",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932966",
+    "associations": [
+      {
+        "comment": "councillor in galway county council",
+        "position_item_id": "Q54932511"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:galway",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932997",
+    "associations": [
+      {
+        "comment": "councillor in galway city council",
+        "position_item_id": "Q54932509"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/administrative-city:galway",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932994",
+    "associations": [
+      {
+        "comment": "councillor in kerry county council",
+        "position_item_id": "Q54932503"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:kerry",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932980",
+    "associations": [
+      {
+        "comment": "councillor in kildare county council",
+        "position_item_id": "Q54932484"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:kildare",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "local-electoral-areas",
+    "area_type_wikidata_item_id": "Q54932981",
+    "associations": [
+      {
+        "comment": "councillor in kilkenny county council",
+        "position_item_id": "Q54932485"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "LEA_NAME"
+    },
+    "filter": {
+      "match": "country:ie/county:kilkenny",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
