@@ -104,12 +104,12 @@ OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_
 103,1340405,BANDON — KINSALE (6),,Cork,Corcaigh,Munster,564101,547226,Bandon — Kinsale,country:ie/county:cork,country:ie/county:cork/lea:bandon---kinsale,Q54945235
 104,1340406,WEST CORK (8),,Cork,Corcaigh,Munster,501725,527646,West Cork,country:ie/county:cork,country:ie/county:cork/lea:west-cork,Q54945238
 105,1340407,BLARNEY — MACROOM (6),,Cork,Corcaigh,Munster,536056,571849,Blarney — Macroom,country:ie/county:cork,country:ie/county:cork/lea:blarney---macroom,Q54945236
-106,1340408,CORK CITY NORTH WEST,,CORK,Corcaigh,Munster,565765,572622,Cork City North,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north,Q54945221
-107,1340409,CORK CITY NORTH CENTRAL,,CORK,Corcaigh,Munster,567568,573414,Cork City North,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north,Q54945219
-108,1340410,CORK CITY NORTH EAST,,CORK,Corcaigh,Munster,569828,573009,Cork City North,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north,Q54945220
-109,1340411,CORK CITY SOUTH WEST,,CORK,Corcaigh,Munster,564634,570477,Cork City South,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south,Q54945225
-110,1340412,CORK CITY SOUTH CENTRAL,,CORK,Corcaigh,Munster,567354,570785,Cork City South,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south,Q54945223
-111,1340413,CORK CITY SOUTH EAST,,CORK,Corcaigh,Munster,570634,570791,Cork City South,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south,Q54945224
+106,1340408,CORK CITY NORTH WEST,,CORK,Corcaigh,Munster,565765,572622,Cork City North West,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north-west,Q54945221
+107,1340409,CORK CITY NORTH CENTRAL,,CORK,Corcaigh,Munster,567568,573414,Cork City North Central,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north-central,Q54945219
+108,1340410,CORK CITY NORTH EAST,,CORK,Corcaigh,Munster,569828,573009,Cork City North East,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north-east,Q54945220
+109,1340411,CORK CITY SOUTH WEST,,CORK,Corcaigh,Munster,564634,570477,Cork City South West,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south-west,Q54945225
+110,1340412,CORK CITY SOUTH CENTRAL,,CORK,Corcaigh,Munster,567354,570785,Cork City South Central,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south-central,Q54945223
+111,1340413,CORK CITY SOUTH EAST,,CORK,Corcaigh,Munster,570634,570791,Cork City South East,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south-east,Q54945224
 112,1350400,GLENTIES (6),,Donegal,Dún na nGall,Ulster,572818,913128,Glenties,country:ie/county:donegal,country:ie/county:donegal/lea:glenties,Q54945240
 113,1350401,LETTERKENNY (10),,Donegal,Dún na nGall,Ulster,618624,940653,Letterkenny,country:ie/county:donegal,country:ie/county:donegal/lea:letterkenny,Q54945242
 114,1350402,INISHOWEN (9),,Donegal,Dún na nGall,Ulster,643031,958635,Inishowen,country:ie/county:donegal,country:ie/county:donegal/lea:inishowen,Q54945241
