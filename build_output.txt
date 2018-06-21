@@ -261,8 +261,6 @@ WARNING: Position councillor in Kerry County Council (Q54932503) not in boundary
 WARNING: Position councillor in Limerick City and County Council (Q54932504) not in boundary associated_wikidata_positions
 WARNING: Position councillor in Waterford City and County Council (Q54932507) not in boundary associated_wikidata_positions
 WARNING: Position councillor in Galway City Council (Q54932509) not in boundary associated_wikidata_positions
-WARNING: Position Taoiseach (Q191827) not in boundary associated_wikidata_positions
-WARNING: the district Ireland (Q27) wasn't found in the boundary data for position Taoiseach (Q191827)
 WARNING: Position Cathaoirleach of County Carlow (Q54931473) not in boundary associated_wikidata_positions
 WARNING: Position Lord Mayor of Dublin (Q13645132) not in boundary associated_wikidata_positions
 WARNING: the district Dublin (Q1761) wasn't found in the boundary data for position Lord Mayor of Dublin (Q13645132)
