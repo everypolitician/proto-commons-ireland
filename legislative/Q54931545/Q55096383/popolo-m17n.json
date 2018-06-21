@@ -54,6 +54,98 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kerry/lea:killarney"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932503"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kerry County Council"
+      },
+      "name": {
+        "lang:en": "Killarney"
+      },
+      "parent_id": "Q184469"
+    },
+    {
+      "id": "Q54945309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kerry/lea:listowel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932503"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kerry County Council"
+      },
+      "name": {
+        "lang:en": "Listowel"
+      },
+      "parent_id": "Q184469"
+    },
+    {
+      "id": "Q54945310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kerry/lea:south-and-west-kerry"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932503"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kerry County Council"
+      },
+      "name": {
+        "lang:en": "South And West Kerry"
+      },
+      "parent_id": "Q184469"
+    },
+    {
+      "id": "Q54945311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kerry/lea:tralee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932503"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kerry County Council"
+      },
+      "name": {
+        "lang:en": "Tralee"
+      },
+      "parent_id": "Q184469"
     }
   ],
   "memberships": [

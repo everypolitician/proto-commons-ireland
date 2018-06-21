@@ -54,6 +54,52 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:sligo/lea:sligo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932516"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Sligo County Council"
+      },
+      "name": {
+        "lang:en": "Sligo"
+      },
+      "parent_id": "Q179325"
+    },
+    {
+      "id": "Q54945428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:sligo/lea:ballymote---tobercurry"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932516"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Sligo County Council"
+      },
+      "name": {
+        "lang:en": "Ballymote — Tobercurry"
+      },
+      "parent_id": "Q179325"
     }
   ],
   "memberships": [

@@ -54,6 +54,52 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:carlow/lea:carlow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932478"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Carlow County Council"
+      },
+      "name": {
+        "lang:en": "Carlow"
+      },
+      "parent_id": "Q181882"
+    },
+    {
+      "id": "Q54945198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:carlow/lea:muinebeag"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932478"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Carlow County Council"
+      },
+      "name": {
+        "lang:en": "Muinebeag"
+      },
+      "parent_id": "Q181882"
     }
   ],
   "memberships": [

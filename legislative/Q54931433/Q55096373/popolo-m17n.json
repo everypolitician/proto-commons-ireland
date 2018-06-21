@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cavan/lea:cavan---belturbet"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932517"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cavan County Council"
+      },
+      "name": {
+        "lang:en": "Cavan — Belturbet"
+      },
+      "parent_id": "Q187402"
+    },
+    {
+      "id": "Q54945201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cavan/lea:bailieborough---cootehill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932517"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cavan County Council"
+      },
+      "name": {
+        "lang:en": "Bailieborough — Cootehill"
+      },
+      "parent_id": "Q187402"
+    },
+    {
+      "id": "Q54945202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cavan/lea:ballyjamesduff"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932517"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cavan County Council"
+      },
+      "name": {
+        "lang:en": "Ballyjamesduff"
+      },
+      "parent_id": "Q187402"
     }
   ],
   "memberships": [

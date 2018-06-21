@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:offaly/lea:birr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932493"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Offaly County Council"
+      },
+      "name": {
+        "lang:en": "Birr"
+      },
+      "parent_id": "Q184445"
+    },
+    {
+      "id": "Q54945406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:offaly/lea:tullamore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932493"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Offaly County Council"
+      },
+      "name": {
+        "lang:en": "Tullamore"
+      },
+      "parent_id": "Q184445"
+    },
+    {
+      "id": "Q54945409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:offaly/lea:edenderry"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932493"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Offaly County Council"
+      },
+      "name": {
+        "lang:en": "Edenderry"
+      },
+      "parent_id": "Q184445"
     }
   ],
   "memberships": [

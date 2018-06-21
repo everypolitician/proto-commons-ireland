@@ -54,6 +54,98 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:mayo/lea:ballina"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932514"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Mayo County Council"
+      },
+      "name": {
+        "lang:en": "Ballina"
+      },
+      "parent_id": "Q178626"
+    },
+    {
+      "id": "Q54945373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:mayo/lea:castlebar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932514"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Mayo County Council"
+      },
+      "name": {
+        "lang:en": "Castlebar"
+      },
+      "parent_id": "Q178626"
+    },
+    {
+      "id": "Q54945383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:mayo/lea:claremorris"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932514"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Mayo County Council"
+      },
+      "name": {
+        "lang:en": "Claremorris"
+      },
+      "parent_id": "Q178626"
+    },
+    {
+      "id": "Q54945384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:mayo/lea:west-mayo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932514"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Mayo County Council"
+      },
+      "name": {
+        "lang:en": "West Mayo"
+      },
+      "parent_id": "Q178626"
     }
   ],
   "memberships": [

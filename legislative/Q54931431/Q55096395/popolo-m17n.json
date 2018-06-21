@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:roscommon/lea:athlone"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932515"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Roscommon County Council"
+      },
+      "name": {
+        "lang:en": "Athlone"
+      },
+      "parent_id": "Q179437"
+    },
+    {
+      "id": "Q54945412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:roscommon/lea:boyle"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932515"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Roscommon County Council"
+      },
+      "name": {
+        "lang:en": "Boyle"
+      },
+      "parent_id": "Q179437"
+    },
+    {
+      "id": "Q54945413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:roscommon/lea:roscommon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932515"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Roscommon County Council"
+      },
+      "name": {
+        "lang:en": "Roscommon"
+      },
+      "parent_id": "Q179437"
     }
   ],
   "memberships": [

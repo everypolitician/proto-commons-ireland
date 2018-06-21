@@ -54,6 +54,190 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:fermoy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "Fermoy"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:kanturk---mallow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "Kanturk — Mallow"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:ballincollig---carrigaline"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "Ballincollig — Carrigaline"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:cobh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "Cobh"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:east-cork"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "East Cork"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:bandon---kinsale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "Bandon — Kinsale"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:blarney---macroom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "Blarney — Macroom"
+      },
+      "parent_id": "Q162475"
+    },
+    {
+      "id": "Q54945238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork/lea:west-cork"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork County Council"
+      },
+      "name": {
+        "lang:en": "West Cork"
+      },
+      "parent_id": "Q162475"
     }
   ],
   "memberships": [

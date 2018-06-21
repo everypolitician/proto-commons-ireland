@@ -54,6 +54,121 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wicklow/lea:arklow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932496"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wicklow County Council"
+      },
+      "name": {
+        "lang:en": "Arklow"
+      },
+      "parent_id": "Q182591"
+    },
+    {
+      "id": "Q54945481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wicklow/lea:baltinglass"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932496"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wicklow County Council"
+      },
+      "name": {
+        "lang:en": "Baltinglass"
+      },
+      "parent_id": "Q182591"
+    },
+    {
+      "id": "Q54945482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wicklow/lea:bray"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932496"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wicklow County Council"
+      },
+      "name": {
+        "lang:en": "Bray"
+      },
+      "parent_id": "Q182591"
+    },
+    {
+      "id": "Q54945487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wicklow/lea:greystones"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932496"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wicklow County Council"
+      },
+      "name": {
+        "lang:en": "Greystones"
+      },
+      "parent_id": "Q182591"
+    },
+    {
+      "id": "Q54945488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wicklow/lea:wicklow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932496"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wicklow County Council"
+      },
+      "name": {
+        "lang:en": "Wicklow"
+      },
+      "parent_id": "Q182591"
     }
   ],
   "memberships": [

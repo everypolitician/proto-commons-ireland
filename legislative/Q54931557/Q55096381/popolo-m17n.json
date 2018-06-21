@@ -53,6 +53,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:galway/lea:galway-city-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932509"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway City Council"
+      },
+      "name": {
+        "lang:en": "Galway City West"
+      },
+      "parent_id": "Q129610"
+    },
+    {
+      "id": "Q54945289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:galway/lea:galway-city-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932509"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway City Council"
+      },
+      "name": {
+        "lang:en": "Galway City Central"
+      },
+      "parent_id": "Q129610"
+    },
+    {
+      "id": "Q54945290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:galway/lea:galway-city-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932509"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway City Council"
+      },
+      "name": {
+        "lang:en": "Galway City East"
+      },
+      "parent_id": "Q129610"
     }
   ],
   "memberships": [

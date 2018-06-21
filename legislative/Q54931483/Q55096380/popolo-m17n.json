@@ -98,6 +98,121 @@
         "lang:en": "Fingal County"
       },
       "parent_id": "Q27"
+    },
+    {
+      "id": "Q54945272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:fingal/lea:balbriggan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932482"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Fingal County Council"
+      },
+      "name": {
+        "lang:en": "Balbriggan"
+      },
+      "parent_id": "Q520000"
+    },
+    {
+      "id": "Q54945273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:fingal/lea:castleknock"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932482"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Fingal County Council"
+      },
+      "name": {
+        "lang:en": "Castleknock"
+      },
+      "parent_id": "Q520000"
+    },
+    {
+      "id": "Q54945284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:fingal/lea:howth-malahide"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932482"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Fingal County Council"
+      },
+      "name": {
+        "lang:en": "Howth-Malahide"
+      },
+      "parent_id": "Q520000"
+    },
+    {
+      "id": "Q54945285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:fingal/lea:mulhuddart"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932482"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Fingal County Council"
+      },
+      "name": {
+        "lang:en": "Mulhuddart"
+      },
+      "parent_id": "Q520000"
+    },
+    {
+      "id": "Q54945286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:fingal/lea:swords"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932482"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Fingal County Council"
+      },
+      "name": {
+        "lang:en": "Swords"
+      },
+      "parent_id": "Q520000"
     }
   ],
   "memberships": [

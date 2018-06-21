@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:monaghan/lea:carrickmacross---castleblayney"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932519"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Monaghan County Council"
+      },
+      "name": {
+        "lang:en": "Carrickmacross — Castleblayney"
+      },
+      "parent_id": "Q184760"
+    },
+    {
+      "id": "Q54945402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:monaghan/lea:ballybay---clones"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932519"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Monaghan County Council"
+      },
+      "name": {
+        "lang:en": "Ballybay — Clones"
+      },
+      "parent_id": "Q184760"
+    },
+    {
+      "id": "Q54945403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:monaghan/lea:monaghan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932519"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Monaghan County Council"
+      },
+      "name": {
+        "lang:en": "Monaghan"
+      },
+      "parent_id": "Q184760"
     }
   ],
   "memberships": [

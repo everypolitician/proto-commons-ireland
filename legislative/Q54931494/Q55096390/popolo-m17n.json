@@ -54,6 +54,98 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:louth/lea:ardee"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932491"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Louth County Council"
+      },
+      "name": {
+        "lang:en": "Ardee"
+      },
+      "parent_id": "Q183539"
+    },
+    {
+      "id": "Q54945368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:louth/lea:drogheda"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932491"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Louth County Council"
+      },
+      "name": {
+        "lang:en": "Drogheda"
+      },
+      "parent_id": "Q183539"
+    },
+    {
+      "id": "Q54945369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:louth/lea:dundalk---carlingford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932491"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Louth County Council"
+      },
+      "name": {
+        "lang:en": "Dundalk — Carlingford"
+      },
+      "parent_id": "Q183539"
+    },
+    {
+      "id": "Q54945371",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:louth/lea:dundalk---south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945371"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932491"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Louth County Council"
+      },
+      "name": {
+        "lang:en": "Dundalk — South"
+      },
+      "parent_id": "Q183539"
     }
   ],
   "memberships": [

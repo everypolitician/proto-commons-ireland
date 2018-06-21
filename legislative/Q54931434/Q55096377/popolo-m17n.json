@@ -54,6 +54,121 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:donegal/lea:donegal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932518"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Donegal County Council"
+      },
+      "name": {
+        "lang:en": "Donegal"
+      },
+      "parent_id": "Q179424"
+    },
+    {
+      "id": "Q54945240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:donegal/lea:glenties"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932518"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Donegal County Council"
+      },
+      "name": {
+        "lang:en": "Glenties"
+      },
+      "parent_id": "Q179424"
+    },
+    {
+      "id": "Q54945241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:donegal/lea:inishowen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932518"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Donegal County Council"
+      },
+      "name": {
+        "lang:en": "Inishowen"
+      },
+      "parent_id": "Q179424"
+    },
+    {
+      "id": "Q54945242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:donegal/lea:letterkenny"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932518"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Donegal County Council"
+      },
+      "name": {
+        "lang:en": "Letterkenny"
+      },
+      "parent_id": "Q179424"
+    },
+    {
+      "id": "Q54945244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:donegal/lea:stranorlar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932518"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Donegal County Council"
+      },
+      "name": {
+        "lang:en": "Stranorlar"
+      },
+      "parent_id": "Q179424"
     }
   ],
   "memberships": [

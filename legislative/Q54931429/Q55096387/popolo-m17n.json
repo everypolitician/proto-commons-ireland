@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:leitrim/lea:carrick-on-shannon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932512"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Leitrim County Council"
+      },
+      "name": {
+        "lang:en": "Carrick-on-Shannon"
+      },
+      "parent_id": "Q107397"
+    },
+    {
+      "id": "Q54945346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:leitrim/lea:manorhamilton"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932512"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Leitrim County Council"
+      },
+      "name": {
+        "lang:en": "Manorhamilton"
+      },
+      "parent_id": "Q107397"
+    },
+    {
+      "id": "Q54945347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:leitrim/lea:ballinamore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932512"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Leitrim County Council"
+      },
+      "name": {
+        "lang:en": "Ballinamore"
+      },
+      "parent_id": "Q107397"
     }
   ],
   "memberships": [

@@ -31,6 +31,144 @@
       "parent_id": null
     },
     {
+      "id": "Q54945429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin/lea:lucan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for South Dublin County Council"
+      },
+      "name": {
+        "lang:en": "Lucan"
+      },
+      "parent_id": "Q822865"
+    },
+    {
+      "id": "Q54945430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin/lea:tallaght-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for South Dublin County Council"
+      },
+      "name": {
+        "lang:en": "Tallaght South"
+      },
+      "parent_id": "Q822865"
+    },
+    {
+      "id": "Q54945432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin/lea:tallaght-central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for South Dublin County Council"
+      },
+      "name": {
+        "lang:en": "Tallaght Central"
+      },
+      "parent_id": "Q822865"
+    },
+    {
+      "id": "Q54945434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin/lea:templeogue---terenure"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for South Dublin County Council"
+      },
+      "name": {
+        "lang:en": "Templeogue — Terenure"
+      },
+      "parent_id": "Q822865"
+    },
+    {
+      "id": "Q54945435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin/lea:clondalkin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for South Dublin County Council"
+      },
+      "name": {
+        "lang:en": "Clondalkin"
+      },
+      "parent_id": "Q822865"
+    },
+    {
+      "id": "Q54945437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin/lea:rathfarnham"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for South Dublin County Council"
+      },
+      "name": {
+        "lang:en": "Rathfarnham"
+      },
+      "parent_id": "Q822865"
+    },
+    {
       "id": "Q822865",
       "identifiers": [
         {

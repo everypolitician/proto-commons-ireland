@@ -228,6 +228,213 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:ballymun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Ballymun"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:cabra---finglas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Cabra — Finglas"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:clontarf"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Clontarf"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:beaumont---donaghmede"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Beaumont — Donaghmede"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:north-inner-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "North Inner City"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:ballyfermot---drimnagh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Ballyfermot — Drimnagh"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:crumlin---kimmage"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Crumlin — Kimmage"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:rathgar---rathmines"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Rathgar — Rathmines"
+      },
+      "parent_id": "Q1761"
+    },
+    {
+      "id": "Q54945262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin/lea:pembroke---south-dock"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dublin City Council"
+      },
+      "name": {
+        "lang:en": "Pembroke — South Dock"
+      },
+      "parent_id": "Q1761"
     }
   ],
   "memberships": [
