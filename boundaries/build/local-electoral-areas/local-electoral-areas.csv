@@ -1,0 +1,138 @@
+OBJECTID,LE_ID,LE_ENGLISH,LE_GAEILGE,COUNTY,CONTAE,PROVINCE,CENTROID_X,CENTROID_Y,LEA_NAME,MS_FB_PARE,MS_FB,WIKIDATA
+1,13100400,BORRIS-IN-OSSORY — MOUNTMELLICK (6),,Laois,Laois,Leinster,634575,693788,Borris-in-ossory — Mountmellick,country:ie/county:laois,country:ie/county:laois/lea:borris-in-ossory---mountmellick,Q54945334
+2,13100401,PORTLAOISE (7),,Laois,Laois,Leinster,646081,691624,Portlaoise,country:ie/county:laois,country:ie/county:laois/lea:portlaoise,Q54945335
+3,13100402,GRAIGUECULLEN — PORTARLINGTON (6),,Laois,Laois,Leinster,660847,692423,Graiguecullen — Portarlington,country:ie/county:laois,country:ie/county:laois/lea:graiguecullen---portarlington,Q54945333
+4,1310400,CARLOW (10),,Carlow,Ceatharlach,Leinster,685522,677296,Carlow,country:ie/county:carlow,country:ie/county:carlow/lea:carlow,Q54945197
+5,1310401,MUINEBEAG (8),,Carlow,Ceatharlach,Leinster,676796,653168,Muinebeag,country:ie/county:carlow,country:ie/county:carlow/lea:muinebeag,Q54945198
+6,13110400,MANORHAMILTON (6),,Leitrim,Liatroim,Connacht,587866,838473,Manorhamilton,country:ie/county:leitrim,country:ie/county:leitrim/lea:manorhamilton,Q54945346
+7,13110401,BALLINAMORE (6),,Leitrim,Liatroim,Connacht,611457,808759,Ballinamore,country:ie/county:leitrim,country:ie/county:leitrim/lea:ballinamore,Q54945347
+8,13110402,CARRICK-ON-SHANNON (6),,Leitrim,Liatroim,Connacht,603739,798031,Carrick-on-shannon,country:ie/county:leitrim,country:ie/county:leitrim/lea:carrick-on-shannon,Q54945345
+9,13120400,NEWCASTLE WEST (6),,Limerick,Luimneach,Munster,528732,632879,Newcastle West,country:ie/county:limerick,country:ie/county:limerick/lea:newcastle-west,Q54945355
+10,13120401,ADARE — RATHKEALE (6),,Limerick,Luimneach,Munster,540928,645452,Adare — Rathkeale,country:ie/county:limerick,country:ie/county:limerick/lea:adare---rathkeale,Q54945353
+11,13120402,CAPPAMORE — KILMALLOCK (7),,Limerick,Luimneach,Munster,568291,633793,Cappamore — Kilmallock,country:ie/county:limerick,country:ie/county:limerick/lea:cappamore---kilmallock,Q54945354
+12,13120420,LIMERICK CITY WEST (7),,Limerick,Luimneach,Munster,551742,652583,Limerick City West,country:ie/county:limerick,country:ie/county:limerick/lea:limerick-city-west,Q54945351
+13,13120421,LIMERICK CITY NORTH (6),,Limerick,Luimneach,Munster,556011,658028,Limerick City North,country:ie/county:limerick,country:ie/county:limerick/lea:limerick-city-north,Q54945350
+14,13120422,LIMERICK CITY EAST (8),,Limerick,Luimneach,Munster,562022,654005,Limerick City East,country:ie/county:limerick,country:ie/county:limerick/lea:limerick-city-east,Q54945349
+15,13130400,GRANARD (6),,Longford,An Longfort,Leinster,625315,786761,Granard,country:ie/county:longford,country:ie/county:longford/lea:granard,Q54945364
+16,13130401,BALLYMAHON (6),,Longford,An Longfort,Leinster,613036,763763,Ballymahon,country:ie/county:longford,country:ie/county:longford/lea:ballymahon,Q54945363
+17,13130402,LONGFORD (6),,Longford,An Longfort,Leinster,610650,777142,Longford,country:ie/county:longford,country:ie/county:longford/lea:longford,Q54945365
+18,13140400,DUNDALK — CARLINGFORD (6),,Louth,Lú,Leinster,708828,812110,Dundalk — Carlingford,country:ie/county:louth,country:ie/county:louth/lea:dundalk---carlingford,Q54945369
+19,13140401,DUNDALK — SOUTH (7),,Louth,Lú,Leinster,697613,806971,Dundalk — South,country:ie/county:louth,country:ie/county:louth/lea:dundalk---south,Q54945371
+20,13140402,ARDEE (6),,Louth,Lú,Leinster,701930,792516,Ardee,country:ie/county:louth,country:ie/county:louth/lea:ardee,Q54945367
+21,13140403,DROGHEDA (10),,Louth,Lú,Leinster,708929,779734,Drogheda,country:ie/county:louth,country:ie/county:louth/lea:drogheda,Q54945368
+22,13150400,BALLINA (8),,Mayo,Maigh Eo,Connacht,517234,816933,Ballina,country:ie/county:mayo,country:ie/county:mayo/lea:ballina,Q54945372
+23,13150401,CLAREMORRIS (7),,Mayo,Maigh Eo,Connacht,542646,778851,Claremorris,country:ie/county:mayo,country:ie/county:mayo/lea:claremorris,Q54945383
+24,13150402,CASTLEBAR (8),,Mayo,Maigh Eo,Connacht,517764,789758,Castlebar,country:ie/county:mayo,country:ie/county:mayo/lea:castlebar,Q54945373
+25,13150403,WEST MAYO (7),,Mayo,Maigh Eo,Connacht,456024,821158,West Mayo,country:ie/county:mayo,country:ie/county:mayo/lea:west-mayo,Q54945384
+26,13160400,KELLS (7),,Meath,An Mhí,Leinster,669642,778249,Kells,country:ie/county:meath,country:ie/county:meath/lea:kells,Q54945388
+27,13160401,LAYTOWN — BETTYSTOWN (7),,Meath,An Mhí,Leinster,694951,776366,Laytown — Bettystown,country:ie/county:meath,country:ie/county:meath/lea:laytown---bettystown,Q54945391
+28,13160402,ASHBOURNE (6),,Meath,An Mhí,Leinster,702424,759447,Ashbourne,country:ie/county:meath,country:ie/county:meath/lea:ashbourne,Q54945385
+29,13160403,RATOATH (7),,Meath,An Mhí,Leinster,696111,749103,Ratoath,country:ie/county:meath,country:ie/county:meath/lea:ratoath,Q54945387
+30,13160404,TRIM (6),,Meath,An Mhí,Leinster,675618,751859,Trim,country:ie/county:meath,country:ie/county:meath/lea:trim,Q54945392
+31,13160405,NAVAN (7),,Meath,An Mhí,Leinster,685669,765702,Navan,country:ie/county:meath,country:ie/county:meath/lea:navan,Q54945389
+32,13170400,MONAGHAN (6),,Monaghan,Muineachán,Ulster,668947,837561,Monaghan,country:ie/county:monaghan,country:ie/county:monaghan/lea:monaghan,Q54945403
+33,13170401,CARRICKMACROSS — CASTLEBLAYNEY (6),,Monaghan,Muineachán,Ulster,684867,812137,Carrickmacross — Castleblayney,country:ie/county:monaghan,country:ie/county:monaghan/lea:carrickmacross---castleblayney,Q54945393
+34,13170402,BALLYBAY — CLONES (6),,Monaghan,Muineachán,Ulster,663818,823643,Ballybay — Clones,country:ie/county:monaghan,country:ie/county:monaghan/lea:ballybay---clones,Q54945402
+35,13180400,BIRR (6),,Offaly,Uíbh Fhailí,Leinster,611040,712143,Birr,country:ie/county:offaly,country:ie/county:offaly/lea:birr,Q54945404
+36,13180401,TULLAMORE (7),,Offaly,Uíbh Fhailí,Leinster,629141,723575,Tullamore,country:ie/county:offaly,country:ie/county:offaly/lea:tullamore,Q54945406
+37,13180402,EDENDERRY (6),,Offaly,Uíbh Fhailí,Leinster,652185,725637,Edenderry,country:ie/county:offaly,country:ie/county:offaly/lea:edenderry,Q54945409
+38,13190400,BOYLE (6),,Roscommon,Ros Comáin,Connacht,581397,793946,Boyle,country:ie/county:roscommon,country:ie/county:roscommon/lea:boyle,Q54945412
+39,13190401,ROSCOMMON (6),,Roscommon,Ros Comáin,Connacht,578216,774993,Roscommon,country:ie/county:roscommon,country:ie/county:roscommon/lea:roscommon,Q54945413
+40,13190402,ATHLONE (6),,Roscommon,Ros Comáin,Connacht,589393,742712,Athlone,country:ie/county:roscommon,country:ie/county:roscommon/lea:athlone,Q54945410
+41,13200400,BALLYMOTE — TOBERCURRY (8),,Sligo,Sligeach,Connacht,563403,817604,Ballymote — Tobercurry,country:ie/county:sligo,country:ie/county:sligo/lea:ballymote---tobercurry,Q54945428
+42,13200401,SLIGO (10),,Sligo,Sligeach,Connacht,556882,853527,Sligo,country:ie/county:sligo,country:ie/county:sligo/lea:sligo,Q54945414
+43,1320400,CAVAN — BELTURBET  (6),,Cavan,An Cabhán,Ulster,626071,819039,Cavan — Belturbet,country:ie/county:cavan,country:ie/county:cavan/lea:cavan---belturbet,Q54945199
+44,1320401,BAILIEBOROUGH — COOTEHILL (6),,Cavan,An Cabhán,Ulster,661347,804523,Bailieborough — Cootehill,country:ie/county:cavan,country:ie/county:cavan/lea:bailieborough---cootehill,Q54945201
+45,1320402,BALLYJAMESDUFF (6),,Cavan,An Cabhán,Ulster,640668,794487,Ballyjamesduff,country:ie/county:cavan,country:ie/county:cavan/lea:ballyjamesduff,Q54945202
+46,13210400,NENAGH (9),,Tipperary,Tiobraid Árann,Munster,586481,680569,Nenagh,country:ie/county:tipperary,country:ie/county:tipperary/lea:nenagh,Q54945450
+47,13210401,TEMPLEMORE — THURLES (9),,Tipperary,Tiobraid Árann,Munster,613700,670255,Templemore — Thurles,country:ie/county:tipperary,country:ie/county:tipperary/lea:templemore---thurles,Q54945452
+48,13210402,CARRICK-ON-SUIR (6),,Tipperary,Tiobraid Árann,Munster,624233,638323,Carrick-on-suir,country:ie/county:tipperary,country:ie/county:tipperary/lea:carrick-on-suir,Q54945438
+49,13210403,CLONMEL (9),,Tipperary,Tiobraid Árann,Munster,601052,620125,Clonmel,country:ie/county:tipperary,country:ie/county:tipperary/lea:clonmel,Q54945439
+50,13210404,CASHEL — TIPPERARY (7),,Tipperary,Tiobraid Árann,Munster,591841,641336,Cashel — Tipperary,country:ie/county:tipperary,country:ie/county:tipperary/lea:cashel---tipperary,Q54945453
+51,13220400,DUNGARVAN — LISMORE (8),,Waterford,Port Láirge,Munster,626970,581071,Dungarvan — Lismore,country:ie/county:waterford,country:ie/county:waterford/lea:dungarvan---lismore,Q54945460
+52,13220401,COMERAGH (6),,Waterford,Port Láirge,Munster,649863,598530,Comeragh,country:ie/county:waterford,country:ie/county:waterford/lea:comeragh,Q54945458
+53,13220420,TRAMORE — WATERFORD CITY WEST (6),,Waterford,Port Láirge,Munster,655838,598244,Tramore — Waterford City West,country:ie/county:waterford,country:ie/county:waterford/lea:tramore---waterford-city-west,Q54945457
+54,13220421,WATERFORD CITY SOUTH (6),,Waterford,Port Láirge,Munster,659642,608493,Waterford City South,country:ie/county:waterford,country:ie/county:waterford/lea:waterford-city-south,Q54945456
+55,13220422,WATERFORD CITY EAST (6),,Waterford,Port Láirge,Munster,666261,605830,Waterford City East,country:ie/county:waterford,country:ie/county:waterford/lea:waterford-city-east,Q54945455
+56,13230400,ATHLONE (7),,Westmeath,An Iarmhí,Leinster,616873,744500,Athlone,country:ie/county:westmeath,country:ie/county:westmeath/lea:athlone,Q54947028
+57,13230401,MULLINGAR — KILBEGGAN (6),,Westmeath,An Iarmhí,Leinster,636229,747551,Mullingar — Kilbeggan,country:ie/county:westmeath,country:ie/county:westmeath/lea:mullingar---kilbeggan,Q54945473
+58,13230402,MULLINGAR — COOLE (7),,Westmeath,An Iarmhí,Leinster,650029,758106,Mullingar — Coole,country:ie/county:westmeath,country:ie/county:westmeath/lea:mullingar---coole,Q54945472
+59,13240400,GOREY (8),,Wexford,Loch Garman,Leinster,711916,656618,Gorey,country:ie/county:wexford,country:ie/county:wexford/lea:gorey,Q54945474
+60,13240401,ENNISCORTHY (8),,Wexford,Loch Garman,Leinster,698379,642426,Enniscorthy,country:ie/county:wexford,country:ie/county:wexford/lea:enniscorthy,Q54945477
+61,13240402,NEW ROSS (8),,Wexford,Loch Garman,Leinster,686121,605699,New Ross,country:ie/county:wexford,country:ie/county:wexford/lea:new-ross,Q54945478
+62,13240403,WEXFORD (10),,Wexford,Loch Garman,Leinster,697959,606416,Wexford,country:ie/county:wexford,country:ie/county:wexford/lea:wexford,Q54945479
+63,13250400,BALTINGLASS (6),,Wicklow,Cill Mhantáin,Leinster,696953,697163,Baltinglass,country:ie/county:wicklow,country:ie/county:wicklow/lea:baltinglass,Q54945481
+64,13250401,BRAY (8),,Wicklow,Cill Mhantáin,Leinster,718901,715112,Bray,country:ie/county:wicklow,country:ie/county:wicklow/lea:bray,Q54945482
+65,13250402,GREYSTONES (6),,Wicklow,Cill Mhantáin,Leinster,727535,712192,Greystones,country:ie/county:wicklow,country:ie/county:wicklow/lea:greystones,Q54945487
+66,13250403,WICKLOW (6),,Wicklow,Cill Mhantáin,Leinster,717638,698423,Wicklow,country:ie/county:wicklow,country:ie/county:wicklow/lea:wicklow,Q54945488
+67,13250404,ARKLOW (6),,Wicklow,Cill Mhantáin,Leinster,719305,682481,Arklow,country:ie/county:wicklow,country:ie/county:wicklow/lea:arklow,Q54945480
+68,13260400,BALBRIGGAN (8),,Dublin,Baile Átha Cliath,Leinster,715689,758300,Balbriggan,country:ie/county:fingal,country:ie/county:fingal/lea:balbriggan,Q54945272
+69,13260401,SWORDS (9),,Dublin,Baile Átha Cliath,Leinster,731385,750783,Swords,country:ie/county:fingal,country:ie/county:fingal/lea:swords,Q54945286
+70,13260402,MULHUDDART (8),,Dublin,Baile Átha Cliath,Leinster,708124,742456,Mulhuddart,country:ie/county:fingal,country:ie/county:fingal/lea:mulhuddart,Q54945285
+71,13260403,CASTLEKNOCK (7),,Dublin,Baile Átha Cliath,Leinster,708566,737771,Castleknock,country:ie/county:fingal,country:ie/county:fingal/lea:castleknock,Q54945273
+72,13260404,HOWTH-MALAHIDE (8),,Dublin,Baile Átha Cliath,Leinster,728704,741195,Howth-malahide,country:ie/county:fingal,country:ie/county:fingal/lea:howth-malahide,Q54945284
+73,13260405,STILLORGAN (6),,Dublin,Baile Átha Cliath,Leinster,719327,727546,Stillorgan,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:stillorgan,Q54945271
+74,13260406,DUNDRUM (7),,Dublin,Baile Átha Cliath,Leinster,716792,728465,Dundrum,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:dundrum,Q54945267
+75,13260407,GLENCULLEN-SANDYFORD (7),,Dublin,Baile Átha Cliath,Leinster,718698,722698,Glencullen-sandyford,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:glencullen-sandyford,Q54945269
+76,13260408,KILLINEY-SHANKILL (6),,Dublin,Baile Átha Cliath,Leinster,723775,720705,Killiney-shankill,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:killiney-shankill,Q54945264
+77,13260409,DUN LAOGHAIRE (8),,Dublin,Baile Átha Cliath,Leinster,727023,726876,Dun Laoghaire,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:dun-laoghaire,Q54945268
+78,13260410,BLACKROCK (6),,Dublin,Baile Átha Cliath,Leinster,720854,728486,Blackrock,country:ie/county:dun-laoghaire-rathdown,country:ie/county:dun-laoghaire-rathdown/lea:blackrock,Q54945265
+79,13260411,LUCAN (8),,Dublin,Baile Átha Cliath,Leinster,703132,734129,Lucan,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:lucan,Q54945429
+80,13260412,TALLAGHT CENTRAL (6),,Dublin,Baile Átha Cliath,Leinster,708602,728684,Tallaght Central,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:tallaght-central,Q54945432
+81,13260413,TEMPLEOGUE — TERENURE (6),,Dublin,Baile Átha Cliath,Leinster,711294,728940,Templeogue — Terenure,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:templeogue---terenure,Q54945434
+82,13260414,RATHFARNHAM (6),,Dublin,Baile Átha Cliath,Leinster,711777,721534,Rathfarnham,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:rathfarnham,Q54945437
+83,13260415,TALLAGHT SOUTH (6),,Dublin,Baile Átha Cliath,Leinster,705560,725200,Tallaght South,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:tallaght-south,Q54945430
+84,13260416,CLONDALKIN (8),,Dublin,Baile Átha Cliath,Leinster,701520,728425,Clondalkin,country:ie/county:south-dublin,country:ie/county:south-dublin/lea:clondalkin,Q54945435
+85,13260420,BALLYMUN (7),,Dublin,Baile Átha Cliath,Leinster,715392,738305,Ballymun,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:ballymun,Q54945245
+86,13260421,CABRA — FINGLAS (7),,Dublin,Baile Átha Cliath,Leinster,712266,737384,Cabra — Finglas,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:cabra---finglas,Q54945246
+87,13260422,BALLYFERMOT — DRIMNAGH (6),,Dublin,Baile Átha Cliath,Leinster,709976,733000,Ballyfermot — Drimnagh,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:ballyfermot---drimnagh,Q54945251
+88,13260423,CRUMLIN — KIMMAGE (6),,Dublin,Baile Átha Cliath,Leinster,713507,733149,Crumlin — Kimmage,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:crumlin---kimmage,Q54945252
+89,13260424,RATHGAR — RATHMINES (6),,Dublin,Baile Átha Cliath,Leinster,715068,730859,Rathgar — Rathmines,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:rathgar---rathmines,Q54945253
+90,13260425,PEMBROKE — SOUTH DOCK (8),,Dublin,Baile Átha Cliath,Leinster,718993,732333,Pembroke — South Dock,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:pembroke---south-dock,Q54945262
+91,13260426,NORTH INNER CITY (8),,Dublin,Baile Átha Cliath,Leinster,716505,735470,North Inner City,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:north-inner-city,Q54945249
+92,13260427,CLONTARF (6),,Dublin,Baile Átha Cliath,Leinster,718921,736853,Clontarf,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:clontarf,Q54945247
+93,13260428,BEAUMONT — DONAGHMEDE (9),,Dublin,Baile Átha Cliath,Leinster,719904,739691,Beaumont — Donaghmede,country:ie/administrative-city:dublin,country:ie/administrative-city:dublin/lea:beaumont---donaghmede,Q54945248
+94,1330400,WEST CLARE (8),,Clare,An Clár,Munster,497347,674550,West Clare,country:ie/county:clare,country:ie/county:clare/lea:west-clare,Q54945203
+95,1330401,KILLALOE (6),,Clare,An Clár,Munster,527024,710632,Killaloe,country:ie/county:clare,country:ie/county:clare/lea:killaloe,Q54945207
+96,1330402,SHANNON (6),,Clare,An Clár,Munster,544132,664906,Shannon,country:ie/county:clare,country:ie/county:clare/lea:shannon,Q54945208
+97,1330403,ENNIS (8),,Clare,An Clár,Munster,533748,677422,Ennis,country:ie/county:clare,country:ie/county:clare/lea:ennis,Q54945206
+98,1340400,KANTURK — MALLOW (6),,Cork,Corcaigh,Munster,536800,604394,Kanturk — Mallow,country:ie/county:cork,country:ie/county:cork/lea:kanturk---mallow,Q54945228
+99,1340401,FERMOY (6),,Cork,Corcaigh,Munster,575267,604342,Fermoy,country:ie/county:cork,country:ie/county:cork/lea:fermoy,Q54945227
+100,1340402,EAST CORK (6),,Cork,Corcaigh,Munster,594834,573327,East Cork,country:ie/county:cork,country:ie/county:cork/lea:east-cork,Q54945234
+101,1340403,COBH (7),,Cork,Corcaigh,Munster,579010,565479,Cobh,country:ie/county:cork,country:ie/county:cork/lea:cobh,Q54945233
+102,1340404,BALLINCOLLIG — CARRIGALINE (10),,Cork,Corcaigh,Munster,566596,566743,Ballincollig — Carrigaline,country:ie/county:cork,country:ie/county:cork/lea:ballincollig---carrigaline,Q54945229
+103,1340405,BANDON — KINSALE (6),,Cork,Corcaigh,Munster,564101,547226,Bandon — Kinsale,country:ie/county:cork,country:ie/county:cork/lea:bandon---kinsale,Q54945235
+104,1340406,WEST CORK (8),,Cork,Corcaigh,Munster,501725,527646,West Cork,country:ie/county:cork,country:ie/county:cork/lea:west-cork,Q54945238
+105,1340407,BLARNEY — MACROOM (6),,Cork,Corcaigh,Munster,536056,571849,Blarney — Macroom,country:ie/county:cork,country:ie/county:cork/lea:blarney---macroom,Q54945236
+106,1340408,CORK CITY NORTH WEST,,CORK,Corcaigh,Munster,565765,572622,Cork City North,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north,Q54945221
+107,1340409,CORK CITY NORTH CENTRAL,,CORK,Corcaigh,Munster,567568,573414,Cork City North,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north,Q54945219
+108,1340410,CORK CITY NORTH EAST,,CORK,Corcaigh,Munster,569828,573009,Cork City North,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-north,Q54945220
+109,1340411,CORK CITY SOUTH WEST,,CORK,Corcaigh,Munster,564634,570477,Cork City South,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south,Q54945225
+110,1340412,CORK CITY SOUTH CENTRAL,,CORK,Corcaigh,Munster,567354,570785,Cork City South,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south,Q54945223
+111,1340413,CORK CITY SOUTH EAST,,CORK,Corcaigh,Munster,570634,570791,Cork City South,country:ie/administrative-city:cork,country:ie/administrative-city:cork/lea:cork-city-south,Q54945224
+112,1350400,GLENTIES (6),,Donegal,Dún na nGall,Ulster,572818,913128,Glenties,country:ie/county:donegal,country:ie/county:donegal/lea:glenties,Q54945240
+113,1350401,LETTERKENNY (10),,Donegal,Dún na nGall,Ulster,618624,940653,Letterkenny,country:ie/county:donegal,country:ie/county:donegal/lea:letterkenny,Q54945242
+114,1350402,INISHOWEN (9),,Donegal,Dún na nGall,Ulster,643031,958635,Inishowen,country:ie/county:donegal,country:ie/county:donegal/lea:inishowen,Q54945241
+115,1350403,STRANORLAR (6),,Donegal,Dún na nGall,Ulster,614521,898758,Stranorlar,country:ie/county:donegal,country:ie/county:donegal/lea:stranorlar,Q54945244
+116,1350404,DONEGAL (6),,Donegal,Dún na nGall,Ulster,554378,889735,Donegal,country:ie/county:donegal,country:ie/county:donegal/lea:donegal,Q54945239
+117,1360400,CONAMARA (9),,Galway,Gaillimh,Connacht,485936,731304,Conamara,country:ie/county:galway,country:ie/county:galway/lea:conamara,Q54945293
+118,1360401,TUAM (9),,Galway,Gaillimh,Connacht,548988,753657,Tuam,country:ie/county:galway,country:ie/county:galway/lea:tuam,Q54945306
+119,1360402,BALLINASLOE (6),,Galway,Gaillimh,Connacht,578889,738716,Ballinasloe,country:ie/county:galway,country:ie/county:galway/lea:ballinasloe,Q54945292
+120,1360403,LOUGHREA (8),,Galway,Gaillimh,Connacht,534391,712858,Loughrea,country:ie/county:galway,country:ie/county:galway/lea:loughrea,Q54945295
+121,1360404,ATHENRY-ORANMORE (7),,Galway,Gaillimh,Connacht,535480,715938,Athenry-oranmore,country:ie/county:galway,country:ie/county:galway/lea:athenry-oranmore,Q54945305
+122,1360420,GALWAY CITY WEST (6),,Galway,Gaillimh,Connacht,529688,723182,Galway City West,country:ie/administrative-city:galway,country:ie/administrative-city:galway/lea:galway-city-west,Q54945288
+123,1360421,GALWAY CITY CENTRAL (6),,Galway,Gaillimh,Connacht,528586,727500,Galway City Central,country:ie/administrative-city:galway,country:ie/administrative-city:galway/lea:galway-city-central,Q54945289
+124,1360422,GALWAY CITY EAST (6),,Galway,Gaillimh,Connacht,531514,723643,Galway City East,country:ie/administrative-city:galway,country:ie/administrative-city:galway/lea:galway-city-east,Q54945290
+125,1370400,LISTOWEL (7),,Kerry,Ciarraí,Munster,476901,633891,Listowel,country:ie/county:kerry,country:ie/county:kerry/lea:listowel,Q54945309
+126,1370401,TRALEE (9),,Kerry,Ciarraí,Munster,479960,612944,Tralee,country:ie/county:kerry,country:ie/county:kerry/lea:tralee,Q54945311
+127,1370402,KILLARNEY (8),,Kerry,Ciarraí,Munster,500751,595485,Killarney,country:ie/county:kerry,country:ie/county:kerry/lea:killarney,Q54945307
+128,1370403,SOUTH AND WEST KERRY (9),,Kerry,Ciarraí,Munster,425890,596356,South And West Kerry,country:ie/county:kerry,country:ie/county:kerry/lea:south-and-west-kerry,Q54945310
+129,1380400,MAYNOOTH (9),,Kildare,Cill Dara,Leinster,679583,734547,Maynooth,country:ie/county:kildare,country:ie/county:kildare/lea:maynooth,Q54945326
+130,1380401,CELBRIDGE — LEIXLIP (7),,Kildare,Cill Dara,Leinster,696807,732479,Celbridge — Leixlip,country:ie/county:kildare,country:ie/county:kildare/lea:celbridge---leixlip,Q54945325
+131,1380402,NAAS (9),,Kildare,Cill Dara,Leinster,691168,717464,Naas,country:ie/county:kildare,country:ie/county:kildare/lea:naas,Q54945315
+132,1380403,ATHY (6),,Kildare,Cill Dara,Leinster,673390,693617,Athy,country:ie/county:kildare,country:ie/county:kildare/lea:athy,Q54945313
+133,1380404,KILDARE — NEWBRIDGE (9),,Kildare,Cill Dara,Leinster,673970,717708,Kildare — Newbridge,country:ie/county:kildare,country:ie/county:kildare/lea:kildare---newbridge,Q54945314
+134,1390400,CASTLECOMER (6),,Kilkenny,Cill Chainnigh,Leinster,642292,665665,Castlecomer,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:castlecomer,Q54945327
+135,1390401,KILKENNY CITY-EAST (6),,Kilkenny,Cill Chainnigh,Leinster,660308,642243,Kilkenny City-east,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:kilkenny-city-east,Q54945330
+136,1390402,PILTOWN (6),,Kilkenny,Cill Chainnigh,Leinster,655958,624953,Piltown,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:piltown,Q54945329
+137,1390403,KILKENNY CITY-WEST (6),,Kilkenny,Cill Chainnigh,Leinster,646190,649610,Kilkenny City-west,country:ie/county:kilkenny,country:ie/county:kilkenny/lea:kilkenny-city-west,Q54945331
