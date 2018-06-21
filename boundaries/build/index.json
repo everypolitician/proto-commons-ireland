@@ -27,6 +27,19 @@
     }
   },
   {
+    "directory": "seanad",
+    "area_type_wikidata_item_id": "Q44223635",
+    "associations": [
+      {
+        "comment": "senator of Ireland",
+        "position_item_id": "Q18043391"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
+  },
+  {
     "directory": "counties",
     "area_type_wikidata_item_id": "Q13455645",
     "associations": [
