@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q178626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:mayo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q178626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932337",
+        "Q54932514"
+      ],
+      "type": {
+        "lang:en": "county of Ireland",
+        "lang:ga": "Contaetha na hÉireann"
+      },
+      "name": {
+        "lang:en": "Mayo County"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

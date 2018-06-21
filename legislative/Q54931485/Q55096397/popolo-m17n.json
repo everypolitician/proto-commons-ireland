@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q822865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:south-dublin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q822865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54931484",
+        "Q54932483"
+      ],
+      "type": {
+        "lang:en": "county of Ireland",
+        "lang:ga": "Contaetha na hÉireann"
+      },
+      "name": {
+        "lang:en": "South Dublin County"
+      },
+      "parent_id": "Q27"
+    }
   ],
   "memberships": [
 

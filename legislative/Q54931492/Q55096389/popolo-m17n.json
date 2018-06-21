@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q186220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:longford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q186220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54931491",
+        "Q54932487"
+      ],
+      "type": {
+        "lang:en": "county of Ireland",
+        "lang:ga": "Contaetha na hÉireann"
+      },
+      "name": {
+        "lang:en": "Longford County"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

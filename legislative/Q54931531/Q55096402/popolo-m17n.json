@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q182591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wicklow"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q182591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54931516",
+        "Q54932496"
+      ],
+      "type": {
+        "lang:en": "county of Ireland",
+        "lang:ga": "Contaetha na hÉireann"
+      },
+      "name": {
+        "lang:en": "Wicklow County"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

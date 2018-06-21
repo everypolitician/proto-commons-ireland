@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q162475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:cork"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q162475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54931539",
+        "Q54932499"
+      ],
+      "type": {
+        "lang:en": "county of Ireland",
+        "lang:ga": "Contaetha na hÉireann"
+      },
+      "name": {
+        "lang:en": "Cork County"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

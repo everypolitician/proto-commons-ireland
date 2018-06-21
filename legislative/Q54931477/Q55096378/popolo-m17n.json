@@ -181,7 +181,54 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:dublin"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13645132",
+        "Q54932479"
+      ],
+      "type": {
+        "lang:en": "administrative city in the Republic of Ireland"
+      },
+      "name": {
+        "lang:en": "Dublin City"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

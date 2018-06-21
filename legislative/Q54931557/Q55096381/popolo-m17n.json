@@ -6,7 +6,54 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q129610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:galway"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q129610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797712",
+        "Q54932509"
+      ],
+      "type": {
+        "lang:en": "administrative city in the Republic of Ireland"
+      },
+      "name": {
+        "lang:en": "Galway City"
+      },
+      "parent_id": "Q27"
+    },
+    {
+      "id": "Q27",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q191827"
+      ],
+      "type": {
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:en": "Republic of Ireland",
+        "lang:ga": "Éire"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
