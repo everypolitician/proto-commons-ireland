@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "taoiseach",
+        "position_item_id": "Q191827"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en",
+      "lang:ga": "name_ga"
+    }
+  }
+]
