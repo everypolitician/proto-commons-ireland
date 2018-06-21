@@ -25,5 +25,656 @@
     "name_columns": {
       "lang:en": "CON_NAME"
     }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q13455645",
+    "associations": [
+      {
+        "comment": "lord mayor of dublin",
+        "position_item_id": "Q13645132"
+      },
+      {
+        "comment": "councillor in dublin city council",
+        "position_item_id": "Q54932479"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/administrative-city:dublin",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q13455645",
+    "associations": [
+      {
+        "comment": "mayor of galway",
+        "position_item_id": "Q6797712"
+      },
+      {
+        "comment": "councillor in galway city council",
+        "position_item_id": "Q54932509"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/administrative-city:galway",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q13455645",
+    "associations": [
+      {
+        "comment": "lord mayor of cork",
+        "position_item_id": "Q6679767"
+      },
+      {
+        "comment": "councillor in cork city council",
+        "position_item_id": "Q54932498"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/administrative-city:cork",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of laois county council",
+        "position_item_id": "Q54931489"
+      },
+      {
+        "comment": "councillor in laois county council",
+        "position_item_id": "Q54932486"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:laois",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of roscommon county council",
+        "position_item_id": "Q54932338"
+      },
+      {
+        "comment": "councillor in roscommon county council",
+        "position_item_id": "Q54932515"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:roscommon",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "mayor of waterford",
+        "position_item_id": "Q54931555"
+      },
+      {
+        "comment": "councillor in waterford city and county council",
+        "position_item_id": "Q54932507"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:waterford",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "mayor of south dublin county",
+        "position_item_id": "Q54931484"
+      },
+      {
+        "comment": "councillor in south dublin county council",
+        "position_item_id": "Q54932483"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:south-dublin",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of louth county council",
+        "position_item_id": "Q54931493"
+      },
+      {
+        "comment": "councillor in louth county council",
+        "position_item_id": "Q54932491"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:louth",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of monaghan county council",
+        "position_item_id": "Q54932342"
+      },
+      {
+        "comment": "councillor in monaghan county council",
+        "position_item_id": "Q54932519"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:monaghan",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of meath county council",
+        "position_item_id": "Q54931499"
+      },
+      {
+        "comment": "councillor in meath county council",
+        "position_item_id": "Q54932492"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:meath",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "mayor of fingal",
+        "position_item_id": "Q54931482"
+      },
+      {
+        "comment": "councillor in fingal county council",
+        "position_item_id": "Q54932482"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:fingal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of leitrim county council",
+        "position_item_id": "Q54932336"
+      },
+      {
+        "comment": "councillor in leitrim county council",
+        "position_item_id": "Q54932512"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:leitrim",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of westmeath county council",
+        "position_item_id": "Q54931508"
+      },
+      {
+        "comment": "councillor in westmeath county council",
+        "position_item_id": "Q54932494"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:westmeath",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "mayor of county cork",
+        "position_item_id": "Q54931539"
+      },
+      {
+        "comment": "councillor in cork county council",
+        "position_item_id": "Q54932499"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:cork",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of donegal county council",
+        "position_item_id": "Q54932341"
+      },
+      {
+        "comment": "councillor in donegal county council",
+        "position_item_id": "Q54932518"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:donegal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of dún laoghaire–rathdown county council",
+        "position_item_id": "Q54931479"
+      },
+      {
+        "comment": "councillor in dún laoghaire-rathdown county council",
+        "position_item_id": "Q54932481"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:dun-laoghaire-rathdown",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of longford county council",
+        "position_item_id": "Q54931491"
+      },
+      {
+        "comment": "councillor in longford county council",
+        "position_item_id": "Q54932487"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:longford",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of county galway",
+        "position_item_id": "Q54932335"
+      },
+      {
+        "comment": "councillor in galway county council",
+        "position_item_id": "Q54932511"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:galway",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of kilkenny",
+        "position_item_id": "Q16152907"
+      },
+      {
+        "comment": "councillor in kilkenny county council",
+        "position_item_id": "Q54932485"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:kilkenny",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of sligo county council",
+        "position_item_id": "Q54932339"
+      },
+      {
+        "comment": "councillor in sligo county council",
+        "position_item_id": "Q54932516"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:sligo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of offaly county council",
+        "position_item_id": "Q54931504"
+      },
+      {
+        "comment": "councillor in offaly county council",
+        "position_item_id": "Q54932493"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:offaly",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of wicklow county council",
+        "position_item_id": "Q54931516"
+      },
+      {
+        "comment": "councillor in wicklow county council",
+        "position_item_id": "Q54932496"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:wicklow",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of wexford county council",
+        "position_item_id": "Q54931512"
+      },
+      {
+        "comment": "councillor in wexford county council",
+        "position_item_id": "Q54932495"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:wexford",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "mayor of kildare",
+        "position_item_id": "Q54931486"
+      },
+      {
+        "comment": "councillor in kildare county council",
+        "position_item_id": "Q54932484"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:kildare",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of kerry county council",
+        "position_item_id": "Q54931543"
+      },
+      {
+        "comment": "councillor in kerry county council",
+        "position_item_id": "Q54932503"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:kerry",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of tipperary county council",
+        "position_item_id": "Q54932334"
+      },
+      {
+        "comment": "councillor in tipperary county council",
+        "position_item_id": "Q54932506"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:tipperary",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "mayor of the city and county of limerick",
+        "position_item_id": "Q30587682"
+      },
+      {
+        "comment": "councillor in limerick city and county council",
+        "position_item_id": "Q54932504"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:limerick",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of cavan county council",
+        "position_item_id": "Q54932340"
+      },
+      {
+        "comment": "councillor in cavan county council",
+        "position_item_id": "Q54932517"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:cavan",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of county mayo",
+        "position_item_id": "Q54932337"
+      },
+      {
+        "comment": "councillor in mayo county council",
+        "position_item_id": "Q54932514"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:mayo",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of clare county council",
+        "position_item_id": "Q54931534"
+      },
+      {
+        "comment": "councillor in clare county council",
+        "position_item_id": "Q54932497"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:clare",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "counties",
+    "area_type_wikidata_item_id": "Q179872",
+    "associations": [
+      {
+        "comment": "cathaoirleach of county carlow",
+        "position_item_id": "Q54931473"
+      },
+      {
+        "comment": "councillor in carlow county council",
+        "position_item_id": "Q54932478"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "name_en"
+    },
+    "filter": {
+      "match": "country:ie/county:carlow",
+      "column": "MS_FB"
+    }
   }
 ]
