@@ -2899,7 +2899,7 @@
       "person_id": "Q13157894",
       "on_behalf_of_id": "Q247135",
       "organization_id": "Q651981",
-      "area_id": "Q7540532",
+      "area_id": "Q54932109",
       "start_date": "2016-03-10",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
@@ -2916,7 +2916,7 @@
       "person_id": "Q1345787",
       "on_behalf_of_id": "Q216517",
       "organization_id": "Q651981",
-      "area_id": "Q7540532",
+      "area_id": "Q54932109",
       "start_date": "2016-03-10",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
@@ -3562,7 +3562,7 @@
       "person_id": "Q23006321",
       "on_behalf_of_id": "Q76382",
       "organization_id": "Q651981",
-      "area_id": "Q7540532",
+      "area_id": "Q54932109",
       "start_date": "2016-03-10",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
@@ -4531,7 +4531,7 @@
       "person_id": "Q5325539",
       "on_behalf_of_id": "Q216517",
       "organization_id": "Q651981",
-      "area_id": "Q7540532",
+      "area_id": "Q54932109",
       "start_date": "2016-03-10",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
