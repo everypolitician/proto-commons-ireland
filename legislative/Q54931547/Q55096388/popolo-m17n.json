@@ -54,6 +54,144 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:limerick/lea:limerick-city-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932504"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Limerick City and County Council"
+      },
+      "name": {
+        "lang:en": "Limerick City East"
+      },
+      "parent_id": "Q178283"
+    },
+    {
+      "id": "Q54945350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:limerick/lea:limerick-city-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932504"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Limerick City and County Council"
+      },
+      "name": {
+        "lang:en": "Limerick City North"
+      },
+      "parent_id": "Q178283"
+    },
+    {
+      "id": "Q54945351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:limerick/lea:limerick-city-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932504"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Limerick City and County Council"
+      },
+      "name": {
+        "lang:en": "Limerick City West"
+      },
+      "parent_id": "Q178283"
+    },
+    {
+      "id": "Q54945353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:limerick/lea:adare---rathkeale"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932504"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Limerick City and County Council"
+      },
+      "name": {
+        "lang:en": "Adare — Rathkeale"
+      },
+      "parent_id": "Q178283"
+    },
+    {
+      "id": "Q54945354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:limerick/lea:cappamore---kilmallock"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932504"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Limerick City and County Council"
+      },
+      "name": {
+        "lang:en": "Cappamore — Kilmallock"
+      },
+      "parent_id": "Q178283"
+    },
+    {
+      "id": "Q54945355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:limerick/lea:newcastle-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932504"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Limerick City and County Council"
+      },
+      "name": {
+        "lang:en": "Newcastle West"
+      },
+      "parent_id": "Q178283"
     }
   ],
   "memberships": [

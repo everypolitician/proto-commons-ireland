@@ -54,6 +54,144 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:meath/lea:ashbourne"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932492"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Meath County Council"
+      },
+      "name": {
+        "lang:en": "Ashbourne"
+      },
+      "parent_id": "Q183544"
+    },
+    {
+      "id": "Q54945387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:meath/lea:ratoath"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932492"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Meath County Council"
+      },
+      "name": {
+        "lang:en": "Ratoath"
+      },
+      "parent_id": "Q183544"
+    },
+    {
+      "id": "Q54945388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:meath/lea:kells"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932492"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Meath County Council"
+      },
+      "name": {
+        "lang:en": "Kells"
+      },
+      "parent_id": "Q183544"
+    },
+    {
+      "id": "Q54945389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:meath/lea:navan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932492"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Meath County Council"
+      },
+      "name": {
+        "lang:en": "Navan"
+      },
+      "parent_id": "Q183544"
+    },
+    {
+      "id": "Q54945391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:meath/lea:laytown---bettystown"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932492"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Meath County Council"
+      },
+      "name": {
+        "lang:en": "Laytown — Bettystown"
+      },
+      "parent_id": "Q183544"
+    },
+    {
+      "id": "Q54945392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:meath/lea:trim"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932492"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Meath County Council"
+      },
+      "name": {
+        "lang:en": "Trim"
+      },
+      "parent_id": "Q183544"
     }
   ],
   "memberships": [

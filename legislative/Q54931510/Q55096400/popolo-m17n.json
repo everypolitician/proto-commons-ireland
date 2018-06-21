@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:westmeath/lea:mullingar---coole"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932494"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Westmeath County Council"
+      },
+      "name": {
+        "lang:en": "Mullingar — Coole"
+      },
+      "parent_id": "Q182633"
+    },
+    {
+      "id": "Q54945473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:westmeath/lea:mullingar---kilbeggan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932494"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Westmeath County Council"
+      },
+      "name": {
+        "lang:en": "Mullingar — Kilbeggan"
+      },
+      "parent_id": "Q182633"
+    },
+    {
+      "id": "Q54947028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:westmeath/lea:athlone"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54947028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932494"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Westmeath County Council"
+      },
+      "name": {
+        "lang:en": "Athlone"
+      },
+      "parent_id": "Q182633"
     }
   ],
   "memberships": [

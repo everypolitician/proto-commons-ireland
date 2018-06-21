@@ -100,6 +100,144 @@
         "lang:en": "Cork City"
       },
       "parent_id": "Q27"
+    },
+    {
+      "id": "Q54945219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:cork/lea:cork-city-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932498"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork City Council"
+      },
+      "name": {
+        "lang:en": "Cork City North"
+      },
+      "parent_id": "Q36647"
+    },
+    {
+      "id": "Q54945220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:cork/lea:cork-city-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932498"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork City Council"
+      },
+      "name": {
+        "lang:en": "Cork City North"
+      },
+      "parent_id": "Q36647"
+    },
+    {
+      "id": "Q54945221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:cork/lea:cork-city-north"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932498"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork City Council"
+      },
+      "name": {
+        "lang:en": "Cork City North"
+      },
+      "parent_id": "Q36647"
+    },
+    {
+      "id": "Q54945223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:cork/lea:cork-city-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932498"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork City Council"
+      },
+      "name": {
+        "lang:en": "Cork City South"
+      },
+      "parent_id": "Q36647"
+    },
+    {
+      "id": "Q54945224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:cork/lea:cork-city-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932498"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork City Council"
+      },
+      "name": {
+        "lang:en": "Cork City South"
+      },
+      "parent_id": "Q36647"
+    },
+    {
+      "id": "Q54945225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/administrative-city:cork/lea:cork-city-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932498"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Cork City Council"
+      },
+      "name": {
+        "lang:en": "Cork City South"
+      },
+      "parent_id": "Q36647"
     }
   ],
   "memberships": [

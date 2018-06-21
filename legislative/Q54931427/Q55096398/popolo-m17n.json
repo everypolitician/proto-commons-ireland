@@ -100,6 +100,121 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:tipperary/lea:carrick-on-suir"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932506"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Tipperary County Council"
+      },
+      "name": {
+        "lang:en": "Carrick-on-suir"
+      },
+      "parent_id": "Q184618"
+    },
+    {
+      "id": "Q54945439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:tipperary/lea:clonmel"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932506"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Tipperary County Council"
+      },
+      "name": {
+        "lang:en": "Clonmel"
+      },
+      "parent_id": "Q184618"
+    },
+    {
+      "id": "Q54945450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:tipperary/lea:nenagh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932506"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Tipperary County Council"
+      },
+      "name": {
+        "lang:en": "Nenagh"
+      },
+      "parent_id": "Q184618"
+    },
+    {
+      "id": "Q54945452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:tipperary/lea:templemore---thurles"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932506"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Tipperary County Council"
+      },
+      "name": {
+        "lang:en": "Templemore — Thurles"
+      },
+      "parent_id": "Q184618"
+    },
+    {
+      "id": "Q54945453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:tipperary/lea:cashel---tipperary"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932506"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Tipperary County Council"
+      },
+      "name": {
+        "lang:en": "Cashel — Tipperary"
+      },
+      "parent_id": "Q184618"
     }
   ],
   "memberships": [

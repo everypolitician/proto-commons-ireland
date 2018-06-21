@@ -78,6 +78,75 @@
       "parent_id": null
     },
     {
+      "id": "Q54945333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:laois/lea:graiguecullen---portarlington"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932486"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Laois County Council"
+      },
+      "name": {
+        "lang:en": "Graiguecullen — Portarlington"
+      },
+      "parent_id": "Q55299"
+    },
+    {
+      "id": "Q54945334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:laois/lea:borris-in-ossory---mountmellick"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932486"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Laois County Council"
+      },
+      "name": {
+        "lang:en": "Borris-in-ossory — Mountmellick"
+      },
+      "parent_id": "Q55299"
+    },
+    {
+      "id": "Q54945335",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:laois/lea:portlaoise"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945335"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932486"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Laois County Council"
+      },
+      "name": {
+        "lang:en": "Portlaoise"
+      },
+      "parent_id": "Q55299"
+    },
+    {
       "id": "Q55299",
       "identifiers": [
         {

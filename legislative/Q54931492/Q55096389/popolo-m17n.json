@@ -54,6 +54,75 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:longford/lea:ballymahon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932487"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Longford County Council"
+      },
+      "name": {
+        "lang:en": "Ballymahon"
+      },
+      "parent_id": "Q186220"
+    },
+    {
+      "id": "Q54945364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:longford/lea:granard"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932487"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Longford County Council"
+      },
+      "name": {
+        "lang:en": "Granard"
+      },
+      "parent_id": "Q186220"
+    },
+    {
+      "id": "Q54945365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:longford/lea:longford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932487"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Longford County Council"
+      },
+      "name": {
+        "lang:en": "Longford"
+      },
+      "parent_id": "Q186220"
     }
   ],
   "memberships": [

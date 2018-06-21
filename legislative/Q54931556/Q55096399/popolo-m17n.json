@@ -54,6 +54,121 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:waterford/lea:waterford-city-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932507"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Waterford City and County Council"
+      },
+      "name": {
+        "lang:en": "Waterford City East"
+      },
+      "parent_id": "Q184594"
+    },
+    {
+      "id": "Q54945456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:waterford/lea:waterford-city-south"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932507"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Waterford City and County Council"
+      },
+      "name": {
+        "lang:en": "Waterford City South"
+      },
+      "parent_id": "Q184594"
+    },
+    {
+      "id": "Q54945457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:waterford/lea:tramore---waterford-city-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932507"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Waterford City and County Council"
+      },
+      "name": {
+        "lang:en": "Tramore — Waterford City West"
+      },
+      "parent_id": "Q184594"
+    },
+    {
+      "id": "Q54945458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:waterford/lea:comeragh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932507"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Waterford City and County Council"
+      },
+      "name": {
+        "lang:en": "Comeragh"
+      },
+      "parent_id": "Q184594"
+    },
+    {
+      "id": "Q54945460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:waterford/lea:dungarvan---lismore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932507"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Waterford City and County Council"
+      },
+      "name": {
+        "lang:en": "Dungarvan — Lismore"
+      },
+      "parent_id": "Q184594"
     }
   ],
   "memberships": [

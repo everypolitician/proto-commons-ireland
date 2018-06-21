@@ -54,6 +54,98 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wexford/lea:gorey"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932495"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wexford County Council"
+      },
+      "name": {
+        "lang:en": "Gorey"
+      },
+      "parent_id": "Q184599"
+    },
+    {
+      "id": "Q54945477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wexford/lea:enniscorthy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932495"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wexford County Council"
+      },
+      "name": {
+        "lang:en": "Enniscorthy"
+      },
+      "parent_id": "Q184599"
+    },
+    {
+      "id": "Q54945478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wexford/lea:new-ross"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932495"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wexford County Council"
+      },
+      "name": {
+        "lang:en": "New Ross"
+      },
+      "parent_id": "Q184599"
+    },
+    {
+      "id": "Q54945479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:wexford/lea:wexford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932495"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Wexford County Council"
+      },
+      "name": {
+        "lang:en": "Wexford"
+      },
+      "parent_id": "Q184599"
     }
   ],
   "memberships": [

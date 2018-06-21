@@ -54,6 +54,98 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:clare/lea:west-clare"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932497"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Clare County Council"
+      },
+      "name": {
+        "lang:en": "West Clare"
+      },
+      "parent_id": "Q181862"
+    },
+    {
+      "id": "Q54945206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:clare/lea:ennis"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932497"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Clare County Council"
+      },
+      "name": {
+        "lang:en": "Ennis"
+      },
+      "parent_id": "Q181862"
+    },
+    {
+      "id": "Q54945207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:clare/lea:killaloe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932497"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Clare County Council"
+      },
+      "name": {
+        "lang:en": "Killaloe"
+      },
+      "parent_id": "Q181862"
+    },
+    {
+      "id": "Q54945208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:clare/lea:shannon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932497"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Clare County Council"
+      },
+      "name": {
+        "lang:en": "Shannon"
+      },
+      "parent_id": "Q181862"
     }
   ],
   "memberships": [

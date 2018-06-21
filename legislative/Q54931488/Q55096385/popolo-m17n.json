@@ -54,6 +54,98 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kilkenny/lea:castlecomer"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932485"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kilkenny County Council"
+      },
+      "name": {
+        "lang:en": "Castlecomer"
+      },
+      "parent_id": "Q180231"
+    },
+    {
+      "id": "Q54945329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kilkenny/lea:piltown"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932485"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kilkenny County Council"
+      },
+      "name": {
+        "lang:en": "Piltown"
+      },
+      "parent_id": "Q180231"
+    },
+    {
+      "id": "Q54945330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kilkenny/lea:kilkenny-city-east"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932485"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kilkenny County Council"
+      },
+      "name": {
+        "lang:en": "Kilkenny City-east"
+      },
+      "parent_id": "Q180231"
+    },
+    {
+      "id": "Q54945331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kilkenny/lea:kilkenny-city-west"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932485"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kilkenny County Council"
+      },
+      "name": {
+        "lang:en": "Kilkenny City-west"
+      },
+      "parent_id": "Q180231"
     }
   ],
   "memberships": [

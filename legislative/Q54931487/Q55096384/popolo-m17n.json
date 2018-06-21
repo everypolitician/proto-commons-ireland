@@ -54,6 +54,121 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kildare/lea:athy"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932484"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kildare County Council"
+      },
+      "name": {
+        "lang:en": "Athy"
+      },
+      "parent_id": "Q173332"
+    },
+    {
+      "id": "Q54945314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kildare/lea:kildare---newbridge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932484"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kildare County Council"
+      },
+      "name": {
+        "lang:en": "Kildare — Newbridge"
+      },
+      "parent_id": "Q173332"
+    },
+    {
+      "id": "Q54945315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kildare/lea:naas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932484"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kildare County Council"
+      },
+      "name": {
+        "lang:en": "Naas"
+      },
+      "parent_id": "Q173332"
+    },
+    {
+      "id": "Q54945325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kildare/lea:celbridge---leixlip"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932484"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kildare County Council"
+      },
+      "name": {
+        "lang:en": "Celbridge — Leixlip"
+      },
+      "parent_id": "Q173332"
+    },
+    {
+      "id": "Q54945326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:kildare/lea:maynooth"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932484"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Kildare County Council"
+      },
+      "name": {
+        "lang:en": "Maynooth"
+      },
+      "parent_id": "Q173332"
     }
   ],
   "memberships": [

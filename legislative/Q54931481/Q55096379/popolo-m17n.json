@@ -54,6 +54,144 @@
         "lang:en": "Dún Laoghaire-Rathdown County"
       },
       "parent_id": "Q27"
+    },
+    {
+      "id": "Q54945264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:dun-laoghaire-rathdown/lea:killiney-shankill"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932481"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dún Laoghaire-Rathdown County Council"
+      },
+      "name": {
+        "lang:en": "Killiney-shankill"
+      },
+      "parent_id": "Q538417"
+    },
+    {
+      "id": "Q54945265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:dun-laoghaire-rathdown/lea:blackrock"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932481"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dún Laoghaire-Rathdown County Council"
+      },
+      "name": {
+        "lang:en": "Blackrock"
+      },
+      "parent_id": "Q538417"
+    },
+    {
+      "id": "Q54945267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:dun-laoghaire-rathdown/lea:dundrum"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932481"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dún Laoghaire-Rathdown County Council"
+      },
+      "name": {
+        "lang:en": "Dundrum"
+      },
+      "parent_id": "Q538417"
+    },
+    {
+      "id": "Q54945268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:dun-laoghaire-rathdown/lea:dun-laoghaire"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932481"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dún Laoghaire-Rathdown County Council"
+      },
+      "name": {
+        "lang:en": "Dun Laoghaire"
+      },
+      "parent_id": "Q538417"
+    },
+    {
+      "id": "Q54945269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:dun-laoghaire-rathdown/lea:glencullen-sandyford"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932481"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dún Laoghaire-Rathdown County Council"
+      },
+      "name": {
+        "lang:en": "Glencullen-sandyford"
+      },
+      "parent_id": "Q538417"
+    },
+    {
+      "id": "Q54945271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:dun-laoghaire-rathdown/lea:stillorgan"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932481"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Dún Laoghaire-Rathdown County Council"
+      },
+      "name": {
+        "lang:en": "Stillorgan"
+      },
+      "parent_id": "Q538417"
     }
   ],
   "memberships": [

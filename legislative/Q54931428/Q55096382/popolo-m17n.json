@@ -98,6 +98,121 @@
         "lang:ga": "Éire"
       },
       "parent_id": null
+    },
+    {
+      "id": "Q54945292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:galway/lea:ballinasloe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932511"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway County Council"
+      },
+      "name": {
+        "lang:en": "Ballinasloe"
+      },
+      "parent_id": "Q169923"
+    },
+    {
+      "id": "Q54945293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:galway/lea:conamara"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945293"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932511"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway County Council"
+      },
+      "name": {
+        "lang:en": "Conamara"
+      },
+      "parent_id": "Q169923"
+    },
+    {
+      "id": "Q54945295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:galway/lea:loughrea"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932511"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway County Council"
+      },
+      "name": {
+        "lang:en": "Loughrea"
+      },
+      "parent_id": "Q169923"
+    },
+    {
+      "id": "Q54945305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:galway/lea:athenry-oranmore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932511"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway County Council"
+      },
+      "name": {
+        "lang:en": "Athenry-oranmore"
+      },
+      "parent_id": "Q169923"
+    },
+    {
+      "id": "Q54945306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:ie/county:galway/lea:tuam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54945306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54932511"
+      ],
+      "type": {
+        "lang:en": "Local Electoral Area for Galway County Council"
+      },
+      "name": {
+        "lang:en": "Tuam"
+      },
+      "parent_id": "Q169923"
     }
   ],
   "memberships": [
