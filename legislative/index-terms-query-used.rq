@@ -3,8 +3,43 @@ SELECT DISTINCT
   ?legislature ?legislatureLabel
   ?term ?termLabel
   ?termStart ?termEnd
+  ?termSpecificPosition
 WHERE {
-  VALUES ?house { wd:Q1127591 wd:Q651981 wd:Q54931427 wd:Q54931428 wd:Q54931429 wd:Q54931430 wd:Q54931431 wd:Q54931432 wd:Q54931433 wd:Q54931434 wd:Q54931435 wd:Q54931475 wd:Q54931477 wd:Q54931481 wd:Q54931483 wd:Q54931485 wd:Q54931487 wd:Q54931488 wd:Q54931490 wd:Q54931492 wd:Q54931494 wd:Q54931502 wd:Q54931506 wd:Q54931510 wd:Q54931514 wd:Q54931531 wd:Q54931536 wd:Q54931538 wd:Q54931541 wd:Q54931545 wd:Q54931547 wd:Q54931556 wd:Q54931557 }
+  VALUES (?house ?position) {
+    (wd:Q1127591 wd:Q18043391)
+    (wd:Q651981 wd:Q654291)
+    (wd:Q54931427 wd:Q54932506)
+    (wd:Q54931428 wd:Q54932511)
+    (wd:Q54931429 wd:Q54932512)
+    (wd:Q54931430 wd:Q54932514)
+    (wd:Q54931431 wd:Q54932515)
+    (wd:Q54931432 wd:Q54932516)
+    (wd:Q54931433 wd:Q54932517)
+    (wd:Q54931434 wd:Q54932518)
+    (wd:Q54931435 wd:Q54932519)
+    (wd:Q54931475 wd:Q54932478)
+    (wd:Q54931477 wd:Q54932479)
+    (wd:Q54931481 wd:Q54932481)
+    (wd:Q54931483 wd:Q54932482)
+    (wd:Q54931485 wd:Q54932483)
+    (wd:Q54931487 wd:Q54932484)
+    (wd:Q54931488 wd:Q54932485)
+    (wd:Q54931490 wd:Q54932486)
+    (wd:Q54931492 wd:Q54932487)
+    (wd:Q54931494 wd:Q54932491)
+    (wd:Q54931502 wd:Q54932492)
+    (wd:Q54931506 wd:Q54932493)
+    (wd:Q54931510 wd:Q54932494)
+    (wd:Q54931514 wd:Q54932495)
+    (wd:Q54931531 wd:Q54932496)
+    (wd:Q54931536 wd:Q54932497)
+    (wd:Q54931538 wd:Q54932498)
+    (wd:Q54931541 wd:Q54932499)
+    (wd:Q54931545 wd:Q54932503)
+    (wd:Q54931547 wd:Q54932504)
+    (wd:Q54931556 wd:Q54932507)
+    (wd:Q54931557 wd:Q54932509)
+  }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
       OPTIONAL { ?subTerm wdt:P31 ?baseTerm }
@@ -15,6 +50,11 @@ WHERE {
   OPTIONAL { ?term (wdt:P582|wdt:P576) ?termEnd. }
   OPTIONAL { ?term (wdt:P155|wdt:P1365) ?termReplaces }
   OPTIONAL { ?term (wdt:P156|wdt:P1366) ?termReplacedBy }
+  OPTIONAL {
+    ?termSpecificPosition wdt:P31/wdt:P279* wd:Q4164871 ;
+                          p:P279 [ ps:P279 ?position ;
+                                   pq:P2937 ?term ] .
+  }
 
   FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
   FILTER (!BOUND(?termReplacedBy))
