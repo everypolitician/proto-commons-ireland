@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q503614"
+      },
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Páirtí an Lucht Oibre"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Labour Party"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25993038"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
@@ -35,10 +53,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lord Mayor of Dublin"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q25993038"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -68,6 +82,24 @@
         "value" : "2016-01-01T00:00:00Z"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1311653"
+      },
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Páirtí Parlaiminteach na hÉireann"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Irish Parliamentary Party"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3991506"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
@@ -99,10 +131,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lord Mayor of Dublin"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3991506"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -125,22 +153,12 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1311653"
-      },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Páirtí Parlaiminteach na hÉireann"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Irish Parliamentary Party"
       }
     }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q41536567"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
@@ -172,10 +190,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lord Mayor of Dublin"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q41536567"
       },
       "name_en" : {
         "xml:lang" : "en",
@@ -203,6 +217,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-06-26T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Mícheál Mac Donncha"
       }
     } ]
   }
