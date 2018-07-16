@@ -32,7 +32,8 @@
     },
     {
       "name": {
-        "lang:en": "Mícheál Mac Donncha"
+        "lang:en": "Mícheál Mac Donncha",
+        "lang:ga": "Mícheál Mac Donncha"
       },
       "id": "Q41536567",
       "identifiers": [
@@ -72,6 +73,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q1311653"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Labour Party",
+        "lang:ga": "Páirtí an Lucht Oibre"
+      },
+      "id": "Q503614",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q503614"
         }
       ]
     }
@@ -130,6 +145,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q25993038-25563265-4b9d-08ee-8575-c77dc74ffc7a",
       "person_id": "Q25993038",
+      "on_behalf_of_id": "Q503614",
       "organization_id": "Q55082822",
       "area_id": "Q1761",
       "start_date": "2016-01-01",
