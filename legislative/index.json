@@ -2,6 +2,8 @@
   {
     "comment": "Seanad Éireann",
     "house_item_id": "Q1127591",
+    "seat_count": "60",
+    "area_id": "Q27",
     "position_item_id": "Q18043391",
     "terms": [
       {
@@ -11,19 +13,10 @@
     ]
   },
   {
-    "comment": "Dáil Éireann",
-    "house_item_id": "Q651981",
-    "position_item_id": "Q654291",
-    "terms": [
-      {
-        "comment": "32nd Dáil",
-        "term_item_id": "Q28976095"
-      }
-    ]
-  },
-  {
     "comment": "legislative body of Tipperary County Council",
     "house_item_id": "Q54931427",
+    "seat_count": "40",
+    "area_id": "Q184618",
     "position_item_id": "Q54932506",
     "terms": [
       {
@@ -35,6 +28,8 @@
   {
     "comment": "legislative body of Galway County Council",
     "house_item_id": "Q54931428",
+    "seat_count": "39",
+    "area_id": "Q169923",
     "position_item_id": "Q54932511",
     "terms": [
       {
@@ -46,6 +41,8 @@
   {
     "comment": "legislative body of Leitrim County Council",
     "house_item_id": "Q54931429",
+    "seat_count": "18",
+    "area_id": "Q107397",
     "position_item_id": "Q54932512",
     "terms": [
       {
@@ -57,6 +54,8 @@
   {
     "comment": "legislative body of Mayo County Council",
     "house_item_id": "Q54931430",
+    "seat_count": "30",
+    "area_id": "Q178626",
     "position_item_id": "Q54932514",
     "terms": [
       {
@@ -68,6 +67,8 @@
   {
     "comment": "legislative body of Roscommon County Council",
     "house_item_id": "Q54931431",
+    "seat_count": "18",
+    "area_id": "Q179437",
     "position_item_id": "Q54932515",
     "terms": [
       {
@@ -79,6 +80,8 @@
   {
     "comment": "legislative body of Sligo County Council",
     "house_item_id": "Q54931432",
+    "seat_count": "18",
+    "area_id": "Q179325",
     "position_item_id": "Q54932516",
     "terms": [
       {
@@ -90,6 +93,8 @@
   {
     "comment": "legislative body of Cavan County Council",
     "house_item_id": "Q54931433",
+    "seat_count": "18",
+    "area_id": "Q187402",
     "position_item_id": "Q54932517",
     "terms": [
       {
@@ -101,6 +106,8 @@
   {
     "comment": "legislative body of Donegal County Council",
     "house_item_id": "Q54931434",
+    "seat_count": "37",
+    "area_id": "Q179424",
     "position_item_id": "Q54932518",
     "terms": [
       {
@@ -112,6 +119,8 @@
   {
     "comment": "legislative body of Monaghan County Council",
     "house_item_id": "Q54931435",
+    "seat_count": "18",
+    "area_id": "Q184760",
     "position_item_id": "Q54932519",
     "terms": [
       {
@@ -123,6 +132,8 @@
   {
     "comment": "legislative body of Carlow County Council",
     "house_item_id": "Q54931475",
+    "seat_count": "18",
+    "area_id": "Q181882",
     "position_item_id": "Q54932478",
     "terms": [
       {
@@ -134,6 +145,8 @@
   {
     "comment": "legislative body of Dublin City Council",
     "house_item_id": "Q54931477",
+    "seat_count": "63",
+    "area_id": "Q1761",
     "position_item_id": "Q54932479",
     "terms": [
       {
@@ -145,6 +158,8 @@
   {
     "comment": "legislative body of Dún Laoghaire-Rathdown County Council",
     "house_item_id": "Q54931481",
+    "seat_count": "40",
+    "area_id": "Q538417",
     "position_item_id": "Q54932481",
     "terms": [
       {
@@ -156,6 +171,8 @@
   {
     "comment": "legislative body of Fingal County Council",
     "house_item_id": "Q54931483",
+    "seat_count": "40",
+    "area_id": "Q520000",
     "position_item_id": "Q54932482",
     "terms": [
       {
@@ -167,6 +184,8 @@
   {
     "comment": "legislative body of South Dublin County Council",
     "house_item_id": "Q54931485",
+    "seat_count": "40",
+    "area_id": "Q822865",
     "position_item_id": "Q54932483",
     "terms": [
       {
@@ -178,6 +197,8 @@
   {
     "comment": "legislative body of Kildare County Council",
     "house_item_id": "Q54931487",
+    "seat_count": "40",
+    "area_id": "Q173332",
     "position_item_id": "Q54932484",
     "terms": [
       {
@@ -189,6 +210,8 @@
   {
     "comment": "legislative body of Kilkenny County Council",
     "house_item_id": "Q54931488",
+    "seat_count": "24",
+    "area_id": "Q180231",
     "position_item_id": "Q54932485",
     "terms": [
       {
@@ -200,6 +223,8 @@
   {
     "comment": "legislative body of Laois County Council",
     "house_item_id": "Q54931490",
+    "seat_count": "19",
+    "area_id": "Q55299",
     "position_item_id": "Q54932486",
     "terms": [
       {
@@ -211,6 +236,8 @@
   {
     "comment": "legislative body of Longford County Council",
     "house_item_id": "Q54931492",
+    "seat_count": "18",
+    "area_id": "Q186220",
     "position_item_id": "Q54932487",
     "terms": [
       {
@@ -222,6 +249,8 @@
   {
     "comment": "legislative body of Louth County Council",
     "house_item_id": "Q54931494",
+    "seat_count": "29",
+    "area_id": "Q183539",
     "position_item_id": "Q54932491",
     "terms": [
       {
@@ -233,6 +262,8 @@
   {
     "comment": "legislative body of Meath County Council",
     "house_item_id": "Q54931502",
+    "seat_count": "40",
+    "area_id": "Q183544",
     "position_item_id": "Q54932492",
     "terms": [
       {
@@ -244,6 +275,8 @@
   {
     "comment": "legislative body of Offaly County Council",
     "house_item_id": "Q54931506",
+    "seat_count": "19",
+    "area_id": "Q184445",
     "position_item_id": "Q54932493",
     "terms": [
       {
@@ -255,6 +288,8 @@
   {
     "comment": "legislative body of Westmeath County Council",
     "house_item_id": "Q54931510",
+    "seat_count": "20",
+    "area_id": "Q182633",
     "position_item_id": "Q54932494",
     "terms": [
       {
@@ -266,6 +301,8 @@
   {
     "comment": "legislative body of Wexford County Council",
     "house_item_id": "Q54931514",
+    "seat_count": "34",
+    "area_id": "Q184599",
     "position_item_id": "Q54932495",
     "terms": [
       {
@@ -277,6 +314,8 @@
   {
     "comment": "legislative body of Wicklow County Council",
     "house_item_id": "Q54931531",
+    "seat_count": "32",
+    "area_id": "Q182591",
     "position_item_id": "Q54932496",
     "terms": [
       {
@@ -288,6 +327,8 @@
   {
     "comment": "legislative body of Clare County Council",
     "house_item_id": "Q54931536",
+    "seat_count": "28",
+    "area_id": "Q181862",
     "position_item_id": "Q54932497",
     "terms": [
       {
@@ -299,6 +340,8 @@
   {
     "comment": "legislative body of Cork City Council",
     "house_item_id": "Q54931538",
+    "seat_count": "31",
+    "area_id": "Q36647",
     "position_item_id": "Q54932498",
     "terms": [
       {
@@ -310,6 +353,8 @@
   {
     "comment": "legislative body of Cork County Council",
     "house_item_id": "Q54931541",
+    "seat_count": "55",
+    "area_id": "Q162475",
     "position_item_id": "Q54932499",
     "terms": [
       {
@@ -321,6 +366,8 @@
   {
     "comment": "legislative body of Kerry County Council",
     "house_item_id": "Q54931545",
+    "seat_count": "33",
+    "area_id": "Q184469",
     "position_item_id": "Q54932503",
     "terms": [
       {
@@ -332,6 +379,8 @@
   {
     "comment": "legislative body of Limerick City and County Council",
     "house_item_id": "Q54931547",
+    "seat_count": "40",
+    "area_id": "Q178283",
     "position_item_id": "Q54932504",
     "terms": [
       {
@@ -343,6 +392,8 @@
   {
     "comment": "legislative body of Waterford City and County Council",
     "house_item_id": "Q54931556",
+    "seat_count": "32",
+    "area_id": "Q184594",
     "position_item_id": "Q54932507",
     "terms": [
       {
@@ -354,11 +405,26 @@
   {
     "comment": "legislative body of Galway City Council",
     "house_item_id": "Q54931557",
+    "seat_count": "18",
+    "area_id": "Q129610",
     "position_item_id": "Q54932509",
     "terms": [
       {
         "comment": "Galway City Council 2014-2019",
         "term_item_id": "Q55096381"
+      }
+    ]
+  },
+  {
+    "comment": "Dáil Éireann",
+    "house_item_id": "Q651981",
+    "seat_count": "158",
+    "area_id": "Q27",
+    "position_item_id": "Q654291",
+    "terms": [
+      {
+        "comment": "32nd Dáil",
+        "term_item_id": "Q28976095"
       }
     ]
   }
