@@ -4095,7 +4095,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q221888-CCB71A46-FAD5-4839-BA26-5E8BC6BA4B82",
       "person_id": "Q221888",
-      "on_behalf_of_id": "Q1052201",
+      "on_behalf_of_id": "Q247135",
       "organization_id": "Q651981",
       "area_id": "Q5320426",
       "start_date": "2016-03-10",
@@ -4677,6 +4677,24 @@
       "organization_id": "Q651981",
       "area_id": "Q7079018",
       "start_date": "2016-03-10",
+      "end_date": "2018-03-22",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:en": "deputy"
+      },
+      "role_code": "Q654291",
+      "role": {
+        "lang:en": "Deputy to the Dáil",
+        "lang:ga": "Teachta Dála"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23006332-87f1854d-42bd-a03d-6e5c-53c15a3d074b",
+      "person_id": "Q23006332",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q651981",
+      "area_id": "Q7079018",
+      "start_date": "2018-03-22",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:en": "deputy"
@@ -6203,7 +6221,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q7459627-C1C5E47E-74DA-47B5-8934-D0116D9873B0",
       "person_id": "Q7459627",
-      "on_behalf_of_id": "Q216517",
+      "on_behalf_of_id": "Q1052201",
       "organization_id": "Q651981",
       "area_id": "Q17088606",
       "start_date": "2016-03-10",
