@@ -1,6 +1,7 @@
 [
   {
     "comment": "Government of Ireland",
+    "area_id": "Q27",
     "executive_item_id": "Q1672817",
     "positions": [
       {
@@ -11,6 +12,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of County Carlow",
+    "area_id": "Q181882",
     "executive_item_id": "Q55082821",
     "positions": [
       {
@@ -21,6 +23,7 @@
   },
   {
     "comment": "office of the Lord Mayor of Dublin",
+    "area_id": "Q1761",
     "executive_item_id": "Q55082822",
     "positions": [
       {
@@ -31,6 +34,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Dún Laoghaire–Rathdown County Council",
+    "area_id": "Q538417",
     "executive_item_id": "Q55082846",
     "positions": [
       {
@@ -41,6 +45,7 @@
   },
   {
     "comment": "office of the Mayor of Fingal",
+    "area_id": "Q520000",
     "executive_item_id": "Q55082847",
     "positions": [
       {
@@ -51,6 +56,7 @@
   },
   {
     "comment": "office of the Mayor of South Dublin County",
+    "area_id": "Q822865",
     "executive_item_id": "Q55082848",
     "positions": [
       {
@@ -61,6 +67,7 @@
   },
   {
     "comment": "office of the Mayor of Kildare",
+    "area_id": "Q173332",
     "executive_item_id": "Q55082849",
     "positions": [
       {
@@ -71,6 +78,7 @@
   },
   {
     "comment": "office of the Mayor of Kilkenny",
+    "area_id": "Q180231",
     "executive_item_id": "Q55082850",
     "positions": [
       {
@@ -81,6 +89,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Laois County Council",
+    "area_id": "Q55299",
     "executive_item_id": "Q55082851",
     "positions": [
       {
@@ -91,6 +100,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Longford County Council",
+    "area_id": "Q186220",
     "executive_item_id": "Q55082852",
     "positions": [
       {
@@ -101,6 +111,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Louth County Council",
+    "area_id": "Q183539",
     "executive_item_id": "Q55082853",
     "positions": [
       {
@@ -111,6 +122,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Meath County Council",
+    "area_id": "Q183544",
     "executive_item_id": "Q55082854",
     "positions": [
       {
@@ -121,6 +133,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Offaly County Council",
+    "area_id": "Q184445",
     "executive_item_id": "Q55082855",
     "positions": [
       {
@@ -131,6 +144,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Westmeath County Council",
+    "area_id": "Q182633",
     "executive_item_id": "Q55082856",
     "positions": [
       {
@@ -141,6 +155,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Wexford County Council",
+    "area_id": "Q184599",
     "executive_item_id": "Q55082857",
     "positions": [
       {
@@ -151,6 +166,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Wicklow County Council",
+    "area_id": "Q182591",
     "executive_item_id": "Q55082858",
     "positions": [
       {
@@ -161,6 +177,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Clare County Council",
+    "area_id": "Q181862",
     "executive_item_id": "Q55082859",
     "positions": [
       {
@@ -171,6 +188,7 @@
   },
   {
     "comment": "office of the Lord Mayor of Cork",
+    "area_id": "Q36647",
     "executive_item_id": "Q55082860",
     "positions": [
       {
@@ -181,6 +199,7 @@
   },
   {
     "comment": "office of the Mayor of County Cork",
+    "area_id": "Q162475",
     "executive_item_id": "Q55082861",
     "positions": [
       {
@@ -191,6 +210,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Kerry County Council",
+    "area_id": "Q184469",
     "executive_item_id": "Q55082862",
     "positions": [
       {
@@ -201,6 +221,7 @@
   },
   {
     "comment": "office of the Mayor of the City and County of Limerick",
+    "area_id": "Q178283",
     "executive_item_id": "Q55082863",
     "positions": [
       {
@@ -211,6 +232,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Tipperary County Council",
+    "area_id": "Q184618",
     "executive_item_id": "Q55082865",
     "positions": [
       {
@@ -221,6 +243,7 @@
   },
   {
     "comment": "office of the Mayor of Waterford",
+    "area_id": "Q184594",
     "executive_item_id": "Q55082867",
     "positions": [
       {
@@ -231,6 +254,7 @@
   },
   {
     "comment": "office of the Mayor of Galway",
+    "area_id": "Q129610",
     "executive_item_id": "Q55082868",
     "positions": [
       {
@@ -241,6 +265,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of County Galway",
+    "area_id": "Q169923",
     "executive_item_id": "Q55082869",
     "positions": [
       {
@@ -251,6 +276,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Leitrim County Council",
+    "area_id": "Q107397",
     "executive_item_id": "Q55082870",
     "positions": [
       {
@@ -261,6 +287,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of County Mayo",
+    "area_id": "Q178626",
     "executive_item_id": "Q55082871",
     "positions": [
       {
@@ -271,6 +298,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Roscommon County Council",
+    "area_id": "Q179437",
     "executive_item_id": "Q55082872",
     "positions": [
       {
@@ -281,6 +309,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Sligo County Council",
+    "area_id": "Q179325",
     "executive_item_id": "Q55082873",
     "positions": [
       {
@@ -291,6 +320,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Cavan County Council",
+    "area_id": "Q187402",
     "executive_item_id": "Q55082874",
     "positions": [
       {
@@ -301,6 +331,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Donegal County Council",
+    "area_id": "Q179424",
     "executive_item_id": "Q55082879",
     "positions": [
       {
@@ -311,6 +342,7 @@
   },
   {
     "comment": "office of the Cathaoirleach of Monaghan County Council",
+    "area_id": "Q184760",
     "executive_item_id": "Q55082881",
     "positions": [
       {
