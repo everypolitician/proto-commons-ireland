@@ -4,60 +4,73 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1183377-1E25D6CF-AE71-46C8-BCB3-9804E97AB6FE"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1183377"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deirdre Clune"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Deirdre Clune"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q247135"
-      },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gael"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fine Gael"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1183377"
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gael"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36647"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Cork"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6679767"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6679767"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Cork"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Lord Mayor of Cork"
       },
-      "name_en" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "deirdreclunemep"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Deirdre Clune"
+        "value" : "Lord Mayor"
       },
       "org" : {
         "type" : "uri",
@@ -68,22 +81,9 @@
         "type" : "literal",
         "value" : "office of the Lord Mayor of Cork"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1183377-1E25D6CF-AE71-46C8-BCB3-9804E97AB6FE"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q36647"
-      },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Deirdre Clune"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "deirdreclunemep"
       }
     } ]
   }

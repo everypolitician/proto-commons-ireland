@@ -63,11 +63,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1110075"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Colm Burke"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -100,6 +95,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Colm Burke"
       }
     }, {
       "party" : {
@@ -156,11 +156,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1175932"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "David Norris"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -193,6 +188,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "David Norris"
       }
     }, {
       "party" : {
@@ -254,11 +254,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1187575"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Denis O'Donovan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -291,6 +286,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Denis O'Donovan"
       }
     }, {
       "party" : {
@@ -352,11 +352,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1209149"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Diarmuid Wilson"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -389,6 +384,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Diarmuid Wilson"
       }
     }, {
       "party" : {
@@ -450,11 +450,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q142592"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ned O'Sullivan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -487,6 +482,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ned O'Sullivan"
       }
     }, {
       "party" : {
@@ -548,11 +548,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1443237"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Frank Feighan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -585,6 +580,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Frank Feighan"
       }
     }, {
       "party" : {
@@ -646,11 +646,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1556791"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Paddy Burke"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -683,6 +678,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Paddy Burke"
       }
     }, {
       "party" : {
@@ -744,11 +744,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1681029"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "James Reilly"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -781,6 +776,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "James Reilly"
       }
     }, {
       "party" : {
@@ -842,11 +842,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16866329"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Grace O'Sullivan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -879,6 +874,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Grace O'Sullivan"
       },
       "facebook" : {
         "type" : "literal",
@@ -944,11 +944,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16980068"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Gabrielle McFadden"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -981,6 +976,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Gabrielle McFadden"
       }
     }, {
       "party" : {
@@ -1037,11 +1037,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18217265"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Gerard Craughwell"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1074,6 +1069,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Gerard Craughwell"
       }
     }, {
       "party" : {
@@ -1135,11 +1135,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1900009"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Mark Daly"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1172,6 +1167,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Mark Daly"
       }
     }, {
       "party" : {
@@ -1228,11 +1228,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1928579"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Mícheál Mac Dubhghaill"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1265,6 +1260,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Mícheál Mac Dubhghaill"
       }
     }, {
       "party" : {
@@ -1321,11 +1321,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24006725"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lynn Ruane"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1358,6 +1353,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lynn Ruane"
       }
     }, {
       "party" : {
@@ -1414,11 +1414,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24049120"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Alice Mary Higgins"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1451,6 +1446,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Alice Mary Higgins"
       }
     }, {
       "party" : {
@@ -1512,11 +1512,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053488"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fintan Warfield"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1549,6 +1544,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fintan Warfield"
       }
     }, {
       "party" : {
@@ -1610,11 +1610,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053506"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tim Lombard"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1647,6 +1642,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tim Lombard"
       }
     }, {
       "party" : {
@@ -1708,11 +1708,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053519"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Jennifer Murnane-O'Connor"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1745,6 +1740,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Jennifer Murnane-O'Connor"
       },
       "facebook" : {
         "type" : "literal",
@@ -1810,11 +1810,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053520"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Robbie Gallagher"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1847,6 +1842,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Robbie Gallagher"
       }
     }, {
       "party" : {
@@ -1908,11 +1908,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053534"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Aidan Davitt"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -1945,6 +1940,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Aidan Davitt"
       },
       "facebook" : {
         "type" : "literal",
@@ -2010,11 +2010,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053535"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Gerry Horkan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2047,6 +2042,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Gerry Horkan"
       },
       "facebook" : {
         "type" : "literal",
@@ -2112,11 +2112,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24053543"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Maura Hopkins"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2149,6 +2144,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Maura Hopkins"
       },
       "facebook" : {
         "type" : "literal",
@@ -2214,11 +2214,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2405660"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Terry Leyden"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2251,6 +2246,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Terry Leyden"
       }
     }, {
       "party" : {
@@ -2307,11 +2307,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196921"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Victor Boyhan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2344,6 +2339,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Victor Boyhan"
       }
     }, {
       "party" : {
@@ -2405,11 +2405,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196922"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Rose Conway-Walsh"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2442,6 +2437,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Rose Conway-Walsh"
       }
     }, {
       "party" : {
@@ -2503,11 +2503,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196924"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Maria Byrne"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2540,6 +2535,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Maria Byrne"
       }
     }, {
       "party" : {
@@ -2601,11 +2601,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196925"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lorraine Clifford-Lee"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2638,6 +2633,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lorraine Clifford-Lee"
       }
     }, {
       "party" : {
@@ -2699,11 +2699,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196926"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Máire Devine"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2736,6 +2731,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Máire Devine"
       }
     }, {
       "party" : {
@@ -2797,11 +2797,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196927"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Paul Gavan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2834,6 +2829,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Paul Gavan"
       }
     }, {
       "party" : {
@@ -2895,11 +2895,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196928"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Keith Swanick"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2932,6 +2927,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Keith Swanick"
       }
     }, {
       "party" : {
@@ -2993,11 +2993,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196929"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Neale Richmond"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3030,6 +3025,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Neale Richmond"
       }
     }, {
       "party" : {
@@ -3091,11 +3091,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24196930"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Catherine Ardagh"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3128,6 +3123,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Catherine Ardagh"
       }
     }, {
       "party" : {
@@ -3184,11 +3184,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24266621"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Colette Kelleher"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3221,6 +3216,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Colette Kelleher"
       }
     }, {
       "party" : {
@@ -3277,11 +3277,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24266623"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Billy Lawless"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3314,6 +3309,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Billy Lawless"
       }
     }, {
       "party" : {
@@ -3370,11 +3370,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24266625"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Pádraig Ó Céidigh"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3407,6 +3402,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Pádraig Ó Céidigh"
       }
     }, {
       "party" : {
@@ -3468,11 +3468,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q25184047"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Paul Daly"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3505,6 +3500,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Paul Daly"
       }
     }, {
       "party" : {
@@ -3561,11 +3561,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q25184096"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "John Dolan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3598,6 +3593,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "John Dolan"
       },
       "facebook" : {
         "type" : "literal",
@@ -3658,11 +3658,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q25184305"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Joan Freeman"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3695,6 +3690,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Joan Freeman"
       }
     }, {
       "party" : {
@@ -3751,11 +3751,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3080811"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Frances Black"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3788,6 +3783,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Frances Black"
       }
     }, {
       "party" : {
@@ -3849,11 +3849,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3778315"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Niall Ó Donnghaile"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3886,6 +3881,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Niall Ó Donnghaile"
       }
     }, {
       "party" : {
@@ -3947,11 +3947,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4778602"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Aodhán Ó Ríordáin"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -3984,6 +3979,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Aodhán Ó Ríordáin"
       }
     }, {
       "party" : {
@@ -4045,11 +4045,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5052845"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Catherine Noone"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4082,6 +4077,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Catherine Noone"
       }
     }, {
       "party" : {
@@ -4143,11 +4143,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5257341"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Denis Landy"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4180,6 +4175,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Denis Landy"
       }
     }, {
       "party" : {
@@ -4241,11 +4241,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5549440"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Gerald Nash"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4278,6 +4273,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Gerald Nash"
       }
     }, {
       "party" : {
@@ -4339,11 +4339,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6097927"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ivana Bacik"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4376,6 +4371,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ivana Bacik"
       }
     }, {
       "party" : {
@@ -4437,11 +4437,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6183343"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Jerry Buttimer"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4474,6 +4469,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Jerry Buttimer"
       }
     }, {
       "party" : {
@@ -4535,11 +4535,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6211607"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Joe O'Reilly"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4572,6 +4567,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Joe O'Reilly"
       }
     }, {
       "party" : {
@@ -4633,11 +4633,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6250954"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "John O'Mahony"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4670,6 +4665,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "John O'Mahony"
       }
     }, {
       "party" : {
@@ -4731,11 +4731,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6396541"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Kevin Humphreys"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4768,6 +4763,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Kevin Humphreys"
       }
     }, {
       "party" : {
@@ -4829,11 +4829,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6405442"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Kieran O'Donnell"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4866,6 +4861,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Kieran O'Donnell"
       }
     }, {
       "party" : {
@@ -4922,11 +4922,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6762696"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Marie-Louise O'Donnell"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -4959,6 +4954,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Marie-Louise O'Donnell"
       }
     }, {
       "party" : {
@@ -5020,11 +5020,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6775185"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Martin Conway"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5057,6 +5052,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Martin Conway"
       }
     }, {
       "party" : {
@@ -5118,11 +5118,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6837190"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Michelle Mulherin"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5155,6 +5150,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Michelle Mulherin"
       }
     }, {
       "party" : {
@@ -5216,11 +5216,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7148855"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Paudie Coffey"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5253,6 +5248,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Paudie Coffey"
       }
     }, {
       "party" : {
@@ -5314,11 +5314,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7149890"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Paul Coghlan"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5351,6 +5346,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Paul Coghlan"
       }
     }, {
       "party" : {
@@ -5412,11 +5412,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7264002"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Pádraig Mac Lochlainn"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5449,6 +5444,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Pádraig Mac Lochlainn"
       }
     }, {
       "party" : {
@@ -5510,11 +5510,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7297275"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ray Butler (polaiteoir)"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5547,6 +5542,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ray Butler (polaiteoir)"
       }
     }, {
       "party" : {
@@ -5603,11 +5603,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7386552"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Rónán Mullen"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5640,6 +5635,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Rónán Mullen"
       }
     }, {
       "party" : {
@@ -5701,11 +5701,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7839512"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Trevor Ó Clochartaigh"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5738,6 +5733,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Trevor Ó Clochartaigh"
       }
     }, {
       "party" : {
@@ -5799,11 +5799,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q913290"
       },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Brian Ó Domhnaill"
-      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -5836,6 +5831,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-06-08T00:00:00Z"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Brian Ó Domhnaill"
       }
     } ]
   }

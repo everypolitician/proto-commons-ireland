@@ -4,37 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1761"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dublin"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
+        "value" : "http://www.wikidata.org/entity/statement/Q1443048-71933050-4c9a-5c62-b466-1427eed31881"
       },
       "item" : {
         "type" : "uri",
@@ -45,6 +17,38 @@
         "type" : "literal",
         "value" : "John Exshaw"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55082822"
@@ -54,46 +58,14 @@
         "type" : "literal",
         "value" : "office of the Lord Mayor of Dublin"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1443048-71933050-4c9a-5c62-b466-1427eed31881"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
       }
     }, {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1761"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dublin"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
+        "value" : "http://www.wikidata.org/entity/statement/Q25993038-25563265-4b9d-08ee-8575-c77dc74ffc7a"
       },
       "item" : {
         "type" : "uri",
@@ -104,6 +76,38 @@
         "type" : "literal",
         "value" : "Brendan Carr"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55082822"
@@ -113,10 +117,6 @@
         "type" : "literal",
         "value" : "office of the Lord Mayor of Dublin"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q25993038-25563265-4b9d-08ee-8575-c77dc74ffc7a"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
@@ -125,15 +125,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q503614"
       },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Páirtí an Lucht Oibre"
-      },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Labour Party"
+      },
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Páirtí an Lucht Oibre"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -141,37 +141,9 @@
         "value" : "2016-01-01T00:00:00Z"
       }
     }, {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1761"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dublin"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
+        "value" : "http://www.wikidata.org/entity/statement/Q3991506-A908FB4B-595F-4799-9A7F-E65290F957ED"
       },
       "item" : {
         "type" : "uri",
@@ -182,6 +154,38 @@
         "type" : "literal",
         "value" : "Timothy Daniel Sullivan"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55082822"
@@ -191,10 +195,6 @@
         "type" : "literal",
         "value" : "office of the Lord Mayor of Dublin"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3991506-A908FB4B-595F-4799-9A7F-E65290F957ED"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1761"
@@ -203,15 +203,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1311653"
       },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Páirtí Parlaiminteach na hÉireann"
-      },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Irish Parliamentary Party"
+      },
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Páirtí Parlaiminteach na hÉireann"
       },
       "name_ga" : {
         "xml:lang" : "ga",
@@ -219,37 +219,9 @@
         "value" : "Timothy Daniel Sullivan"
       }
     }, {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1761"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dublin"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13645132"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Dublin"
+        "value" : "http://www.wikidata.org/entity/statement/Q41536567-751fc08b-4d1b-2d1e-e9d9-5f085950c786"
       },
       "item" : {
         "type" : "uri",
@@ -260,6 +232,38 @@
         "type" : "literal",
         "value" : "Mícheál Mac Donncha"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1761"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dublin"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13645132"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor of Dublin"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11902879"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lord Mayor"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55082822"
@@ -268,10 +272,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "office of the Lord Mayor of Dublin"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q41536567-751fc08b-4d1b-2d1e-e9d9-5f085950c786"
       },
       "org_jurisdiction" : {
         "type" : "uri",

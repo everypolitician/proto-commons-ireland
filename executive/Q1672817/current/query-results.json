@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1728820-9e2ef31a-4f5e-90f1-1016-1031d2f680a3"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1728820"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Leo Varadkar"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Leo Varadkar"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q247135"
-      },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gael"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Fine Gael"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1728820"
+      "party_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gael"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Poblacht na hÉireann"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ireland"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Poblacht na hÉireann"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q191827"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q191827"
-      },
-      "role_superclass_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Taoiseach"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Taoiseach"
@@ -59,47 +64,42 @@
         "type" : "literal",
         "value" : "Taoiseach"
       },
-      "role_en" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-14T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14212"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taoiseach"
+        "value" : "prime minister"
       },
-      "name_ga" : {
+      "role_superclass_ga" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Leo Varadkar"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Leo Varadkar"
+        "value" : "Príomh-Aire"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1672817"
-      },
-      "org_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Rialtais na hÉireann"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Government of Ireland"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1728820-9e2ef31a-4f5e-90f1-1016-1031d2f680a3"
+      "org_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Rialtais na hÉireann"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-06-14T00:00:00Z"
       }
     } ]
   }

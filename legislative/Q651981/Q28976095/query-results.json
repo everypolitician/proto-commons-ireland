@@ -26,11 +26,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6487881"
       },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Laois"
-      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -100,6 +95,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Laois"
       }
     }, {
       "party" : {
@@ -123,11 +123,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1869725"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Maigh Eo"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -198,6 +193,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Maigh Eo"
       }
     }, {
       "party" : {
@@ -221,11 +221,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20620587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gall Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -296,6 +291,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gall Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -319,11 +319,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2622823"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -394,6 +389,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár"
       }
     }, {
       "party" : {
@@ -417,11 +417,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6394444"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ciarraí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -492,6 +487,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ciarraí"
       }
     }, {
       "party" : {
@@ -510,11 +510,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2622823"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -585,6 +580,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár"
       }
     }, {
       "party" : {
@@ -608,11 +608,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -684,6 +679,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -706,11 +706,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -781,6 +776,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-09-05T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
       },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -810,11 +810,6 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
       },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
-      },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -884,6 +879,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-02-02T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
       }
     }, {
       "party" : {
@@ -907,11 +907,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54932109"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Sligeach–Liatroim"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -982,6 +977,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Sligeach–Liatroim"
       }
     }, {
       "party" : {
@@ -1005,11 +1005,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54932109"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Sligeach–Liatroim"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1080,6 +1075,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Sligeach–Liatroim"
       }
     }, {
       "party" : {
@@ -1103,11 +1103,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549243"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cathair Luimneach"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1178,6 +1173,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cathair Luimneach"
       }
     }, {
       "party" : {
@@ -1201,11 +1201,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549243"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cathair Luimneach"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1276,6 +1271,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cathair Luimneach"
       }
     }, {
       "party" : {
@@ -1294,11 +1294,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2251639"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1369,6 +1364,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Gaillimhe"
       }
     }, {
       "party" : {
@@ -1392,11 +1392,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2635304"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1467,6 +1462,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -1485,11 +1485,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4568022"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1560,6 +1555,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear na Gaillimhe"
       }
     }, {
       "party" : {
@@ -1578,11 +1578,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7808886"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tiobraid Árann"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1653,6 +1648,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tiobraid Árann"
       }
     }, {
       "party" : {
@@ -1676,11 +1676,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310999"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1751,6 +1746,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar"
       }
     }, {
       "party" : {
@@ -1774,11 +1774,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310999"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1849,6 +1844,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar"
       }
     }, {
       "party" : {
@@ -1867,11 +1867,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7367587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ros Comáin–Gaillimh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -1942,6 +1937,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ros Comáin–Gaillimh"
       }
     }, {
       "party" : {
@@ -1965,11 +1965,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310969"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2040,6 +2035,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -2063,11 +2063,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2531985"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Iar-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2138,6 +2133,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Iar-Thuaisceart"
       }
     }, {
       "party" : {
@@ -2161,11 +2161,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5320426"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún Laoghaire"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2237,6 +2232,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún Laoghaire"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "richard.b.barrett.7"
@@ -2263,11 +2263,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6673850"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Longfort–Iarmhí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2338,6 +2333,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Longfort–Iarmhí"
       }
     }, {
       "party" : {
@@ -2361,11 +2361,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5320426"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún Laoghaire"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2436,6 +2431,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún Laoghaire"
       }
     }, {
       "party" : {
@@ -2454,11 +2454,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310953"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ráth an Dúin Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2529,6 +2524,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ráth an Dúin Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -2552,11 +2552,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310953"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ráth an Dúin Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2627,6 +2622,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ráth an Dúin Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -2650,11 +2650,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2641881"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar Láir Baile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2725,6 +2720,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar Láir Baile Átha Cliath"
       }
     }, {
       "party" : {
@@ -2748,11 +2748,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689841"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lú"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2823,6 +2818,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lú"
       }
     }, {
       "party" : {
@@ -2846,11 +2846,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2040462"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Mí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -2921,6 +2916,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Mí"
       }
     }, {
       "party" : {
@@ -2944,11 +2944,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3913273"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ceatharlach–Cill Chainnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3019,6 +3014,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ceatharlach–Cill Chainnigh"
       }
     }, {
       "party" : {
@@ -3037,11 +3037,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2570782"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cláir"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3112,6 +3107,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cláir"
       }
     }, {
       "party" : {
@@ -3135,11 +3135,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6406731"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3210,6 +3205,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Thuas"
       }
     }, {
       "party" : {
@@ -3233,11 +3233,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5320426"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún Laoghaire"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3308,6 +3303,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún Laoghaire"
       }
     }, {
       "party" : {
@@ -3331,11 +3331,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3406,6 +3401,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
       }
     }, {
       "party" : {
@@ -3429,11 +3429,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6394444"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ciarraí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3505,6 +3500,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ciarraí"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "CouncillorJohnBrassil"
@@ -3531,11 +3531,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689841"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lú"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3606,6 +3601,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lú"
       }
     }, {
       "party" : {
@@ -3629,11 +3629,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310971"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3704,6 +3699,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar Theas"
       }
     }, {
       "party" : {
@@ -3727,11 +3727,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3458611"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Loch Garman"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3802,6 +3797,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Loch Garman"
       }
     }, {
       "party" : {
@@ -3825,11 +3825,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16951667"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear Chorcaí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3900,6 +3895,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear Chorcaí"
       }
     }, {
       "party" : {
@@ -3923,11 +3923,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6673850"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Longfort–Iarmhí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -3998,6 +3993,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Longfort–Iarmhí"
       }
     }, {
       "party" : {
@@ -4021,11 +4021,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2109423"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Port Láirge"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4096,6 +4091,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Port Láirge"
       }
     }, {
       "party" : {
@@ -4119,11 +4119,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7808886"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tiobraid Árann"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4194,6 +4189,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tiobraid Árann"
       }
     }, {
       "party" : {
@@ -4217,11 +4217,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4292,6 +4287,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
       }
     }, {
       "party" : {
@@ -4315,11 +4315,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1869725"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Maigh Eo"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4390,6 +4385,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Maigh Eo"
       }
     }, {
       "party" : {
@@ -4413,11 +4413,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310999"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4488,6 +4483,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar"
       }
     }, {
       "party" : {
@@ -4506,11 +4506,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2746787"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4581,6 +4576,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Thiar Theas"
       }
     }, {
       "party" : {
@@ -4599,11 +4599,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6394444"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ciarraí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4674,6 +4669,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ciarraí"
       }
     }, {
       "party" : {
@@ -4697,11 +4697,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54932109"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Sligeach–Liatroim"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4772,6 +4767,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Sligeach–Liatroim"
       }
     }, {
       "party" : {
@@ -4795,11 +4795,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310971"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4870,6 +4865,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar Theas"
       }
     }, {
       "party" : {
@@ -4893,11 +4893,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6406731"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -4968,6 +4963,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Thuas"
       }
     }, {
       "party" : {
@@ -4991,11 +4991,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310953"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ráth an Dúin Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5066,6 +5061,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ráth an Dúin Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -5089,11 +5089,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310820"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5164,6 +5159,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Thuas"
       }
     }, {
       "party" : {
@@ -5182,11 +5182,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6673850"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Longfort–Iarmhí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5257,6 +5252,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Longfort–Iarmhí"
       }
     }, {
       "party" : {
@@ -5280,11 +5280,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3147235"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Thiar Thuaidh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5355,6 +5350,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Thiar Thuaidh"
       }
     }, {
       "party" : {
@@ -5378,11 +5378,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2746787"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5453,6 +5448,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Thiar Theas"
       }
     }, {
       "party" : {
@@ -5476,11 +5476,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7367587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ros Comáin–Gaillimh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5551,6 +5546,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ros Comáin–Gaillimh"
       }
     }, {
       "party" : {
@@ -5574,11 +5574,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549251"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Contae Luimnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5649,6 +5644,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Contae Luimnigh"
       }
     }, {
       "party" : {
@@ -5672,11 +5672,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7079018"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Uíbh Fhailí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5748,6 +5743,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Uíbh Fhailí"
+      },
       "end" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -5770,11 +5770,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7079018"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Uíbh Fhailí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5845,6 +5840,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2018-03-22T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Uíbh Fhailí"
       }
     }, {
       "party" : {
@@ -5868,11 +5868,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310822"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -5943,6 +5938,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Theas"
       }
     }, {
       "party" : {
@@ -5966,11 +5966,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310822"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6041,6 +6036,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Theas"
       }
     }, {
       "party" : {
@@ -6064,11 +6064,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16951667"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear Chorcaí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6139,6 +6134,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear Chorcaí"
       }
     }, {
       "party" : {
@@ -6162,11 +6162,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2635304"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6238,6 +6233,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Dheisceart"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "dolaoghaire"
@@ -6264,11 +6264,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17088606"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6340,6 +6335,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Theas"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "fiona.oloughlin.712"
@@ -6366,11 +6366,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20620587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gall Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6442,6 +6437,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gall Bhaile Átha Cliath"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "louiseoreillysf"
@@ -6468,11 +6468,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4568022"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6544,6 +6539,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear na Gaillimhe"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "annerabbitteportumna"
@@ -6570,11 +6570,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2701743"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cabhán–Muineachán"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6646,6 +6641,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cabhán–Muineachán"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "Niamh-Smyth-TD-93989541824"
@@ -6672,11 +6672,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2570782"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cláir"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6747,6 +6742,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cláir"
       }
     }, {
       "party" : {
@@ -6770,11 +6770,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5295599"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún na nGall"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6845,6 +6840,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún na nGall"
       }
     }, {
       "party" : {
@@ -6868,11 +6868,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2251639"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -6943,6 +6938,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Gaillimhe"
       }
     }, {
       "party" : {
@@ -6966,11 +6966,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310820"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7041,6 +7036,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Thuas"
       }
     }, {
       "party" : {
@@ -7064,11 +7064,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20620587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gall Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7139,6 +7134,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gall Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -7162,11 +7162,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4568022"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7237,6 +7232,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear na Gaillimhe"
       }
     }, {
       "party" : {
@@ -7260,11 +7260,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3147235"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Thiar Thuaidh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7335,6 +7330,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Thiar Thuaidh"
       }
     }, {
       "party" : {
@@ -7358,11 +7358,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6487881"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Laois"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7433,6 +7428,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Laois"
       }
     }, {
       "party" : {
@@ -7456,11 +7456,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310820"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7531,6 +7526,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Thuas"
       }
     }, {
       "party" : {
@@ -7554,11 +7554,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3458611"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Loch Garman"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7629,6 +7624,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Loch Garman"
       }
     }, {
       "party" : {
@@ -7652,11 +7652,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1869725"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Maigh Eo"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7727,6 +7722,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Maigh Eo"
       }
     }, {
       "party" : {
@@ -7750,11 +7750,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2531985"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Iar-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7825,6 +7820,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Iar-Thuaisceart"
       }
     }, {
       "party" : {
@@ -7848,11 +7848,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689841"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lú"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -7923,6 +7918,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lú"
       }
     }, {
       "party" : {
@@ -7946,11 +7946,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2109423"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Port Láirge"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8021,6 +8016,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Port Láirge"
       }
     }, {
       "party" : {
@@ -8044,11 +8044,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16951667"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear Chorcaí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8119,6 +8114,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear Chorcaí"
       }
     }, {
       "party" : {
@@ -8142,11 +8142,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2040462"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Mí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8217,6 +8212,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Mí"
       }
     }, {
       "party" : {
@@ -8240,11 +8240,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6406731"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8315,6 +8310,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Thuas"
       }
     }, {
       "party" : {
@@ -8333,11 +8333,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7367587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ros Comáin–Gaillimh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8408,6 +8403,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ros Comáin–Gaillimh"
       }
     }, {
       "party" : {
@@ -8431,11 +8431,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310999"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8506,6 +8501,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar"
       }
     }, {
       "party" : {
@@ -8529,11 +8529,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549243"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cathair Luimneach"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8604,6 +8599,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cathair Luimneach"
       }
     }, {
       "party" : {
@@ -8627,11 +8627,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7808886"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tiobraid Árann"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8702,6 +8697,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tiobraid Árann"
       }
     }, {
       "party" : {
@@ -8725,11 +8725,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3458611"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Loch Garman"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8800,6 +8795,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Loch Garman"
       }
     }, {
       "party" : {
@@ -8823,11 +8823,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2701743"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cabhán–Muineachán"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8898,6 +8893,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cabhán–Muineachán"
       }
     }, {
       "party" : {
@@ -8921,11 +8921,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2622823"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -8996,6 +8991,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár"
       }
     }, {
       "party" : {
@@ -9019,11 +9019,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310969"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9094,6 +9089,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -9117,11 +9117,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20620587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gall Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9192,6 +9187,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gall Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -9215,11 +9215,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9290,6 +9285,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
       }
     }, {
       "party" : {
@@ -9313,11 +9313,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7079018"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Uíbh Fhailí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9388,6 +9383,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Uíbh Fhailí"
       }
     }, {
       "party" : {
@@ -9411,11 +9411,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20620587"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gall Bhaile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9486,6 +9481,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Fine Gall Bhaile Átha Cliath"
       }
     }, {
       "party" : {
@@ -9509,11 +9509,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6487881"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Laois"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9584,6 +9579,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Laois"
       }
     }, {
       "party" : {
@@ -9607,11 +9607,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2701743"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cabhán–Muineachán"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9682,6 +9677,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cabhán–Muineachán"
       }
     }, {
       "party" : {
@@ -9700,11 +9700,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2251639"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9775,6 +9770,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Gaillimhe"
       }
     }, {
       "party" : {
@@ -9798,11 +9798,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6406731"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9873,6 +9868,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Thuas"
       }
     }, {
       "party" : {
@@ -9896,11 +9896,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5295599"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún na nGall"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -9971,6 +9966,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún na nGall"
       }
     }, {
       "party" : {
@@ -9994,11 +9994,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2357143"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10069,6 +10064,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Thuaisceart"
       }
     }, {
       "party" : {
@@ -10092,11 +10092,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2109423"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Port Láirge"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10167,6 +10162,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Port Láirge"
       }
     }, {
       "party" : {
@@ -10190,11 +10190,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2531985"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Iar-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10265,6 +10260,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Iar-Thuaisceart"
       }
     }, {
       "party" : {
@@ -10288,11 +10288,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6673850"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Longfort–Iarmhí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10363,6 +10358,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Longfort–Iarmhí"
       }
     }, {
       "party" : {
@@ -10386,11 +10386,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54932109"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Sligeach–Liatroim"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10461,6 +10456,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Sligeach–Liatroim"
       }
     }, {
       "party" : {
@@ -10484,11 +10484,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310822"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10559,6 +10554,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Theas"
       }
     }, {
       "party" : {
@@ -10582,11 +10582,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2641881"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar Láir Baile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10658,6 +10653,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar Láir Baile Átha Cliath"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "eoin.broin"
@@ -10684,11 +10684,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2641881"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar Láir Baile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10759,6 +10754,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar Láir Baile Átha Cliath"
       }
     }, {
       "party" : {
@@ -10782,11 +10782,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310969"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10857,6 +10852,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -10875,11 +10875,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310820"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -10950,6 +10945,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Thuas"
       }
     }, {
       "party" : {
@@ -10973,11 +10973,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2357143"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11048,6 +11043,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Thuaisceart"
       }
     }, {
       "party" : {
@@ -11071,11 +11071,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2570782"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cláir"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11147,6 +11142,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cláir"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "PatBreenTD"
@@ -11173,11 +11173,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2701743"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cabhán–Muineachán"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11248,6 +11243,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cabhán–Muineachán"
       }
     }, {
       "party" : {
@@ -11271,11 +11271,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2251639"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11346,6 +11341,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Gaillimhe"
       }
     }, {
       "party" : {
@@ -11369,11 +11369,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310971"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11444,6 +11439,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar Theas"
       }
     }, {
       "party" : {
@@ -11467,11 +11467,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2746787"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11542,6 +11537,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Thiar Theas"
       }
     }, {
       "party" : {
@@ -11565,11 +11565,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310969"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11640,6 +11635,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -11663,11 +11663,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2570782"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cláir"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11738,6 +11733,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cláir"
       }
     }, {
       "party" : {
@@ -11761,11 +11761,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5295599"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún na nGall"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11836,6 +11831,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún na nGall"
       }
     }, {
       "party" : {
@@ -11859,11 +11859,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2641881"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar Láir Baile Átha Cliath"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -11934,6 +11929,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar Láir Baile Átha Cliath"
       }
     }, {
       "party" : {
@@ -11952,11 +11952,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2109423"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Port Láirge"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12027,6 +12022,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Port Láirge"
       }
     }, {
       "party" : {
@@ -12050,11 +12050,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3913273"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ceatharlach–Cill Chainnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12125,6 +12120,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ceatharlach–Cill Chainnigh"
       }
     }, {
       "party" : {
@@ -12148,11 +12148,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3913273"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ceatharlach–Cill Chainnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12223,6 +12218,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ceatharlach–Cill Chainnigh"
       }
     }, {
       "party" : {
@@ -12246,11 +12246,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2357143"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12321,6 +12316,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Thuaisceart"
       }
     }, {
       "party" : {
@@ -12339,11 +12339,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310971"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12414,6 +12409,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar Theas"
       }
     }, {
       "party" : {
@@ -12437,11 +12437,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7079018"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Uíbh Fhailí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12512,6 +12507,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Uíbh Fhailí"
       }
     }, {
       "party" : {
@@ -12535,11 +12535,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6394444"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ciarraí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12610,6 +12605,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ciarraí"
       }
     }, {
       "party" : {
@@ -12633,11 +12633,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17088606"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12708,6 +12703,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Theas"
       }
     }, {
       "party" : {
@@ -12731,11 +12731,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5320426"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún Laoghaire"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12806,6 +12801,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún Laoghaire"
       }
     }, {
       "party" : {
@@ -12824,11 +12824,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7808886"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tiobraid Árann"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12899,6 +12894,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tiobraid Árann"
       }
     }, {
       "party" : {
@@ -12922,11 +12922,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549243"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cathair Luimneach"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -12997,6 +12992,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cathair Luimneach"
       }
     }, {
       "party" : {
@@ -13020,11 +13020,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3147235"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Thiar Thuaidh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13095,6 +13090,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Thiar Thuaidh"
       }
     }, {
       "party" : {
@@ -13113,11 +13113,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6394444"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ciarraí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13188,6 +13183,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ciarraí"
       }
     }, {
       "party" : {
@@ -13211,11 +13211,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2635304"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13286,6 +13281,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -13309,11 +13309,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3458611"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Loch Garman"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13384,6 +13379,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Loch Garman"
       }
     }, {
       "party" : {
@@ -13407,11 +13407,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2357143"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Thuaisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13482,6 +13477,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Thuaisceart"
       }
     }, {
       "party" : {
@@ -13505,11 +13505,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3458611"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Loch Garman"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13580,6 +13575,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Loch Garman"
       }
     }, {
       "party" : {
@@ -13603,11 +13603,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549251"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Contae Luimnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13678,6 +13673,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Contae Luimnigh"
       }
     }, {
       "party" : {
@@ -13701,11 +13701,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3913273"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ceatharlach–Cill Chainnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13776,6 +13771,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ceatharlach–Cill Chainnigh"
       }
     }, {
       "party" : {
@@ -13799,11 +13799,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6549251"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Contae Luimnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13874,6 +13869,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Contae Luimnigh"
       }
     }, {
       "party" : {
@@ -13897,11 +13897,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2040462"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Mí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -13972,6 +13967,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Mí"
       }
     }, {
       "party" : {
@@ -13995,11 +13995,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689841"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lú"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14070,6 +14065,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lú"
       }
     }, {
       "party" : {
@@ -14093,11 +14093,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1929591"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear na Mí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14168,6 +14163,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear na Mí"
       }
     }, {
       "party" : {
@@ -14191,11 +14191,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310971"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Baile Átha Cliath Thiar Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14267,6 +14262,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Baile Átha Cliath Thiar Theas"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "seancrowesinnfein"
@@ -14293,11 +14293,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2251639"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Iarthar na Gaillimhe"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14368,6 +14363,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Iarthar na Gaillimhe"
       }
     }, {
       "party" : {
@@ -14391,11 +14391,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16951667"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear Chorcaí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14466,6 +14461,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear Chorcaí"
       }
     }, {
       "party" : {
@@ -14489,11 +14489,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17088606"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Dara Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14564,6 +14559,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Dara Theas"
       }
     }, {
       "party" : {
@@ -14587,11 +14587,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2380581"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cill Mhantáin"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14662,6 +14657,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cill Mhantáin"
       }
     }, {
       "party" : {
@@ -14685,11 +14685,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6689841"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Lú"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14761,6 +14756,11 @@
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
       },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Lú"
+      },
       "facebook" : {
         "type" : "literal",
         "value" : "gerry.adams.503"
@@ -14787,11 +14787,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7808886"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Tiobraid Árann"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14862,6 +14857,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Tiobraid Árann"
       }
     }, {
       "party" : {
@@ -14885,11 +14885,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1929591"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear na Mí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -14960,6 +14955,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear na Mí"
       }
     }, {
       "party" : {
@@ -14978,11 +14978,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5295599"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún na nGall"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15053,6 +15048,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún na nGall"
       }
     }, {
       "party" : {
@@ -15076,11 +15076,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3913273"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Ceatharlach–Cill Chainnigh"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15151,6 +15146,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Ceatharlach–Cill Chainnigh"
       }
     }, {
       "party" : {
@@ -15174,11 +15174,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1929591"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Oirthear na Mí"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15249,6 +15244,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Oirthear na Mí"
       }
     }, {
       "party" : {
@@ -15272,11 +15272,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310822"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Theas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15347,6 +15342,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Theas"
       }
     }, {
       "party" : {
@@ -15370,11 +15370,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2635304"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh Lár-Dheisceart"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15445,6 +15440,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Corcaigh Lár-Dheisceart"
       }
     }, {
       "party" : {
@@ -15468,11 +15468,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5310820"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Cuan Bhaile Átha Cliath Thuas"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15543,6 +15538,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Cuan Bhaile Átha Cliath Thuas"
       }
     }, {
       "party" : {
@@ -15566,11 +15566,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5295599"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Dún na nGall"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15641,6 +15636,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dún na nGall"
       }
     }, {
       "party" : {
@@ -15664,11 +15664,6 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1869725"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Maigh Eo"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -15739,6 +15734,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Maigh Eo"
       }
     } ]
   }
