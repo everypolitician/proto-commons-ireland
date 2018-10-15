@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Longford County Council"
+      },
+      "id": "Q54931492",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931492"
+        }
+      ],
+      "area_id": "Q186220",
+      "seat_counts": {
+        "Q54932487": "18"
+      }
+    }
   ],
   "areas": [
     {

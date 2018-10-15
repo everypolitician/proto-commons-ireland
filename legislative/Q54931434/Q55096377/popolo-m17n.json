@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Donegal County Council"
+      },
+      "id": "Q54931434",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931434"
+        }
+      ],
+      "area_id": "Q179424",
+      "seat_counts": {
+        "Q54932518": "37"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Sligo County Council"
+      },
+      "id": "Q55082873",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082873"
+        }
+      ],
+      "area_id": "Q179325"
+    }
   ],
   "areas": [
     {

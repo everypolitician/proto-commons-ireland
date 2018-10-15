@@ -163,9 +163,9 @@
       "person_id": "Q1443048",
       "organization_id": "Q55082822",
       "area_id": "Q1761",
-      "role_superclass_code": "Q13645132",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "Lord Mayor of Dublin"
+        "lang:en": "Lord Mayor"
       },
       "role_code": "Q13645132",
       "role": {
@@ -179,9 +179,9 @@
       "organization_id": "Q55082822",
       "area_id": "Q1761",
       "start_date": "2016-01-01",
-      "role_superclass_code": "Q13645132",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "Lord Mayor of Dublin"
+        "lang:en": "Lord Mayor"
       },
       "role_code": "Q13645132",
       "role": {
@@ -194,9 +194,9 @@
       "on_behalf_of_id": "Q1311653",
       "organization_id": "Q55082822",
       "area_id": "Q1761",
-      "role_superclass_code": "Q13645132",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "Lord Mayor of Dublin"
+        "lang:en": "Lord Mayor"
       },
       "role_code": "Q13645132",
       "role": {
@@ -209,9 +209,9 @@
       "organization_id": "Q55082822",
       "area_id": "Q1761",
       "start_date": "2017-06-26",
-      "role_superclass_code": "Q13645132",
+      "role_superclass_code": "Q11902879",
       "role_superclass": {
-        "lang:en": "Lord Mayor of Dublin"
+        "lang:en": "Lord Mayor"
       },
       "role_code": "Q13645132",
       "role": {

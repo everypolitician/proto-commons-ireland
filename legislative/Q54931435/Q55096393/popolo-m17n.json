@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Monaghan County Council"
+      },
+      "id": "Q54931435",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931435"
+        }
+      ],
+      "area_id": "Q184760",
+      "seat_counts": {
+        "Q54932519": "18"
+      }
+    }
   ],
   "areas": [
     {

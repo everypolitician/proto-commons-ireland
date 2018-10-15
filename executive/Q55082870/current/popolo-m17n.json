@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Leitrim County Council"
+      },
+      "id": "Q55082870",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082870"
+        }
+      ],
+      "area_id": "Q107397"
+    }
   ],
   "areas": [
     {

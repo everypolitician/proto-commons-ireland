@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Donegal County Council"
+      },
+      "id": "Q55082879",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082879"
+        }
+      ],
+      "area_id": "Q179424"
+    }
   ],
   "areas": [
     {

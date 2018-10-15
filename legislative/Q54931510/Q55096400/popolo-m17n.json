@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Westmeath County Council"
+      },
+      "id": "Q54931510",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931510"
+        }
+      ],
+      "area_id": "Q182633",
+      "seat_counts": {
+        "Q54932494": "20"
+      }
+    }
   ],
   "areas": [
     {

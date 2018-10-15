@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Clare County Council"
+      },
+      "id": "Q55082859",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082859"
+        }
+      ],
+      "area_id": "Q181862"
+    }
   ],
   "areas": [
     {

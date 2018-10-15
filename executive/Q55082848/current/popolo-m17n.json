@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Mayor of South Dublin County"
+      },
+      "id": "Q55082848",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082848"
+        }
+      ],
+      "area_id": "Q822865"
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Mayor of Kildare"
+      },
+      "id": "Q55082849",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082849"
+        }
+      ],
+      "area_id": "Q173332"
+    }
   ],
   "areas": [
     {

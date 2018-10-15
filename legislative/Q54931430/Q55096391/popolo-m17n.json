@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Mayo County Council"
+      },
+      "id": "Q54931430",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931430"
+        }
+      ],
+      "area_id": "Q178626",
+      "seat_counts": {
+        "Q54932514": "30"
+      }
+    }
   ],
   "areas": [
     {

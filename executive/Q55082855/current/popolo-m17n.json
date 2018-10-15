@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Offaly County Council"
+      },
+      "id": "Q55082855",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082855"
+        }
+      ],
+      "area_id": "Q184445"
+    }
   ],
   "areas": [
     {

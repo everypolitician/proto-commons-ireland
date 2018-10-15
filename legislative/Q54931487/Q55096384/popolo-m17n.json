@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Kildare County Council"
+      },
+      "id": "Q54931487",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931487"
+        }
+      ],
+      "area_id": "Q173332",
+      "seat_counts": {
+        "Q54932484": "40"
+      }
+    }
   ],
   "areas": [
     {
