@@ -1,85 +1,112 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_ga", "party", "party_name_en", "party_name_ga", "district", "district_name_en", "district_name_ga", "role", "role_en", "role_ga", "role_superclass", "role_superclass_en", "role_superclass_ga", "start", "end", "facebook", "org", "org_en", "org_ga", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_ga",
+      "party",
+      "party_name_en",
+      "party_name_ga",
+      "district",
+      "district_name_en",
+      "district_name_ga",
+      "role",
+      "role_en",
+      "role_ga",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_ga",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_en",
+      "org_ga",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q76382"
-      },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Sinn Féin"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sinn Féin"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q55083470-D24785BA-BE14-4A15-B854-95A547CAC1CF"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54945225"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cork City South-West"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54932498"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor in Cork City Council"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55083470"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Henry Cremin"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54931538"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "legislative body of Cork City Council"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36647"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "31"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "CouncillorHenryCremin"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q55083470-D24785BA-BE14-4A15-B854-95A547CAC1CF"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55083470"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Henry Cremin"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q76382"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Sinn Féin"
+        },
+        "party_name_ga": {
+          "xml:lang": "ga",
+          "type": "literal",
+          "value": "Sinn Féin"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54945225"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cork City South-West"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54932498"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor in Cork City Council"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "CouncillorHenryCremin"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q54931538"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "legislative body of Cork City Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36647"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "31"
+        }
       }
-    } ]
+    ]
   }
 }

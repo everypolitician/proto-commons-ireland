@@ -1,90 +1,116 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_ga", "party", "party_name_en", "party_name_ga", "district", "district_name_en", "district_name_ga", "role", "role_en", "role_ga", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_ga", "org", "org_en", "org_ga", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_ga",
+      "party",
+      "party_name_en",
+      "party_name_ga",
+      "district",
+      "district_name_en",
+      "district_name_ga",
+      "role",
+      "role_en",
+      "role_ga",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_ga",
+      "org",
+      "org_en",
+      "org_ga",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q247135"
-      },
-      "party_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Fine Gael"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fine Gael"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1183377"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36647"
-      },
-      "district_name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Corcaigh"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cork"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6679767"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6679767"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Cork"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lord Mayor of Cork"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Deirdre Clune"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55082860"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "office of the Lord Mayor of Cork"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1183377-1E25D6CF-AE71-46C8-BCB3-9804E97AB6FE"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q36647"
-      },
-      "name_ga" : {
-        "xml:lang" : "ga",
-        "type" : "literal",
-        "value" : "Deirdre Clune"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "deirdreclunemep"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q1183377-1E25D6CF-AE71-46C8-BCB3-9804E97AB6FE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1183377"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Deirdre Clune"
+        },
+        "name_ga": {
+          "xml:lang": "ga",
+          "type": "literal",
+          "value": "Deirdre Clune"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q247135"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Fine Gael"
+        },
+        "party_name_ga": {
+          "xml:lang": "ga",
+          "type": "literal",
+          "value": "Fine Gael"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36647"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cork"
+        },
+        "district_name_ga": {
+          "xml:lang": "ga",
+          "type": "literal",
+          "value": "Corcaigh"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6679767"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lord Mayor of Cork"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "deirdreclunemep"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11902879"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Lord Mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55082860"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "office of the Lord Mayor of Cork"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36647"
+        }
       }
-    } ]
+    ]
   }
 }
