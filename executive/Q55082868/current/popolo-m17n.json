@@ -50,6 +50,20 @@
     },
     {
       "name": {
+        "lang:en": "Fine Gael",
+        "lang:ga": "Fine Gael"
+      },
+      "id": "Q247135",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q247135"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Green Party",
         "lang:ga": "Comhaontas Glas"
       },
@@ -132,6 +146,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5761616-839d634e-48aa-a7cf-034f-207dd2311f2c",
       "person_id": "Q5761616",
+      "on_behalf_of_id": "Q247135",
       "organization_id": "Q55082868",
       "area_id": "Q129610",
       "role_superclass_code": "Q6797712",

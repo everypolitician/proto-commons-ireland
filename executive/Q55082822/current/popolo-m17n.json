@@ -2,6 +2,36 @@
   "persons": [
     {
       "name": {
+        "lang:en": "John Exshaw"
+      },
+      "id": "Q1443048",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443048"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Peter Paul McSwiney"
+      },
+      "id": "Q2077461",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2077461"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Brendan Carr"
       },
       "id": "Q25993038",
@@ -17,7 +47,8 @@
     },
     {
       "name": {
-        "lang:en": "Timothy Daniel Sullivan"
+        "lang:en": "Timothy Daniel Sullivan",
+        "lang:ga": "Timothy Daniel Sullivan"
       },
       "id": "Q3991506",
       "identifiers": [
@@ -89,6 +120,20 @@
           "identifier": "Q503614"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Sinn Féin",
+        "lang:ga": "Sinn Féin"
+      },
+      "id": "Q76382",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q76382"
+        }
+      ]
     }
   ],
   "areas": [
@@ -143,6 +188,34 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1443048-71933050-4c9a-5c62-b466-1427eed31881",
+      "person_id": "Q1443048",
+      "organization_id": "Q55082822",
+      "area_id": "Q1761",
+      "role_superclass_code": "Q13645132",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Dublin"
+      },
+      "role_code": "Q13645132",
+      "role": {
+        "lang:en": "Lord Mayor of Dublin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2077461-9d7d3771-4e33-4cc3-71a6-9fac0d6cd49c",
+      "person_id": "Q2077461",
+      "organization_id": "Q55082822",
+      "area_id": "Q1761",
+      "role_superclass_code": "Q13645132",
+      "role_superclass": {
+        "lang:en": "Lord Mayor of Dublin"
+      },
+      "role_code": "Q13645132",
+      "role": {
+        "lang:en": "Lord Mayor of Dublin"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q25993038-25563265-4b9d-08ee-8575-c77dc74ffc7a",
       "person_id": "Q25993038",
       "on_behalf_of_id": "Q503614",
@@ -176,6 +249,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q41536567-751fc08b-4d1b-2d1e-e9d9-5f085950c786",
       "person_id": "Q41536567",
+      "on_behalf_of_id": "Q76382",
       "organization_id": "Q55082822",
       "area_id": "Q1761",
       "start_date": "2017-06-26",
