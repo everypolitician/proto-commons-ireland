@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Waterford City and County Council"
+      },
+      "id": "Q54931556",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931556"
+        }
+      ],
+      "area_id": "Q184594",
+      "seat_counts": {
+        "Q54932507": "32"
+      }
+    }
   ],
   "areas": [
     {

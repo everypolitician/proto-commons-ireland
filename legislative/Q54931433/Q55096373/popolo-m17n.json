@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Cavan County Council"
+      },
+      "id": "Q54931433",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931433"
+        }
+      ],
+      "area_id": "Q187402",
+      "seat_counts": {
+        "Q54932517": "18"
+      }
+    }
   ],
   "areas": [
     {

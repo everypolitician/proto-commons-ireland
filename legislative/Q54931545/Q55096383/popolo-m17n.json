@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Kerry County Council"
+      },
+      "id": "Q54931545",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931545"
+        }
+      ],
+      "area_id": "Q184469",
+      "seat_counts": {
+        "Q54932503": "33"
+      }
+    }
   ],
   "areas": [
     {

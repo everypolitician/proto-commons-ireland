@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Cork County Council"
+      },
+      "id": "Q54931541",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931541"
+        }
+      ],
+      "area_id": "Q162475",
+      "seat_counts": {
+        "Q54932499": "55"
+      }
+    }
   ],
   "areas": [
     {

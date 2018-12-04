@@ -134,9 +134,9 @@
       "on_behalf_of_id": "Q831015",
       "organization_id": "Q55082868",
       "area_id": "Q129610",
-      "role_superclass_code": "Q6797712",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Mayor of Galway"
+        "lang:en": "mayor"
       },
       "role_code": "Q6797712",
       "role": {
@@ -149,9 +149,9 @@
       "on_behalf_of_id": "Q247135",
       "organization_id": "Q55082868",
       "area_id": "Q129610",
-      "role_superclass_code": "Q6797712",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:en": "Mayor of Galway"
+        "lang:en": "mayor"
       },
       "role_code": "Q6797712",
       "role": {

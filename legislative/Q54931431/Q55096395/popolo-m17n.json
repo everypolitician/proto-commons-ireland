@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Roscommon County Council"
+      },
+      "id": "Q54931431",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931431"
+        }
+      ],
+      "area_id": "Q179437",
+      "seat_counts": {
+        "Q54932515": "18"
+      }
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Wicklow County Council"
+      },
+      "id": "Q54931531",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931531"
+        }
+      ],
+      "area_id": "Q182591",
+      "seat_counts": {
+        "Q54932496": "32"
+      }
+    }
   ],
   "areas": [
     {

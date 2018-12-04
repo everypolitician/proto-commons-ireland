@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Meath County Council"
+      },
+      "id": "Q55082854",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082854"
+        }
+      ],
+      "area_id": "Q183544"
+    }
   ],
   "areas": [
     {

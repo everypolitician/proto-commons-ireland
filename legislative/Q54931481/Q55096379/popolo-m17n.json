@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Dún Laoghaire-Rathdown County Council"
+      },
+      "id": "Q54931481",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931481"
+        }
+      ],
+      "area_id": "Q538417",
+      "seat_counts": {
+        "Q54932481": "40"
+      }
+    }
   ],
   "areas": [
     {

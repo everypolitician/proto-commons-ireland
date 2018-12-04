@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Clare County Council"
+      },
+      "id": "Q54931536",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931536"
+        }
+      ],
+      "area_id": "Q181862",
+      "seat_counts": {
+        "Q54932497": "28"
+      }
+    }
   ],
   "areas": [
     {

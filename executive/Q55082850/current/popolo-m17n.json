@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Mayor of Kilkenny"
+      },
+      "id": "Q55082850",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082850"
+        }
+      ],
+      "area_id": "Q180231"
+    }
   ],
   "areas": [
     {

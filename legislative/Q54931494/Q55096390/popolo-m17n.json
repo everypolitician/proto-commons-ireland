@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Louth County Council"
+      },
+      "id": "Q54931494",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931494"
+        }
+      ],
+      "area_id": "Q183539",
+      "seat_counts": {
+        "Q54932491": "29"
+      }
+    }
   ],
   "areas": [
     {

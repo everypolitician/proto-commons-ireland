@@ -1,0 +1,1050 @@
+[
+  {
+    "role_id": "Q13645132",
+    "role_name": {
+      "lang:en": "Lord Mayor of Dublin"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": null,
+    "organization_id": "Q55082822",
+    "organization_name": {
+      "lang:en": "office of the Lord Mayor of Dublin"
+    }
+  },
+  {
+    "role_id": "Q16152907",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Kilkenny"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082850",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Kilkenny"
+    }
+  },
+  {
+    "role_id": "Q18043391",
+    "role_name": {
+      "lang:en": "senator of Ireland",
+      "lang:ga": "seanadóir na hÉireann"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:en": "senator",
+      "lang:ga": "seanadóir"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1127591",
+    "organization_name": {
+      "lang:en": "Seanad Éireann",
+      "lang:ga": "Seanad Éireann"
+    }
+  },
+  {
+    "role_id": "Q191827",
+    "role_name": {
+      "lang:en": "Taoiseach",
+      "lang:ga": "Taoiseach"
+    },
+    "generic_role_id": "Q14212",
+    "generic_role_name": {
+      "lang:en": "prime minister",
+      "lang:ga": "Príomh-Aire"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q1672817",
+    "organization_name": {
+      "lang:en": "Government of Ireland",
+      "lang:ga": "Rialtais na hÉireann"
+    }
+  },
+  {
+    "role_id": "Q30587682",
+    "role_name": {
+      "lang:en": "Mayor of the City and County of Limerick"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082863",
+    "organization_name": {
+      "lang:en": "office of the Mayor of the City and County of Limerick"
+    }
+  },
+  {
+    "role_id": "Q54931473",
+    "role_name": {
+      "lang:en": "Cathaoirleach of County Carlow"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082821",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of County Carlow"
+    }
+  },
+  {
+    "role_id": "Q54931479",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Dún Laoghaire–Rathdown County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082846",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Dún Laoghaire–Rathdown County Council"
+    }
+  },
+  {
+    "role_id": "Q54931482",
+    "role_name": {
+      "lang:en": "Mayor of Fingal"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082847",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Fingal"
+    }
+  },
+  {
+    "role_id": "Q54931484",
+    "role_name": {
+      "lang:en": "Mayor of South Dublin County"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082848",
+    "organization_name": {
+      "lang:en": "office of the Mayor of South Dublin County"
+    }
+  },
+  {
+    "role_id": "Q54931486",
+    "role_name": {
+      "lang:en": "Mayor of Kildare"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082849",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Kildare"
+    }
+  },
+  {
+    "role_id": "Q54931489",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Laois County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082851",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Laois County Council"
+    }
+  },
+  {
+    "role_id": "Q54931491",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Longford County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082852",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Longford County Council"
+    }
+  },
+  {
+    "role_id": "Q54931493",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Louth County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082853",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Louth County Council"
+    }
+  },
+  {
+    "role_id": "Q54931499",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Meath County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082854",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Meath County Council"
+    }
+  },
+  {
+    "role_id": "Q54931504",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Offaly County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082855",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Offaly County Council"
+    }
+  },
+  {
+    "role_id": "Q54931508",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Westmeath County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082856",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Westmeath County Council"
+    }
+  },
+  {
+    "role_id": "Q54931512",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Wexford County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082857",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Wexford County Council"
+    }
+  },
+  {
+    "role_id": "Q54931516",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Wicklow County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082858",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Wicklow County Council"
+    }
+  },
+  {
+    "role_id": "Q54931534",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Clare County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082859",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Clare County Council"
+    }
+  },
+  {
+    "role_id": "Q54931539",
+    "role_name": {
+      "lang:en": "Mayor of County Cork"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082861",
+    "organization_name": {
+      "lang:en": "office of the Mayor of County Cork"
+    }
+  },
+  {
+    "role_id": "Q54931543",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Kerry County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082862",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Kerry County Council"
+    }
+  },
+  {
+    "role_id": "Q54931555",
+    "role_name": {
+      "lang:en": "Mayor of Waterford"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082867",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Waterford"
+    }
+  },
+  {
+    "role_id": "Q54932334",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Tipperary County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082865",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Tipperary County Council"
+    }
+  },
+  {
+    "role_id": "Q54932335",
+    "role_name": {
+      "lang:en": "Cathaoirleach of County Galway"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082869",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of County Galway"
+    }
+  },
+  {
+    "role_id": "Q54932336",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Leitrim County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082870",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Leitrim County Council"
+    }
+  },
+  {
+    "role_id": "Q54932337",
+    "role_name": {
+      "lang:en": "Cathaoirleach of County Mayo"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082871",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of County Mayo"
+    }
+  },
+  {
+    "role_id": "Q54932338",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Roscommon County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082872",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Roscommon County Council"
+    }
+  },
+  {
+    "role_id": "Q54932339",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Sligo County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082873",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Sligo County Council"
+    }
+  },
+  {
+    "role_id": "Q54932340",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Cavan County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082874",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Cavan County Council"
+    }
+  },
+  {
+    "role_id": "Q54932341",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Donegal County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082879",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Donegal County Council"
+    }
+  },
+  {
+    "role_id": "Q54932342",
+    "role_name": {
+      "lang:en": "Cathaoirleach of Monaghan County Council"
+    },
+    "generic_role_id": "Q54913150",
+    "generic_role_name": {
+      "lang:en": "cathaoirleach"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082881",
+    "organization_name": {
+      "lang:en": "office of the Cathaoirleach of Monaghan County Council"
+    }
+  },
+  {
+    "role_id": "Q54932478",
+    "role_name": {
+      "lang:en": "councillor in Carlow County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931475",
+    "organization_name": {
+      "lang:en": "legislative body of Carlow County Council"
+    }
+  },
+  {
+    "role_id": "Q54932479",
+    "role_name": {
+      "lang:en": "councillor in Dublin City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931477",
+    "organization_name": {
+      "lang:en": "legislative body of Dublin City Council"
+    }
+  },
+  {
+    "role_id": "Q54932481",
+    "role_name": {
+      "lang:en": "councillor in Dún Laoghaire-Rathdown County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931481",
+    "organization_name": {
+      "lang:en": "legislative body of Dún Laoghaire-Rathdown County Council"
+    }
+  },
+  {
+    "role_id": "Q54932482",
+    "role_name": {
+      "lang:en": "councillor in Fingal County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931483",
+    "organization_name": {
+      "lang:en": "legislative body of Fingal County Council"
+    }
+  },
+  {
+    "role_id": "Q54932483",
+    "role_name": {
+      "lang:en": "councillor in South Dublin County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931485",
+    "organization_name": {
+      "lang:en": "legislative body of South Dublin County Council"
+    }
+  },
+  {
+    "role_id": "Q54932484",
+    "role_name": {
+      "lang:en": "councillor in Kildare County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931487",
+    "organization_name": {
+      "lang:en": "legislative body of Kildare County Council"
+    }
+  },
+  {
+    "role_id": "Q54932485",
+    "role_name": {
+      "lang:en": "councillor in Kilkenny County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931488",
+    "organization_name": {
+      "lang:en": "legislative body of Kilkenny County Council"
+    }
+  },
+  {
+    "role_id": "Q54932486",
+    "role_name": {
+      "lang:en": "councillor in Laois County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931490",
+    "organization_name": {
+      "lang:en": "legislative body of Laois County Council"
+    }
+  },
+  {
+    "role_id": "Q54932487",
+    "role_name": {
+      "lang:en": "councillor in Longford County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931492",
+    "organization_name": {
+      "lang:en": "legislative body of Longford County Council"
+    }
+  },
+  {
+    "role_id": "Q54932491",
+    "role_name": {
+      "lang:en": "councillor in Louth County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931494",
+    "organization_name": {
+      "lang:en": "legislative body of Louth County Council"
+    }
+  },
+  {
+    "role_id": "Q54932492",
+    "role_name": {
+      "lang:en": "councillor in Meath County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931502",
+    "organization_name": {
+      "lang:en": "legislative body of Meath County Council"
+    }
+  },
+  {
+    "role_id": "Q54932493",
+    "role_name": {
+      "lang:en": "councillor in Offaly County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931506",
+    "organization_name": {
+      "lang:en": "legislative body of Offaly County Council"
+    }
+  },
+  {
+    "role_id": "Q54932494",
+    "role_name": {
+      "lang:en": "councillor in Westmeath County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931510",
+    "organization_name": {
+      "lang:en": "legislative body of Westmeath County Council"
+    }
+  },
+  {
+    "role_id": "Q54932495",
+    "role_name": {
+      "lang:en": "councillor in Wexford County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931514",
+    "organization_name": {
+      "lang:en": "legislative body of Wexford County Council"
+    }
+  },
+  {
+    "role_id": "Q54932496",
+    "role_name": {
+      "lang:en": "councillor in Wicklow County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931531",
+    "organization_name": {
+      "lang:en": "legislative body of Wicklow County Council"
+    }
+  },
+  {
+    "role_id": "Q54932497",
+    "role_name": {
+      "lang:en": "councillor in Clare County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931536",
+    "organization_name": {
+      "lang:en": "legislative body of Clare County Council"
+    }
+  },
+  {
+    "role_id": "Q54932498",
+    "role_name": {
+      "lang:en": "councillor in Cork City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931538",
+    "organization_name": {
+      "lang:en": "legislative body of Cork City Council"
+    }
+  },
+  {
+    "role_id": "Q54932499",
+    "role_name": {
+      "lang:en": "councillor in Cork County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931541",
+    "organization_name": {
+      "lang:en": "legislative body of Cork County Council"
+    }
+  },
+  {
+    "role_id": "Q54932503",
+    "role_name": {
+      "lang:en": "councillor in Kerry County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931545",
+    "organization_name": {
+      "lang:en": "legislative body of Kerry County Council"
+    }
+  },
+  {
+    "role_id": "Q54932504",
+    "role_name": {
+      "lang:en": "councillor in Limerick City and County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931547",
+    "organization_name": {
+      "lang:en": "legislative body of Limerick City and County Council"
+    }
+  },
+  {
+    "role_id": "Q54932506",
+    "role_name": {
+      "lang:en": "councillor in Tipperary County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931427",
+    "organization_name": {
+      "lang:en": "legislative body of Tipperary County Council"
+    }
+  },
+  {
+    "role_id": "Q54932507",
+    "role_name": {
+      "lang:en": "councillor in Waterford City and County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931556",
+    "organization_name": {
+      "lang:en": "legislative body of Waterford City and County Council"
+    }
+  },
+  {
+    "role_id": "Q54932509",
+    "role_name": {
+      "lang:en": "councillor in Galway City Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931557",
+    "organization_name": {
+      "lang:en": "legislative body of Galway City Council"
+    }
+  },
+  {
+    "role_id": "Q54932511",
+    "role_name": {
+      "lang:en": "councillor in Galway County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931428",
+    "organization_name": {
+      "lang:en": "legislative body of Galway County Council"
+    }
+  },
+  {
+    "role_id": "Q54932512",
+    "role_name": {
+      "lang:en": "councillor in Leitrim County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931429",
+    "organization_name": {
+      "lang:en": "legislative body of Leitrim County Council"
+    }
+  },
+  {
+    "role_id": "Q54932514",
+    "role_name": {
+      "lang:en": "councillor in Mayo County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931430",
+    "organization_name": {
+      "lang:en": "legislative body of Mayo County Council"
+    }
+  },
+  {
+    "role_id": "Q54932515",
+    "role_name": {
+      "lang:en": "councillor in Roscommon County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931431",
+    "organization_name": {
+      "lang:en": "legislative body of Roscommon County Council"
+    }
+  },
+  {
+    "role_id": "Q54932516",
+    "role_name": {
+      "lang:en": "councillor in Sligo County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931432",
+    "organization_name": {
+      "lang:en": "legislative body of Sligo County Council"
+    }
+  },
+  {
+    "role_id": "Q54932517",
+    "role_name": {
+      "lang:en": "councillor in Cavan County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931433",
+    "organization_name": {
+      "lang:en": "legislative body of Cavan County Council"
+    }
+  },
+  {
+    "role_id": "Q54932518",
+    "role_name": {
+      "lang:en": "councillor in Donegal County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931434",
+    "organization_name": {
+      "lang:en": "legislative body of Donegal County Council"
+    }
+  },
+  {
+    "role_id": "Q54932519",
+    "role_name": {
+      "lang:en": "councillor in Monaghan County Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q54931435",
+    "organization_name": {
+      "lang:en": "legislative body of Monaghan County Council"
+    }
+  },
+  {
+    "role_id": "Q654291",
+    "role_name": {
+      "lang:en": "Deputy to the Dáil",
+      "lang:ga": "Teachta Dála"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q651981",
+    "organization_name": {
+      "lang:en": "Dáil Éireann",
+      "lang:ga": "Dáil Éireann"
+    }
+  },
+  {
+    "role_id": "Q6679767",
+    "role_name": {
+      "lang:en": "Lord Mayor of Cork"
+    },
+    "generic_role_id": "Q11902879",
+    "generic_role_name": {
+      "lang:en": "Lord Mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082860",
+    "organization_name": {
+      "lang:en": "office of the Lord Mayor of Cork"
+    }
+  },
+  {
+    "role_id": "Q6797712",
+    "role_name": {
+      "lang:en": "Mayor of Galway"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55082868",
+    "organization_name": {
+      "lang:en": "office of the Mayor of Galway"
+    }
+  }
+]

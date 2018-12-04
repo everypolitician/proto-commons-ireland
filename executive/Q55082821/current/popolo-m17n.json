@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of County Carlow"
+      },
+      "id": "Q55082821",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082821"
+        }
+      ],
+      "area_id": "Q181882"
+    }
   ],
   "areas": [
     {

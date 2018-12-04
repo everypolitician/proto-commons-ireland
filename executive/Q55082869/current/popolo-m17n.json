@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of County Galway"
+      },
+      "id": "Q55082869",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082869"
+        }
+      ],
+      "area_id": "Q169923"
+    }
   ],
   "areas": [
     {

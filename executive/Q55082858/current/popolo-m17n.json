@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of Wicklow County Council"
+      },
+      "id": "Q55082858",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082858"
+        }
+      ],
+      "area_id": "Q182591"
+    }
   ],
   "areas": [
     {

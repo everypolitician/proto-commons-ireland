@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Carlow County Council"
+      },
+      "id": "Q54931475",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931475"
+        }
+      ],
+      "area_id": "Q181882",
+      "seat_counts": {
+        "Q54932478": "18"
+      }
+    }
   ],
   "areas": [
     {

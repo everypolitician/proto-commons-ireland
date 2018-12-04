@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Cathaoirleach of County Mayo"
+      },
+      "id": "Q55082871",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082871"
+        }
+      ],
+      "area_id": "Q178626"
+    }
   ],
   "areas": [
     {

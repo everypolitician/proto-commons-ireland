@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Limerick City and County Council"
+      },
+      "id": "Q54931547",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931547"
+        }
+      ],
+      "area_id": "Q178283",
+      "seat_counts": {
+        "Q54932504": "40"
+      }
+    }
   ],
   "areas": [
     {

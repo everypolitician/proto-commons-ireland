@@ -3,7 +3,20 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "office of the Mayor of Fingal"
+      },
+      "id": "Q55082847",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55082847"
+        }
+      ],
+      "area_id": "Q520000"
+    }
   ],
   "areas": [
     {

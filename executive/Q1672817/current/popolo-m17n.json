@@ -82,10 +82,10 @@
       "organization_id": "Q1672817",
       "area_id": "Q27",
       "start_date": "2017-06-14",
-      "role_superclass_code": "Q191827",
+      "role_superclass_code": "Q14212",
       "role_superclass": {
-        "lang:en": "Taoiseach",
-        "lang:ga": "Taoiseach"
+        "lang:en": "prime minister",
+        "lang:ga": "Príomh-Aire"
       },
       "role_code": "Q191827",
       "role": {

@@ -3,7 +3,23 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "legislative body of Meath County Council"
+      },
+      "id": "Q54931502",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54931502"
+        }
+      ],
+      "area_id": "Q183544",
+      "seat_counts": {
+        "Q54932492": "40"
+      }
+    }
   ],
   "areas": [
     {
