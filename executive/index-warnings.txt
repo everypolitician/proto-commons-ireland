@@ -1,3 +1,7 @@
 WARNING: no executive for President of Ireland (Q213702) in Ireland (Q27)
+WARNING: no head of government position for Ulster (Q93195)
+WARNING: no head of government position for Munster (Q131438)
+WARNING: no head of government position for Leinster (Q159736)
+WARNING: no head of government position for Connacht (Q164421)
 WARNING: no head of government position for County Dublin (Q173500)
 WARNING: no head of government position for  (Q4169280)
