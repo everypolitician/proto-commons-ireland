@@ -2342,17 +2342,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1052201"
+        "value" : "http://www.wikidata.org/entity/Q247135"
       },
       "party_name_ga" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Ceann Comhairle"
+        "value" : "Fine Gael"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ceann Comhairle"
+        "value" : "Fine Gael"
       },
       "statement" : {
         "type" : "uri",
@@ -5747,6 +5747,104 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-03-10T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-22T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23006332-87f1854d-42bd-a03d-6e5c-53c15a3d074b"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7079018"
+      },
+      "district_name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Uíbh Fhailí"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Offaly"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q654291"
+      },
+      "role_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Teachta Dála"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deputy to the Dáil"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23006332"
+      },
+      "name_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Carol Nolan"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carol Nolan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q651981"
+      },
+      "org_ga" : {
+        "xml:lang" : "ga",
+        "type" : "literal",
+        "value" : "Dáil Éireann"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dáil Éireann"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "158"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-22T00:00:00Z"
       }
     }, {
       "party" : {
@@ -14372,17 +14470,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q216517"
+        "value" : "http://www.wikidata.org/entity/Q1052201"
       },
       "party_name_ga" : {
         "xml:lang" : "ga",
         "type" : "literal",
-        "value" : "Fianna Fáil"
+        "value" : "Ceann Comhairle"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Fianna Fáil"
+        "value" : "Ceann Comhairle"
       },
       "statement" : {
         "type" : "uri",

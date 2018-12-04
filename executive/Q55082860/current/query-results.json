@@ -80,6 +80,10 @@
         "xml:lang" : "ga",
         "type" : "literal",
         "value" : "Deirdre Clune"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "deirdreclunemep"
       }
     } ]
   }
